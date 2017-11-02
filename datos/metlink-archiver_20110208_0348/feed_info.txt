@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_timezone,feed_lang,feed_version
+Greater Wellington Regional Council,http://metlink.org.nz,Pacific/Auckland,en,20110207

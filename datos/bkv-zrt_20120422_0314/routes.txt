@@ -1,0 +1,319 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+HP61,BKV,H8H,,"Kistarcsa, kórház H / Gödöllő H",3,1188FF,000000
+HP611,BKV,H8,,"Örs vezér tere M+H / Cinkota H",3,1188FF,000000
+HP612,BKV,H8,,"Auchan Liget / Gödöllő H",3,1188FF,000000
+HP614,BKV,H8HE,,"Kistarcsa, kórház H / Gödöllő H",3,1188FF,000000
+HP615,BKV,H9,,"Örs vezér tere M+H / Csömör H",3,1188FF,000000
+HP621,BKV,H6,,"Szigetszentmiklós, gyártelep / Ráckeve H",3,1188FF,000000
+HP622,BKV,H6,,"Szigetszentmiklós, gyártelep / Tököl",3,1188FF,000000
+HP625,BKV,H6,,"Szigetszentmiklós, gyártelep / Ráckeve H",3,1188FF,000000
+VP06,BKV,6V,,"Móricz Zsigmond körtér / Széll Kálmán tér M",3,1188FF,000000
+V2837,BKV,28-37V,,"Kőbánya alsó vasútállomás / Új köztemető",3,1188FF,000000
+0050,BKV,5,,"Pasaréti tér / Rákospalota, Kossuth utca",3,1188FF,000000
+0070,BKV,7,,"Bosnyák tér / Albertfalva vasútállomás",3,1188FF,000000
+0075,BKV,7E,,"Kelenföldi pályaudvar / Bosnyák tér",3,1188FF,000000
+0080,BKV,8,,"Uránia / Gazdagréti tér",3,1188FF,000000
+0090,BKV,9,,"Kőbánya alsó vasútállomás / Deák Ferenc tér M",3,1188FF,000000
+0110,BKV,11,,"Batthyány tér M+H / Nagybányai út",3,1188FF,000000
+0130,BKV,13,,"Budatétény vasútállomás (Campona) / Diósd, Búzavirág utca",3,1188FF,000000
+0131,BKV,13A,,"Budatétény vasútállomás (Campona) / Diósd, Sashegyi út",3,1188FF,000000
+0150,BKV,15,,"Boráros tér H / Lehel tér M",3,1188FF,000000
+0160,BKV,16,,"Széll Kálmán tér M / Deák Ferenc tér M",3,1188FF,000000
+0161,BKV,16A,,"Széll Kálmán tér M / Dísz tér",3,1188FF,000000
+0205,BKV,20E,,"Káposztásmegyer, Szilas-patak / Keleti pályaudvar M",3,1188FF,000000
+0210,BKV,21,,"Széll Kálmán tér M / Csillebérc, KFKI",3,1188FF,000000
+0211,BKV,21A,,"Széll Kálmán tér M / Normafa",3,1188FF,000000
+0220,BKV,22,,"Széll Kálmán tér M / Budakeszi, Táncsics Mihály utca",3,1188FF,000000
+0225,BKV,22E,,"Széll Kálmán tér M / Budakeszi, Táncsics Mihály utca",3,1188FF,000000
+0230,BKV,23,,"Boráros tér H / Pesterzsébet, Ady Endre tér",3,1188FF,000000
+0235,BKV,23E,,"Boráros tér H / Pesterzsébet, Ady Endre tér",3,1188FF,000000
+0250,BKV,25,,"Mexikói út M / Újpest-Központ M",3,1188FF,000000
+0260,BKV,26,,"Nyugati pályaudvar M / Árpád híd M",3,1188FF,000000
+0270,BKV,27,,"Sánc utca / Móricz Zsigmond körtér",3,1188FF,000000
+0290,BKV,29,,"Szentlélek tér H / Hűvösvölgy",3,1188FF,000000
+0300,BKV,30,,"Keleti pályaudvar M / Káposztásmegyer, Mogyoródi-patak",3,1188FF,000000
+0301,BKV,30A,,"Keleti pályaudvar M / Megyer, Szondi utca",3,1188FF,000000
+0310,BKV,31,,"Örs vezér tere M+H / Árpádföld, Bekecs utca",3,1188FF,000000
+0320,BKV,32,,"Árpád híd M / Örs vezér tere M+H",3,1188FF,000000
+0330,BKV,33,,"Móricz Zsigmond körtér / Nagytétény, Chinoin",3,1188FF,000000
+0335,BKV,33E,,"Móricz Zsigmond körtér / Nagytétény vasútállomás",3,1188FF,000000
+0337,BKV,33,,"Móricz Zsigmond körtér / Harbor Park",3,1188FF,000000
+0340,BKV,34,,"Árpád híd M / Békásmegyer, Újmegyeri tér",3,1188FF,000000
+0350,BKV,35,,"Csepel, Csillagtelep / Szentlőrinci úti lakótelep",3,1188FF,000000
+0360,BKV,36,,"Pestszentlőrinc vasútállomás / Csepel, Csillagtelep",3,1188FF,000000
+0380,BKV,38,,"Csepel, Szent Imre tér / Lakihegy, Cseresznyés utca",3,1188FF,000000
+0390,BKV,39,,"Batthyány tér M+H / Goldmark Károly utca",3,1188FF,000000
+0400,BKV,40,,"Móricz Zsigmond körtér / Budaörsi lakótelep",3,1188FF,000000
+0405,BKV,40E,,"Móricz Zsigmond körtér / Budaörs, Patkó utca",3,1188FF,000000
+0440,BKV,44,,"Örs vezér tere M+H / Budapesti út",3,1188FF,000000
+0450,BKV,45,,"Örs vezér tere M+H / Cinkota, Lassú utca",3,1188FF,000000
+0460,BKV,46,,"Újpalota, Nyírpalota út / Rákoskeresztúr, városközpont",3,1188FF,000000
+0530,BKV,53,,"Újbuda-központ / Mindszenty József bíboros tér",3,1188FF,000000
+0540,BKV,54,,"Boráros tér H / Pestszentimre, Ültetvény utca",3,1188FF,000000
+0550,BKV,55,,"Boráros tér H / Gyál, Vecsési út",3,1188FF,000000
+0570,BKV,57,,"Hűvösvölgy / Hűvösvölgy",3,1188FF,000000
+0580,BKV,58,,"Savoya Park / Balatoni út (Háros utca)",3,1188FF,000000
+0630,BKV,63,,"Hűvösvölgy / Nagykovácsi, Tisza István tér",3,1188FF,000000
+0640,BKV,64,,"Hűvösvölgy / Solymár, Templom tér",3,1188FF,000000
+0650,BKV,65,,"Kolosy tér / Fenyőgyöngye",3,1188FF,000000
+0660,BKV,66,,"Határ út M / Soroksár, BILK",3,1188FF,000000
+0665,BKV,66E,,"Határ út M / Soroksár, BILK",3,1188FF,000000
+0670,BKV,67,,"Örs vezér tere M+H / Rákoskeresztúr, Aranylúd utca",3,1188FF,000000
+0680,BKV,68,,"Kispest, Vas Gereben utca / Akadémiaújtelep, 525. tér",3,1188FF,000000
+0710,BKV,71,,"Csepel, Szent Imre tér / Csepel, Horgásztanya",3,1188FF,000000
+0845,BKV,84E,,"Határ út M / Gyál, Deák Ferenc utca",3,1188FF,000000
+0850,BKV,85,,"Kőbánya-Kispest M - Új végállomás / Örs vezér tere M+H",3,1188FF,000000
+0855,BKV,85E,,"Örs vezér tere M+H / Kőbánya-Kispest M - Új végállomás",3,1188FF,000000
+0860,BKV,86,,"Újbuda, Függetlenségi park / Óbuda, Bogdáni út",3,1188FF,000000
+0870,BKV,87,,"Kosztolányi Dezső tér / Mechanikai Művek",3,1188FF,000000
+0871,BKV,87A,,"Kosztolányi Dezső tér / Kamaraerdő",3,1188FF,000000
+0880,BKV,88,,"Kamaraerdő / Törökbálint, Munkácsy Mihály utca",3,1188FF,000000
+0895,BKV,89E,,"Határ út M / Gyál, Bem József utca",3,1188FF,000000
+0910,BKV,91,,"Nyugati pályaudvar M / Széll Kálmán tér M",3,1188FF,000000
+0920,BKV,92,,"Rákosszentmihály vasútállomás / Kistarcsa, kórház H",3,1188FF,000000
+0930,BKV,93,,"Kőbánya-Kispest M - Új végállomás / Liszt Ferenc Airport 1",3,1188FF,000000
+0945,BKV,94E,,"Határ út M / Gyál, Vecsési út",3,1188FF,000000
+0950,BKV,95,,"Puskás Ferenc Stadion M / Pestszentlőrinc, Gyömrői út",3,1188FF,000000
+0960,BKV,96,,"Újpalota, Szentmihályi út / Újpest, Fóti út",3,1188FF,000000
+0975,BKV,97E,,"Örs vezér tere M+H / Rákoskert sugárút",3,1188FF,000000
+0980,BKV,98,,"Kőbánya-Kispest M - Új végállomás / Rákoscsaba vasútállomás",3,1188FF,000000
+0985,BKV,98E,,"Kőbánya-Kispest M - Új végállomás / Rákoshegy vasútállomás",3,1188FF,000000
+0990,BKV,99,,"Blaha Lujza tér M / Pesterzsébet, Mátyás király tér",3,1188FF,000000
+1000,BKV,100,,"Örs vezér tere M+H / Örs vezér tere M+H",3,1188FF,000000
+1020,BKV,102,,"Szendrő utca / Széll Kálmán tér M",3,1188FF,000000
+1030,BKV,103,,"Kelenföldi pályaudvar / Népliget M",3,1188FF,000000
+1040,BKV,104,,"Rákospalota, Kossuth utca / Dunakeszi, Auchan áruház",3,1188FF,000000
+1041,BKV,104A,,"Rákospalota, Kossuth utca / Székesdűlő, ipartelep",3,1188FF,000000
+1050,BKV,105,,"Apor Vilmos tér / Gyöngyösi utca M",3,1188FF,000000
+1060,BKV,106,,"Árpád híd M / Római úti lakótelep, Varsa utca",3,1188FF,000000
+1090,BKV,109,,"Kőbánya alsó vasútállomás / Óbuda, Bogdáni út",3,1188FF,000000
+1110,BKV,111,,"Batthyány tér M+H / Kolosy tér",3,1188FF,000000
+1120,BKV,112,,"Uránia / Szendrő utca",3,1188FF,000000
+1130,BKV,113,,"Budatétény vasútállomás (Campona) / Diósd, Sashegyi út",3,1188FF,000000
+1131,BKV,113A,,"Budatétény vasútállomás (Campona) / Nagytétény, Angeli utca",3,1188FF,000000
+1140,BKV,114,,"Kosztolányi Dezső tér / Baross Gábor-telep, Ispiláng utca",3,1188FF,000000
+1150,BKV,115,,"Boráros tér H / Árpád híd M",3,1188FF,000000
+1160,BKV,116,,"Fény utcai piac / Dísz tér",3,1188FF,000000
+1170,BKV,117,,"Kőbánya alsó vasútállomás / Mélytó utca",3,1188FF,000000
+1180,BKV,118,,"Szentlélek tér H / Óbuda vasútállomás",3,1188FF,000000
+1190,BKV,119,,"Gubacsi út / Zodony utca",3,1188FF,000000
+1200,BKV,120,,"Árpád híd M / Újpest-Központ M",3,1188FF,000000
+1210,BKV,121,,"Rákospalota-Újpest vasútállomás / Újpest-Városkapu M",3,1188FF,000000
+1220,BKV,122,,"Újpest-Városkapu M / Káposztásmegyer, Mogyoródi-patak",3,1188FF,000000
+1230,BKV,123,,"Soroksár, Auchan áruház / Határ út M",3,1188FF,000000
+1231,BKV,123A,,"Szentlőrinci úti lakótelep / Határ út M",3,1188FF,000000
+1240,BKV,124,,"Bosnyák tér / Rákospalota, Bogáncs utca",3,1188FF,000000
+1250,BKV,125,,"Bosnyák tér / Rákospalota, MEDIMPEX",3,1188FF,000000
+1260,BKV,126,,"Káposztásmegyer, Szilas-patak / Dunakeszi, Auchan áruház",3,1188FF,000000
+1261,BKV,126A,,"Káposztásmegyer, Szilas-patak / Káposztásmegyer, Mogyoródi-patak",3,1188FF,000000
+1280,BKV,128,,"Széll Kálmán tér M / Városkúti út",3,1188FF,000000
+1290,BKV,129,,"Széll Kálmán tér M / Széher út",3,1188FF,000000
+1300,BKV,130,,"Puskás Ferenc Stadion M / Újpalota, Sárfű utca",3,1188FF,000000
+1310,BKV,131,,"Örs vezér tere M+H / Kisszentmihály, Baross utca",3,1188FF,000000
+1330,BKV,133,,"Lehel tér M / Árpád híd M",3,1188FF,000000
+1340,BKV,134,,"Szentlélek tér H / Békásmegyer, Újmegyeri tér",3,1188FF,000000
+1365,BKV,136E,,"Kőbánya-Kispest M - Új végállomás / Fiatalság utca",3,1188FF,000000
+1370,BKV,137,,"Szentlélek tér H / Máramaros út vá.",3,1188FF,000000
+1380,BKV,138,,"Csepel, Szent Imre tér / Budatétény vasútállomás (Campona)",3,1188FF,000000
+1390,BKV,139,,"Széll Kálmán tér M / Gazdagréti tér",3,1188FF,000000
+1400,BKV,140,,"Budaörsi lakótelep / Törökbálint, bevásárlóközpont",3,1188FF,000000
+1410,BKV,141,,"Kelenföldi pályaudvar / Balatoni út (Háros utca)",3,1188FF,000000
+1430,BKV,143,,"Békásmegyer H / Pince köz",3,1188FF,000000
+1440,BKV,144,,"Örs vezér tere M+H / Rákosszentmihály, Csömöri út",3,1188FF,000000
+1460,BKV,146,,"Újpalota, Nyírpalota út / Rákoskeresztúr, városközpont",3,1188FF,000000
+1461,BKV,146A,,"Cinkotai autóbuszgarázs / Rákoskeresztúr, városközpont",3,1188FF,000000
+1470,BKV,147,,"Újpest-Központ M / Megyer, Julianus barát utca",3,1188FF,000000
+1480,BKV,148,,"Kőbánya-Kispest M - Új végállomás / Csepel, Soroksári rév",3,1188FF,000000
+1490,BKV,149,,"Fenyves utca / Széll Kálmán tér M",3,1188FF,000000
+1500,BKV,150,,"Újbuda-központ / Budatétény vasútállomás (Campona)",3,1188FF,000000
+1505,BKV,150E,,"Újbuda-központ / Őrmezői lakótelep, Menyecske utca",3,1188FF,000000
+1510,BKV,151,,"Csepel, Határ utca / Kőbánya alsó vasútállomás",3,1188FF,000000
+1520,BKV,152,,"Csepel, Szent Imre tér / Csepel, Királyerdő út",3,1188FF,000000
+1530,BKV,153,,"Gazdagréti tér / Móricz Zsigmond körtér",3,1188FF,000000
+1550,BKV,155,,"Széll Kálmán tér M / Zugligeti út",3,1188FF,000000
+1560,BKV,156,,"Dániel út / Széll Kálmán tér M",3,1188FF,000000
+1570,BKV,157,,"Hűvösvölgy / Budaliget, Géza fejedelem útja",3,1188FF,000000
+1590,BKV,159,,"Csepel, Szent Imre tér / Szent László utcai lakótelep",3,1188FF,000000
+1600,BKV,160,,"Batthyány tér M+H / Békásmegyer H",3,1188FF,000000
+1610,BKV,161,,"Örs vezér tere M+H / Kucorgó tér",3,1188FF,000000
+1611,BKV,161A,,"Örs vezér tere M+H / Rákoskeresztúr, Kis utcai lakótelep",3,1188FF,000000
+1620,BKV,162,,"Kőbánya alsó vasútállomás / Maglód, Auchan áruház",3,1188FF,000000
+1621,BKV,162A,,"Kőbánya alsó vasútállomás / Rákoskeresztúr, vkp. (metró felé)",3,1188FF,000000
+1640,BKV,164,,"Hűvösvölgy / Solymár, PEMÜ",3,1188FF,000000
+1650,BKV,165,,"Kolosy tér / Remetehegyi út",3,1188FF,000000
+1660,BKV,166,,"Ferihegy vasútállomás / Gubacsi út",3,1188FF,000000
+1661,BKV,166A,,"Ferihegy vasútállomás / Pestszentimre vasútállomás (Vasút utca)",3,1188FF,000000
+1685,BKV,168E,,"Örs vezér tere M+H / Rákoshegy, Ferihegyi út",3,1188FF,000000
+1695,BKV,169E,,"Örs vezér tere M+H / Pécel, Kun József utca",3,1188FF,000000
+1700,BKV,170,,"Újpest-Központ M / Rákospalota, Csömöri-patak",3,1188FF,000000
+1725,BKV,172E,,"Kosztolányi Dezső tér / Törökbálint, Munkácsy Mihály utca",3,1188FF,000000
+1730,BKV,173,,"Bornemissza tér vá. / Újpalota, Nyírpalota út",3,1188FF,000000
+1735,BKV,173E,,"Kelenföldi pályaudvar / Újpalota, Nyírpalota út",3,1188FF,000000
+1738,BKV,173,,"Cinkotai autóbuszgarázs / Újpalota, Nyírpalota út",3,1188FF,000000
+1740,BKV,174,,"Örs vezér tere M+H / Cinkota H",3,1188FF,000000
+1750,BKV,175,,"Újpalota, Szentmihályi út / Cinkota H",3,1188FF,000000
+1765,BKV,176E,,"Örs vezér tere M+H / Rákoscsaba-Újtelep, Tóalmás utca",3,1188FF,000000
+1780,BKV,178,,"Naphegy tér / Keleti pályaudvar M",3,1188FF,000000
+1790,BKV,179,,"Vágóhíd H / Csepel, Szent Imre tér",3,1188FF,000000
+1810,BKV,181,,"Aszódi utca / József Attila ltp., Távíró utca",3,1188FF,000000
+1820,BKV,182,,"Kőbánya-Kispest M / Alacskai úti lakótelep",3,1188FF,000000
+1830,BKV,183,,"Pestszentlőrinc, Szarvas csárda tér / Szemeretelep vasútállomás",3,1188FF,000000
+1840,BKV,184,,"Kőbánya-Kispest M - Új végállomás / Pestszentimre, Benjámin utca",3,1188FF,000000
+1850,BKV,185,,"Kőbánya alsó vasútállomás / Újhegyi út, Sportliget",3,1188FF,000000
+1860,BKV,186,,"Békásmegyer H / Donát utca",3,1188FF,000000
+1870,BKV,187,,"Kosztolányi Dezső tér / Kamaraerdő",3,1188FF,000000
+1885,BKV,188E,,"Móricz Zsigmond körtér / Budaörsi Ipari és Technológiai Park",3,1188FF,000000
+1910,BKV,191,,"Nyugati pályaudvar M / Sarolta utca",3,1188FF,000000
+1935,BKV,193E,,"Kőbánya-Kispest M - Új végállomás / Pestszentlőrinc, Mednyánszky utca",3,1188FF,000000
+1940,BKV,194,,"Határ út M / Gloriett lakótelep",3,1188FF,000000
+1960,BKV,196,,"Újpalota, Szentmihályi út / Újpest, Fóti út",3,1188FF,000000
+1961,BKV,196A,,"Újpalota, Szentmihályi út / Újpest-Városkapu M",3,1188FF,000000
+1970,BKV,197,,"Rákoskert vasútállomás / Rákoskert vasútállomás",3,1188FF,000000
+1980,BKV,198,,"Dél-pesti autóbuszgarázs / Rákoscsaba-Újtelep, Tóalmás utca",3,1188FF,000000
+1990,BKV,199,,"Határ út M / Áchim András utca",3,1188FF,000000
+2005,BKV,200E,,"Kőbánya-Kispest M - Új végállomás / Liszt Ferenc Airport 2",3,1188FF,000000
+2015,BKV,201E,,"Kőbánya-Kispest M - Új végállomás / Kucorgó tér",3,1188FF,000000
+2025,BKV,202E,,"Kőbánya-Kispest M - Új végállomás / Kucorgó tér",3,1188FF,000000
+2030,BKV,203,,"Neumann János utca / Móricz Zsigmond körtér",3,1188FF,000000
+2031,BKV,203A,,"Neumann János utca / Petőfi híd, budai hídfő",3,1188FF,000000
+2040,BKV,204,,"Rákospalota, Kossuth utca / Békásmegyer H",3,1188FF,000000
+2060,BKV,206,,"Nyugati pályaudvar M / Óbuda, Bogdáni út",3,1188FF,000000
+2120,BKV,212,,"Boráros tér H / Svábhegy, fogaskerekű",3,1188FF,000000
+2130,BKV,213,,"Kosztolányi Dezső tér / Baross Gábor-telep, Török utca",3,1188FF,000000
+2140,BKV,214,,"Kosztolányi Dezső tér / Baross Gábor-telep, Ispiláng utca",3,1188FF,000000
+2170,BKV,217,,"Kőbánya alsó vasútállomás / Pestszentlőrinc, Szarvas csárda tér",3,1188FF,000000
+2175,BKV,217E,,"Blaha Lujza tér M / Pestszentlőrinc, Szarvas csárda tér",3,1188FF,000000
+2180,BKV,218,,"Szentlélek tér H / Solymár, Auchan áruház",3,1188FF,000000
+2187,BKV,218,,"Szentlélek tér H / Solymár, Auchan áruház",3,1188FF,000000
+2200,BKV,220,,"Újpest-Központ M / Újpest, Erdősor út",3,1188FF,000000
+2220,BKV,222,,"Széll Kálmán tér M / Budakeszi, Honfoglalás sétány",3,1188FF,000000
+2240,BKV,224,,"Újpalota, Pólus Center / Újpalota, Pólus Center",3,1188FF,000000
+2250,BKV,225,,"Mexikói út M / Rákospalota, Székely Elek út",3,1188FF,000000
+2300,BKV,230,,"Keleti pályaudvar M / Megyer, Aquaworld",3,1188FF,000000
+2310,BKV,231,,"Örs vezér tere M+H / Rákospalota, Széchenyi tér",3,1188FF,000000
+2335,BKV,233E,,"Budatétény vasútállomás (Campona) / Uránia",3,1188FF,000000
+2370,BKV,237,,"Szentlélek tér H / Jablonka út",3,1188FF,000000
+2390,BKV,239,,"Uránia / Gazdagréti tér",3,1188FF,000000
+2400,BKV,240,,"Móricz Zsigmond körtér / Budaörsi lakótelep",3,1188FF,000000
+2405,BKV,240E,,"Móricz Zsigmond körtér / Budaörsi lakótelep",3,1188FF,000000
+2430,BKV,243,,"Békásmegyer H / Pince köz",3,1188FF,000000
+2440,BKV,244,,"Örs vezér tere M+H / Centenáriumi ltp.(Margit utca)",3,1188FF,000000
+2500,BKV,250,,"Újbuda-központ / Savoya Park",3,1188FF,000000
+2501,BKV,250A,,"Arany János utcai lakótelep / Savoya Park",3,1188FF,000000
+2510,BKV,251,,"Budafok, Városház tér / Budafok, Vincellér út",3,1188FF,000000
+2545,BKV,254E,,"Népliget M / Alacskai úti lakótelep",3,1188FF,000000
+2570,BKV,257,,"Hűvösvölgy / Hűvösvölgy",3,1188FF,000000
+2600,BKV,260,,"Batthyány tér M+H / Kocsis Sándor út",3,1188FF,000000
+2615,BKV,261E,,"Örs vezér tere M+H / Rákoskeresztúr, városközpont",3,1188FF,000000
+2620,BKV,262,,"Kőbánya alsó vasútállomás / Erzsébet körút",3,1188FF,000000
+2660,BKV,266,,"Ferihegy vasútállomás / Pestszentimre vasútállomás (Vasút utca)",3,1188FF,000000
+2720,BKV,272,,"Törökbálint, Munkácsy Mihály utca / Kosztolányi Dezső tér",3,1188FF,000000
+2765,BKV,276E,,"Örs vezér tere M+H / Rákoscsaba-Újtelep, Naplás út",3,1188FF,000000
+2770,BKV,277,,"Örs vezér tere M+H / Bosnyák tér",3,1188FF,000000
+2810,BKV,281,,"Aszódi utca / Aszódi utca",3,1188FF,000000
+2825,BKV,282E,,"Kőbánya-Kispest M / Alacskai úti lakótelep",3,1188FF,000000
+2845,BKV,284E,,"Kőbánya-Kispest M - Új végállomás / Pestszentimre, Benjámin utca",3,1188FF,000000
+2910,BKV,291,,"Nyugati pályaudvar M / Zugliget, Libegő",3,1188FF,000000
+2945,BKV,294E,,"Határ út M / Gyál, Vecsési út",3,1188FF,000000
+2960,BKV,296,,"Újpalota, Szentmihályi út / Káposztásmegyer, Szilas-patak",3,1188FF,000000
+3010,BKV,1,,"Lágymányosi híd, pesti hídfő H / Bécsi út (Vörösvári út)",0,FFEE00,000000
+3011,BKV,1A,,"Népliget M / Bécsi út (Vörösvári út)",0,FFEE00,000000
+3020,BKV,2,,"Jászai Mari tér / Vágóhíd H",0,FFEE00,000000
+3021,BKV,2A,,"Jászai Mari tér / Boráros tér H",0,FFEE00,000000
+3027,BKV,2N,,"Széll Kálmán tér M / Boráros tér H",0,FFEE00,000000
+3030,BKV,3,,"Gubacsi út / Mexikói út M",0,FFEE00,000000
+3040,BKV,4,,"Újbuda-központ / Széll Kálmán tér M",0,FFEE00,000000
+3060,BKV,6,,"Móricz Zsigmond körtér / Széll Kálmán tér M",0,FFEE00,000000
+3120,BKV,12,,"Rákospalota, Kossuth utca / Angyalföld kocsiszín",0,FFEE00,000000
+3140,BKV,14,,"Káposztásmegyer, Megyeri út / Lehel tér M",0,FFEE00,000000
+3147,BKV,14N,,"Lehel tér M / Angyalföld kocsiszín",0,FFEE00,000000
+3170,BKV,17,,"Bécsi út (Vörösvári út) / Margit híd, budai hídfő H",0,FFEE00,000000
+3180,BKV,18,,"Széll Kálmán tér M / Savoya Park",0,FFEE00,000000
+3190,BKV,19,,"Kelenföldi pályaudvar / Batthyány tér M+H",0,FFEE00,000000
+3240,BKV,24,,"Keleti pályaudvar M / Vágóhíd H",0,FFEE00,000000
+3280,BKV,28,,"Blaha Lujza tér M / Élessarok",0,FFEE00,000000
+3281,BKV,28A,,"Blaha Lujza tér M / Új köztemető (Kozma utca)",0,FFEE00,000000
+3370,BKV,37,,"Blaha Lujza tér M / Élessarok",0,FFEE00,000000
+3371,BKV,37A,,"Blaha Lujza tér M / Sörgyár",0,FFEE00,000000
+3410,BKV,41,,"Batthyány tér M+H / Kamaraerdei Ifjúsági Park",0,FFEE00,000000
+3420,BKV,42,,"Határ út M / Kispest, Tulipán utca",0,FFEE00,000000
+3470,BKV,47,,"Budafok, Városház tér / Deák Ferenc tér M",0,FFEE00,000000
+3490,BKV,49,,"Kelenföldi pályaudvar / Deák Ferenc tér M",0,FFEE00,000000
+3497,BKV,49N,,"Batthyány tér M+H / Deák Ferenc tér M",0,FFEE00,000000
+3500,BKV,50,,"Határ út M / Pestszentlőrinc, Béke tér",0,FFEE00,000000
+3507,BKV,50N,,"Határ út M / Határ út M",0,FFEE00,000000
+3510,BKV,51,,"Mester utca (Ferenc körút) / Nagysándor József utca",0,FFEE00,000000
+3511,BKV,51A,,"Mester utca (Ferenc körút) / Ferencváros vasútállomás",0,FFEE00,000000
+3520,BKV,52,,"Határ út M / Pesterzsébet, Pacsirtatelep",0,FFEE00,000000
+3590,BKV,59,,"Szent János Kórház / Farkasrét, Márton Áron tér",0,FFEE00,000000
+3591,BKV,59A,,"Széll Kálmán tér M / Farkasrét, Márton Áron tér",0,FFEE00,000000
+3600,BKV,60,,"Városmajor / Széchenyi-hegy, Gyermekvasút",0,FF1818,000000
+3610,BKV,61,,"Móricz Zsigmond körtér / Hűvösvölgy",0,FFEE00,000000
+3620,BKV,62,,"Rákospalota, MÁV-telep / Blaha Lujza tér M",0,FFEE00,000000
+3621,BKV,62A,,"Rákospalota, MÁV-telep / Kőbánya alsó vasútállomás (Mázsa tér)",0,FFEE00,000000
+3690,BKV,69,,"Újpalota, Erdőkerülő utca / Mexikói út M",0,FFEE00,000000
+3697,BKV,69N,,"Újpalota, Erdőkerülő utca / Mexikói út M",0,FFEE00,000000
+4700,BKV,70,,"Erzsébet királyné útja, aluljáró / Kossuth Lajos tér M",3,FF1818,000000
+4720,BKV,72,,"Arany János utca M / Zugló vasútállomás (Hermina út)",3,FF1818,000000
+4730,BKV,73,,"Arany János utca M / Keleti pályaudvar M",3,FF1818,000000
+4740,BKV,74,,"Csáktornya park / Károly körút (Astoria M)",3,FF1818,000000
+4741,BKV,74A,,"Csáktornya park / Mexikói út M",3,FF1818,000000
+4750,BKV,75,,"Puskás Ferenc Stadion M / Jászai Mari tér",3,FF1818,000000
+4760,BKV,76,,"Keleti pályaudvar M / Jászai Mari tér",3,FF1818,000000
+4770,BKV,77,,"Puskás Ferenc Stadion M / Öv utca (Egressy út)",3,FF1818,000000
+4780,BKV,78,,"Keleti pályaudvar M / Kossuth Lajos tér M",3,FF1818,000000
+4790,BKV,79,,"Keleti pályaudvar M / Dózsa György út M",3,FF1818,000000
+4800,BKV,80,,"Örs vezér tere M+H / Keleti pályaudvar M",3,FF1818,000000
+4801,BKV,80A,,"Csertő utca / Keleti pályaudvar M",3,FF1818,000000
+4810,BKV,81,,"Örs vezér tere M+H / Fogarasi út",3,FF1818,000000
+4820,BKV,82,,"Örs vezér tere M+H / Uzsoki Utcai Kórház",3,FF1818,000000
+4830,BKV,83,,"Orczy tér / Kálvin tér M",3,FF1818,000000
+5100,BKV,M1,,"Mexikói út M / Vörösmarty tér",1,FFAA00,000000
+5200,BKV,M2,,"Örs vezér tere M+H / Déli pályaudvar M",1,CC0000,FFFFFF
+5300,BKV,M3,,"Kőbánya-Kispest M / Újpest-Központ M",1,0000FF,FFFFFF
+6100,BKV,H8,"Gödöllői járat","Örs vezér tere M+H / Gödöllő",2,D36E70,FFFFFF
+6130,BKV,H8,"Cinkotai járat","Örs vezér tere M+H / Cinkota H",2,D36E70,FFFFFF
+6150,BKV,H9,"Csömöri járat","Örs vezér tere M+H / Csömör, 2. vágány",2,D36E70,FFFFFF
+6200,BKV,H6,"Ráckevei járat","Vágóhíd H / Ráckeve 2. vágány",2,955F20,FFFFFF
+6210,BKV,H6,"Tököli járat","Vágóhíd H / Tököl",2,955F20,FFFFFF
+6230,BKV,H6,"Dunaharaszti járat","Vágóhíd H / Dunaharaszti külső",2,955F20,FFFFFF
+6300,BKV,H7,"Csepeli járat","Boráros tér H / Csepel, 2. vágány",2,EC7C26,FFFFFF
+6400,BKV,H5,"Szentendrei járat","Batthyány tér M+H / Szentendre",2,A03472,FFFFFF
+6470,BKV,H5,"Békásmegyeri járat","Batthyány tér M+H / Békásmegyer H",2,A03472,FFFFFF
+9000,BKV,900,,"Dél-pesti autóbuszgarázs / Liszt Ferenc Airport 2",3,333333,FFFFFF
+9010,BKV,901,,"Bécsi út (Vörösvári út) / Vágóhíd H",3,333333,FFFFFF
+9070,BKV,907,,"Örs vezér tere M+H / Kelenföldi pályaudvar",3,333333,FFFFFF
+9080,BKV,908,,"Móricz Zsigmond körtér / Cinkotai autóbuszgarázs",3,333333,FFFFFF
+9090,BKV,909,,"Deák Ferenc tér M / Kispest, Kossuth tér",3,333333,FFFFFF
+9140,BKV,914,,"Káposztásmegyer, Mogyoródi-patak / Dél-pesti autóbuszgarázs",3,333333,FFFFFF
+9141,BKV,914A,,"Újpest-Központ M / Határ út M",3,333333,FFFFFF
+9180,BKV,918,,"Kelenföldi pályaudvar / Óbudai autóbuszgarázs",3,333333,FFFFFF
+9220,BKV,922,,"Széll Kálmán tér M / Budakeszi, Táncsics Mihály utca",3,333333,FFFFFF
+9230,BKV,923,,"Békásmegyer H / Dél-pesti autóbuszgarázs",3,333333,FFFFFF
+9300,BKV,930,,"Újpest-Központ M / Megyer, Szondi utca",3,333333,FFFFFF
+9310,BKV,931,,"Csatárka út / Árpádföld, Dezsőfia utca",3,333333,FFFFFF
+9370,BKV,937,,"Vágóhíd H / Bécsi út (Vörösvári út)",3,333333,FFFFFF
+9380,BKV,938,,"Csepel, Szent Imre tér / Lakihegy, Cseresznyés utca",3,333333,FFFFFF
+9400,BKV,940,,"Móricz Zsigmond körtér / Budaörsi lakótelep",3,333333,FFFFFF
+9410,BKV,941,,"Móricz Zsigmond körtér / Budatétény vasútállomás (Campona)",3,333333,FFFFFF
+9430,BKV,943,,"Békásmegyer H / Szentendre H",3,333333,FFFFFF
+9480,BKV,948,,"Dél-pesti autóbuszgarázs / Csepel, Hollandi út",3,333333,FFFFFF
+9500,BKV,950,,"Rákospalota, Kossuth utca / Pestszentimre vasútállomás",3,333333,FFFFFF
+9501,BKV,950A,,"Pestszentimre vasútállomás / Rákospalota, Kossuth utca",3,333333,FFFFFF
+9560,BKV,956,,"Hűvösvölgy / Pécel, Kun József utca",3,333333,FFFFFF
+9600,BKV,960,,"Móricz Zsigmond körtér / Békásmegyer, Újmegyeri tér",3,333333,FFFFFF
+9630,BKV,963,,"Hűvösvölgy / Nagykovácsi, Tisza István tér",3,333333,FFFFFF
+9660,BKV,966,,"Határ út M / Soroksár, Millenniumtelep",3,333333,FFFFFF
+9680,BKV,968,,"Cinkotai autóbuszgarázs / Kispest, Kossuth tér",3,333333,FFFFFF
+9720,BKV,972,,"Móricz Zsigmond körtér / Törökbálint, Munkácsy Mihály utca",3,333333,FFFFFF
+9730,BKV,973,,"Nagytétény, Chinoin / Újpalota, Szentmihályi út",3,333333,FFFFFF
+9790,BKV,979,,"Csepel, Csillagtelep / Újpalota, Nyírpalota út",3,333333,FFFFFF
+9791,BKV,979A,,"Csepel, Csillagtelep / Deák Ferenc tér M",3,333333,FFFFFF
+9800,BKV,980,,"Dél-pesti autóbuszgarázs / Rákoskeresztúr, városközpont",3,333333,FFFFFF
+9900,BKV,990,,"Normafa / Rákoskeresztúr, vkp. (metró felé)",3,333333,FFFFFF
+9920,BKV,992,,"Cinkotai autóbuszgarázs / Gödöllő H",3,333333,FFFFFF
+9940,BKV,994,,"Dél-pesti autóbuszgarázs / Gyál, Vecsési út",3,333333,FFFFFF
+9960,BKV,996,,"Cinkotai autóbuszgarázs / Újpest-Központ M",3,333333,FFFFFF
+9961,BKV,996A,,"Cinkotai autóbuszgarázs / Újpest-Központ M",3,333333,FFFFFF
+9980,BKV,998,,"Rákoskeresztúr, városközpont / Rákoskeresztúr, városközpont",3,333333,FFFFFF
+9990,BKV,999,,"Határ út M / Dél-pesti autóbuszgarázs",3,333333,FFFFFF

@@ -1,0 +1,626 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0007NZBM1530,AT,007,Glen Innes To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
+0041NZBM1385,AT,004,Herne Bay To Britomart Via Jervios Road & College Hill,3,00F0FF,000000
+0042NZBM1383,AT,004,Britomart To Herne Bay Via College Hill & Jervois Road,3,00F0FF,000000
+0051NZBM1422,AT,005,Westmere To Britomart Via Herne Bay And College Hill,3,00F0FF,000000
+0052NZBM1384,AT,005,Britomart To Westmere Via College Hill & Herne Bay,3,00F0FF,000000
+0061NZBM3909,AT,006,St Lukes To Newmarket,3,00F0FF,000000
+0062NZBM2002,AT,006,Newmarket To St Lukes,3,00F0FF,000000
+0063NZBM3911,AT,006,Unitec And St Lukes To Newmarket,3,00F0FF,000000
+0064NZBM2020,AT,006,Newmarket To St Lukes And Unitec,3,00F0FF,000000
+0070NZBM2462,AT,007,Pt Chevalier To St Heliers,3,00F0FF,000000
+0071NZBM2453,AT,007,Glen Innes To Pt Chevalier,3,00F0FF,000000
+0072NZBM2455,AT,007,Pt Chevalier To Glen Innes,3,00F0FF,000000
+0073NZBM1525,AT,007,St Heliers To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
+0074NZBM1526,AT,007,Pt Chevalier To St Heliers Via Selwyn Village,3,00F0FF,000000
+0075NZBM2452,AT,007,St Heliers To Pt Chevalier,3,00F0FF,000000
+0076NZBM2456,AT,007,Pt Chevalier To St Heliers,3,00F0FF,000000
+0077NZBM1529,AT,007,St Heliers To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
+0078NZBM1689,AT,007,Pt Chevalier To St Heliers Via Selwyn Village,3,00F0FF,000000
+0079NZBM2461,AT,007,St Heliers To Pt Chevalier,3,00F0FF,000000
+0088UE3457,AT,008,New Lynn To Onehunga,3,DCC8FF,C80000
+0091UE3779,AT,009,Onehunga To New Lynn,3,DCC8FF,C80000
+0093UE3780,AT,009,Sylvia Park To New Lynn Via Blockhouse Bay Shops,3,DCC8FF,C80000
+0095UE3442,AT,009,Sylvia Park To New Lynn Via Blockhouse Bay Shops,3,DCC8FF,C80000
+0096UE3443,AT,009,New Lynn To Sylvia Park Via Blockhouse Bay Shops,3,DCC8FF,C80000
+0101NZBM0633,AT,010,Onehunga To Ponsonby Via Unitec,3,00F0FF,000000
+0102NZBM3175,AT,010,Ponsonby To Onehunga Via Unitec,3,00F0FF,000000
+0111NZBM1686,AT,011,Onehunga To Ponsonby Via St Lukes,3,00F0FF,000000
+0112NZBM1447,AT,011,Ponsonby To Onehunga Via St Lukes,3,00F0FF,000000
+0141NZBG3297,AT,014,Henderson Hopper Via Mclaren Park & Sturges Rd,3,64FF00,000000
+0151NZBM1684,AT,015,Ponsonby To Britomart,3,00F0FF,000000
+0152NZBM0037,AT,015,Britomart To Ponsonby,3,00F0FF,000000
+0153NZBM1692,AT,015,K''Rd To Britomart,3,00F0FF,000000
+0171NZBM2411,AT,017,Westmere To Britomart Via Herne Bay,3,00F0FF,000000
+0172NZBM1391,AT,017,Britomart To Herne Bay And Westmere,3,00F0FF,000000
+0182NZBM2445,AT,018,Herne Bay To Otahuhu,3,00F0FF,000000
+0241NZBM1876,AT,024,Richmond Road To Britomart,3,00F0FF,000000
+0242NZBM0041,AT,024,Britomart To Richmond Road,3,00F0FF,000000
+0251NZBM0046,AT,025,Surrey Cres And Richmond Road To Britomart,3,00F0FF,000000
+0252NZBM0042,AT,025,Britomart To Richmond Road And Surrey Cres,3,00F0FF,000000
+0253NZBM0589,AT,025,Karangahape Rd To Britomart,3,00F0FF,000000
+0271NZBM3849,AT,027,Westmere To Britomart Via Richmond Road,3,00F0FF,000000
+0272NZBM3161,AT,027,Britomart To Westmere Via Richmond Road,3,00F0FF,000000
+0281NZBM0570,AT,028X,Westmere To Britomart Express,3,00F0FF,000000
+0282NZBM0572,AT,028X,Britomart To Westmere Express,3,00F0FF,000000
+0283NZBM2307,AT,028X,Richmond Road To Britomart Express,3,00F0FF,000000
+0341NZBM0048,AT,034,Westmere To Britomart,3,00F0FF,000000
+0351NZBM0526,AT,035,Westmere To Britomart,3,00F0FF,000000
+0352NZBM0047,AT,035,Britomart To Westmere And Herne Bay,3,00F0FF,000000
+0354NZBM0620,AT,035,K''Rd To Westmere,3,00F0FF,000000
+0422NZBM0049,AT,042,Britomart To Unitec,3,00F0FF,000000
+0431NZBM0054,AT,043,Mt Albert To Britomart,3,00F0FF,000000
+0432NZBM0050,AT,043,Britomart To Mt Albert,3,00F0FF,000000
+0451NZBM0053,AT,045,Pt Chevalier Beach To Britomart,3,00F0FF,000000
+0452NZBM0484,AT,045,Britomart To Pt Chevalier Beach,3,00F0FF,000000
+0453NZBM2484,AT,045,Pt Chevalier To Britomart Via Selwyn Village,3,00F0FF,000000
+0454NZBM0051,AT,045,Britomart To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
+0455NZBM0569,AT,045X,Pt Chevalier To Britomart  Express,3,00F0FF,000000
+0456NZBM1877,AT,045X,Britomart To Pt Chevalier Beach Express,3,00F0FF,000000
+0458NZBM1691,AT,045,Britomart To Pt Chevalier Beach,3,00F0FF,000000
+0480NZBG1331,AT,048,Britomart To Te Atatu Peninsula,3,64FF00,000000
+0481NZBG1932,AT,048,Te Atatu Peninsula To Britomart,3,64FF00,000000
+0482NZBG1317,AT,048,Britomart To Te Atatu Peninsula,3,64FF00,000000
+0483NZBG1459,AT,048,Te Atatu Peninsula To Britomart Via Patiki Road,3,64FF00,000000
+0484NZBG1330,AT,048,Britomart To Te Atatu Peninsula Via Patiki Rd,3,64FF00,000000
+0485NZBG1438,AT,048X,Te Atatu Peninsula To Britomart Express,3,64FF00,000000
+0486NZBG1321,AT,048X,Britomart To Te Atatu Peninsula Express,3,64FF00,000000
+0491NZBG1674,AT,049,Henderson To Britomart Via Te Atatu Peninsula,3,64FF00,000000
+0492NZBG1677,AT,049,Britomart To Te Atatu Peninsula,3,64FF00,000000
+0493NZBG1721,AT,049,Henderson To Te Atatu Peninsula,3,64FF00,000000
+0494NZBG1722,AT,049,Te Atatu Peninsula To Henderson,3,64FF00,000000
+0508NZBW0972,AT,50,Pukekohe To Port Waikato.,3,B4FFFF,006E3C
+0509NZBW1346,AT,50,Port Waikato To Pukekohe,3,B4FFFF,006E3C
+0525HE3159,AT,52,Bucklands Beach To Britomart Via Newmarket,3,960000,FFFFFF
+0527HE3172,AT,52,Bucklands Beach To Britomart Via Newmarket,3,960000,FFFFFF
+0601RT3572,AT,060X,Helensville To Britomart,3,FFDCDC,0000FF
+0602RT3857,AT,060X,Britomart To Helensville,3,FFDCDC,0000FF
+0603RT3574,AT,060,Helensville To Westgate,3,FFDCDC,0000FF
+0604RT3575,AT,060,Westgate To Helensville,3,FFDCDC,0000FF
+0701RT3506,AT,070X,Westgate To Britomart Express Via Waimumu Rd,3,FFDCDC,0000FF
+0702RT3858,AT,070X,Britomart To Westgate Express Via Waimumu Rd,3,FFDCDC,0000FF
+0703NZBG1886,AT,07F,Parrs Corner To Britomart Flyer,3,64FF00,000000
+0704NZBG3835,AT,07F,Britomart To Parrs Corner Flyer,3,64FF00,000000
+0722NZBG0136,AT,072,Britomart To Henderson Via Sunnyvale,3,64FF00,000000
+0761NZBG0127,AT,076,Larnoch To Britomart,3,64FF00,000000
+0791NZBG1962,AT,079,Sturges Road To Britomart,3,64FF00,000000
+0792NZBG2085,AT,079,Britomart To Sturges Road Via Sunnyvale,3,64FF00,000000
+0801RT3813,AT,080,Westgate To Britomart,3,FFDCDC,0000FF
+0802UE3444,AT,008,New Lynn To Otahuhu,3,DCC8FF,C80000
+0803UE3769,AT,008,Otahuhu To New Lynn,3,DCC8FF,C80000
+0804RT3850,AT,080,Britomart To Westgate,3,FFDCDC,0000FF
+0805RT3647,AT,080X,Westgate To Britomart Express,3,FFDCDC,0000FF
+0806RT3859,AT,080X,Britomart To Westgate Express,3,FFDCDC,0000FF
+0807RT3814,AT,080,Westgate To Henderson,3,FFDCDC,0000FF
+0808RT3464,AT,080,Henderson To Westgate Via Don Buck Rd,3,FFDCDC,0000FF
+0821RT3820,AT,082,Westgate To Te Atatu Peninnsula,3,FFDCDC,0000FF
+0822RT3821,AT,082,Te Atatu Peninnsula To Westgate,3,FFDCDC,0000FF
+0851NZBG0125,AT,085,Swanson To Britomart,3,64FF00,000000
+0852NZBG1471,AT,085,Britomart To Swanson,3,64FF00,000000
+0871NZBG1723,AT,087,Ranui To Britomart,3,64FF00,000000
+0872NZBG3196,AT,087,Britomart To Ranui,3,64FF00,000000
+0873NZBG3663,AT,087,Ranui To Britomart Via Rsa Village,3,64FF00,000000
+0874NZBG3222,AT,087,Britomart To Ranui Via Rsa Village,3,64FF00,000000
+0881NZBG3298,AT,088,Larnoch To Britomart,3,64FF00,000000
+0892NZBG3220,AT,089,Britomart To Ranui,3,64FF00,000000
+0900NZBG3836,AT,09F,Britomart To Sturges Rd,3,64FF00,000000
+0901RT3696,AT,090,Westgate To Britomart Via Massey East,3,FFDCDC,0000FF
+0902RT3860,AT,090,Britomart To Westgate Via Massey East,3,FFDCDC,0000FF
+0903RT3702,AT,090X,Westgate To Britomart Express Via Massey East,3,FFDCDC,0000FF
+0904RT3861,AT,090X,Britomart To Westgate Express Via Massey East,3,FFDCDC,0000FF
+0905RT3703,AT,090,Westgate To Henderson Via Massey East,3,FFDCDC,0000FF
+0906RT3651,AT,090,Henderson To Westgate Via Massey East,3,FFDCDC,0000FF
+0909NZBG1978,AT,09F,Sturges Rd To Britomart Flyer,3,64FF00,000000
+0921RT3652,AT,092,Hobsonville To Britomart,3,FFDCDC,0000FF
+0922RT3862,AT,092,Britomart To Hobsonville,3,FFDCDC,0000FF
+0923RT3644,AT,092,Hobsonville To Henderson,3,FFDCDC,0000FF
+0924RT3541,AT,092,Henderson To Hobsonville,3,FFDCDC,0000FF
+0925RT3653,AT,092,Hobsonville To Westgate,3,FFDCDC,0000FF
+0926RT3511,AT,092,Westgate To Hobsonville,3,FFDCDC,0000FF
+0931RT3654,AT,093,Whenuapai To Westgate,3,FFDCDC,0000FF
+0932RT3579,AT,093,Westgate To Whenuapai,3,FFDCDC,0000FF
+0951RT3745,AT,095X,Whenuapai To Britomart Express,3,FFDCDC,0000FF
+0952RT3863,AT,095X,Britomart To Whenuapai Express,3,FFDCDC,0000FF
+0971NZBG0124,AT,097,Ranui To Britomart,3,64FF00,000000
+0972NZBG3221,AT,097,Britomart To Ranui,3,64FF00,000000
+1001RT0781,AT,NEX,Albany To Britomart,3,FFDCDC,0000FF
+1002RT0780,AT,NEX,Britomart To Albany,3,FFDCDC,0000FF
+1003AIR3827,AT,AIR,Airport To Ferry Terminal Downtown,3,FFFF8C,0078FF
+1004AIR3828,AT,AIR,Ferry Terminal Down Town To Airport,3,FFFF8C,0078FF
+1005AIR3829,AT,AIR,Airport To Ferry Terminal Downtown,3,FFFF8C,0078FF
+1006AIR3830,AT,AIR,Ferry Terminal Down Town To Airport,3,FFFF8C,0078FF
+1041UE3726,AT,104,New Lynn To Avondale,3,DCC8FF,C80000
+1102NZBG3580,AT,110,Patiki Road To New Lynn Via Avondale,3,64FF00,000000
+1131NZBG3542,AT,113,Henderson To Britomart Via Glendene,3,64FF00,000000
+1132NZBG3925,AT,113,Britomart To Henderson Via Glendene,3,64FF00,000000
+1133NZBG3544,AT,113,Henderson To New Lynn Via Great North Road,3,64FF00,000000
+1134NZBG3926,AT,113,New Lynn To Henderson Via Great North Road,3,64FF00,000000
+1135NZBG3690,AT,113,Henderson To Patiki Road Via Glendene,3,64FF00,000000
+1137NZBG1927,AT,113X,Henderson To Britomart Express Via Glendene,3,64FF00,000000
+1139NZBG3582,AT,113,Glendene To New Lynn Via Great North Road,3,64FF00,000000
+1150NZBG3934,AT,115X,Britomart To Henderson Express Via Glendene,3,64FF00,000000
+1151NZBG3583,AT,115,Henderson To Britomart Via Glendene,3,64FF00,000000
+1152NZBG3927,AT,115,Britomart To Henderson Via Glendene,3,64FF00,000000
+1153NZBG3585,AT,115,Henderson To New Lynn Via Glendene,3,64FF00,000000
+1154NZBG3928,AT,115,New Lynn To Henderson Via Glendene,3,64FF00,000000
+1155NZBG3691,AT,115,Henderson To Patiki Road Via Glendene,3,64FF00,000000
+1156NZBG3588,AT,115,Patiki Road To Henderson Via Glendene,3,64FF00,000000
+1157NZBG1926,AT,115X,Henderson To Britomart Express Via Glendene,3,64FF00,000000
+1211NZBG3589,AT,121,Te Atatu Peninsula To New Lynn,3,64FF00,000000
+1212NZBG3590,AT,121,New Lynn To Te Atatu Peninsula,3,64FF00,000000
+1214NZBG3591,AT,121,Avondale To Te Atatu Peninsula,3,64FF00,000000
+1221NZBG1934,AT,122,Te Atatu Peninsula To Henderson,3,64FF00,000000
+1222NZBG1931,AT,122,Henderson To Te Atatu Peninsula,3,64FF00,000000
+1301RT3655,AT,130,Takapuna To New Lynn,3,FFDCDC,0000FF
+1302RT3929,AT,130,New Lynn To Takapuna,3,FFDCDC,0000FF
+1303RT3656,AT,130,Takapuna To Henderson,3,FFDCDC,0000FF
+1304RT3935,AT,130,Henderson To Takapuna,3,FFDCDC,0000FF
+1305RT3657,AT,130,Hobsonville To New Lynn,3,FFDCDC,0000FF
+1306RT3484,AT,130,New Lynn To Hobsonville,3,FFDCDC,0000FF
+1307RT3645,AT,130,Takapuna To Westgate,3,FFDCDC,0000FF
+1308RT3936,AT,130,Westgate To Takapuna,3,FFDCDC,0000FF
+1309RT3658,AT,130,Smales Farm To Westgate,3,FFDCDC,0000FF
+1311RT3646,AT,131,Takapuna To New Lynn,3,FFDCDC,0000FF
+1312RT3546,AT,131,New Lynn To Takapuna,3,FFDCDC,0000FF
+1314RT3452,AT,131,New Lynn To Hobsonville,3,FFDCDC,0000FF
+1341NZBG3547,AT,134,Ranui To Britomart,3,64FF00,000000
+1342NZBG3595,AT,134,Britomart To Larnoch,3,64FF00,000000
+1344NZBG3596,AT,134,Britomart To Larnoch Via Rathgar Rd Schools,3,64FF00,000000
+1345NZBG3692,AT,134,Larnoch To Patiki Road Via Henderson And New Lynn And Rosebank Road,3,64FF00,000000
+1351NZBG3598,AT,135,Swanson To Britomart,3,64FF00,000000
+1352NZBG3599,AT,135,Britomart To Swanson,3,64FF00,000000
+1355NZBG3693,AT,135,Swanson To Patiki Road Via Henderson And New Lynn And Rosebank Road,3,64FF00,000000
+1361NZBG3548,AT,136,Ranui To Britomart,3,64FF00,000000
+1362NZBG3549,AT,136,Britomart To Ranui,3,64FF00,000000
+1372NZBG3642,AT,137,Britomart To Ranui,3,64FF00,000000
+1381NZBG3601,AT,138,Larnoch To Britomart,3,64FF00,000000
+1382NZBG3602,AT,138,Britomart To Larnoch,3,64FF00,000000
+1402NZBG3550,AT,140,Britomart To Ranui Night Flexi,3,64FF00,000000
+1403NZBG1928,AT,14F,Glendene To Britomart Flyer,3,64FF00,000000
+1404NZBG3937,AT,14F,Britomart To Glendene Flyer,3,64FF00,000000
+1421NZBG3603,AT,142,Henderson To Britomart,3,64FF00,000000
+1422NZBG3604,AT,142,New Lynn To Henderson Via Great North Road And New Lynn And Sunnyvale,3,64FF00,000000
+1423NZBG3605,AT,142,Henderson To New Lynn,3,64FF00,000000
+1491NZBG3606,AT,149,Sturges Road To Britomart,3,64FF00,000000
+1492NZBG3551,AT,149,New Lynn To Sturges Road Via Great North Road And Sunnyvale And Henderson,3,64FF00,000000
+1493NZBG3552,AT,149,Sturges Road To New Lynn,3,64FF00,000000
+1502NZBG3553,AT,150,Britomart To Sturges Road Night Flexi Via Glen Eden,3,64FF00,000000
+1503NZBG1938,AT,15F,Henderson To Downtown Flyer Via Glen Eden,3,64FF00,000000
+1504NZBG3839,AT,15F,Britomart To Henderson Flyer Via Glen Eden,3,64FF00,000000
+1541NZBG3554,AT,154,Henderson To Britomart  Via Glen Eden And New Lynn And Great North Road,3,64FF00,000000
+1542NZBG3555,AT,154,Britomart To Henderson Via Glen Eden,3,64FF00,000000
+1543NZBG3607,AT,154,Henderson To New Lynn Via Great North Road And Glen Eden,3,64FF00,000000
+1544NZBG3608,AT,154,New Lynn To Henderson Via Glen Eden,3,64FF00,000000
+1545NZBG3609,AT,154X,Henderson To Britomart Express Via Glen Eden And Great North Road,3,64FF00,000000
+1562NZBG3610,AT,156,Britomart To Forest Hill Rd Via  Glen Eden,3,64FF00,000000
+1564NZBG3611,AT,156,New Lynn To Forest Hill Via Glen Eden,3,64FF00,000000
+1581NZBG3612,AT,158,Forest Hill To Britomart,3,64FF00,000000
+1631NZBG3556,AT,163,Henderson To Britomart Via Glen Eden And New Lynn,3,64FF00,000000
+1632NZBG3661,AT,163,Britomart To Henderson Via Glen Eden,3,64FF00,000000
+1633NZBG3614,AT,163,Henderson To New Lynn Via Great North Road And Glen Eden,3,64FF00,000000
+1634NZBG3558,AT,163,New Lynn To Henderson Via Glen Eden,3,64FF00,000000
+1635NZBG3694,AT,163,Henderson To Patiki Rd Via Glen Eden And New Lynn And Great North Road,3,64FF00,000000
+1636NZBG3840,AT,163X,Britomart To Henderson Express Via Glen Eden,3,64FF00,000000
+1637NZBG0650,AT,163X,Henderson To Britomart Express Via Glen Eden,3,64FF00,000000
+1641NZBG3616,AT,164,Henderson To Britomart  Via Glen Eden,3,64FF00,000000
+1702NZBG3559,AT,170,New Lynn To Titirangi South Night Flexi,3,64FF00,000000
+1732NZBG3617,AT,173,Britomart To Titirangi South,3,64FF00,000000
+1733NZBG3618,AT,173,Titirangi South To Britomart,3,64FF00,000000
+1734NZBG3560,AT,173,New Lynn To Titirangi South,3,64FF00,000000
+1735NZBG3561,AT,173,Titirangi South To New Lynn,3,64FF00,000000
+1736NZBG3619,AT,173,New Lynn To Titirangi South Via Beach,3,64FF00,000000
+1737NZBG3620,AT,173,Titirangi Beach To Britomart,3,64FF00,000000
+1751NZBG3621,AT,175,Titirangi To New Lynn Via Atkinson Ave,3,64FF00,000000
+1771RT3675,AT,177,Laingholm To Britomart,3,FFDCDC,0000FF
+1772RT3676,AT,177,Britomart To Laingholm,3,FFDCDC,0000FF
+1773RT3677,AT,177,Laingholm To New Lynn,3,FFDCDC,0000FF
+1774RT3678,AT,177,New Lynn To Laingholm,3,FFDCDC,0000FF
+1792NZBG3622,AT,179,Britomart To Titirangi,3,64FF00,000000
+1793NZBG3562,AT,179,Titirangi To New Lynn,3,64FF00,000000
+1794NZBG3563,AT,179,New Lynn To Titirangi,3,64FF00,000000
+1796NZBG3623,AT,179,New Lynn To Titirangi Village And Atkinson Rd,3,64FF00,000000
+1801NZBG3624,AT,180,Tanekaha To New Lynn Via Titirangi Beach And Titirangi,3,64FF00,000000
+1802NZBG3625,AT,180,New Lynn To Tanekaha Via Titirangi And Titirangi Beach,3,64FF00,000000
+1811NZBG3626,AT,181,Golf Road To Britomart,3,64FF00,000000
+1812NZBG3783,AT,181,New Lynn To Tanekaha Via Seabrooke Ave And Takahe Road,3,64FF00,000000
+1813NZBG3784,AT,181,Tanekaha To New Lynn Via Takahe Road And Seabrooke Ave,3,64FF00,000000
+1822NZBG3629,AT,182,New Lynn To Green Bay,3,64FF00,000000
+1831NZBG3518,AT,183,Blockhouse Bay To Britomart,3,64FF00,000000
+1842NZBG3519,AT,184,New Lynn To Green Bay Via Astley Ave,3,64FF00,000000
+1851UE3697,AT,185,New Lynn To Blockhouse Bay,3,DCC8FF,C80000
+1852UE3698,AT,185,Blockhouse Bay To New Lynn,3,DCC8FF,C80000
+1871NZBGS3520,AT,187,Green Bay To Avondale College,3,FFFFFF,000000
+1881NZBG3521,AT,188X,Blockhouse Bay To Britomart Express,3,64FF00,000000
+1882NZBG3522,AT,188X,Britomart To Blockhouse Bay Via Green Bay,3,64FF00,000000
+1891NZBG3790,AT,189,Tanekaha To New Lynn,3,64FF00,000000
+1892NZBG3791,AT,189,New Lynn To Tanekaha Via Astley Ave And Takahe Road,3,64FF00,000000
+1893NZBG3792,AT,189X,Tanekaha To Britomart Express,3,64FF00,000000
+1894NZBG3793,AT,189X,Britomart To Tanekaha Express,3,64FF00,000000
+1900NZBG3864,AT,19X,Britomart To Green Bay Express,3,64FF00,000000
+1900UE3864,AT,19X,Britomart To Green Bay Express,3,DCC8FF,C80000
+1909UE3528,AT,19X,Green Bay To Britomart Express,3,DCC8FF,C80000
+1911UE0195,AT,191,Blockhouse Bay To Britomart Via Taylor St,3,DCC8FF,C80000
+1912UE3664,AT,191,Britomart To Blockhouse Bay Via Taylor St,3,DCC8FF,C80000
+1922NZBG3529,AT,192,Britomart To Green Bay Via Taylor St And Blockhouse Bay,3,64FF00,000000
+1931NZBG3488,AT,193,Green Bay To Britomart Via Blockhouse Bay And Taylor St,3,64FF00,000000
+1934NZBG3489,AT,193,Britomart To  Green Bay Via Taylor St And Blockhouse Bay,3,64FF00,000000
+1961NZBG0191,AT,196,Blockhouse Bay To Britomart,3,64FF00,000000
+1962NZBG3530,AT,196,Britomart To Blockhouse Bay,3,64FF00,000000
+1962UE3530,AT,196,Britomart To Blockhouse Bay,3,DCC8FF,C80000
+1971NZBG0627,AT,197,Green Bay To Britomart Via Blockhouse Bay,3,64FF00,000000
+1971UE0627,AT,197,Green Bay To Britomart Via Blockhouse Bay,3,DCC8FF,C80000
+1972UE3490,AT,197,Britomart To Green Bay Via Blockhouse Bay,3,DCC8FF,C80000
+1974UE3659,AT,197X,Britomart To Green Bay Via Blockhouse Bay Express,3,DCC8FF,C80000
+1981NZBG3453,AT,198,Green Bay To Britomart Via Blockhouse Bay,3,64FF00,000000
+1981UE3453,AT,198,Green Bay To Britomart Via Blockhouse Bay,3,DCC8FF,C80000
+1982NZBG3501,AT,198,Downtown To New Lynn Via Green Bay,3,64FF00,000000
+1982UE3501,AT,198,Downtown To New Lynn Via Green Bay,3,DCC8FF,C80000
+1983UE3631,AT,198X,Green Bay To Britomart Via Blockhouse Bay Express,3,DCC8FF,C80000
+1984UE3660,AT,198X,Britomart To Green Bay Via Blockhouse Bay Express,3,DCC8FF,C80000
+1991UE3454,AT,199,Green Bay To Britomart Via Blockhouse Bay,3,DCC8FF,C80000
+1992UE3502,AT,199,Britomart To Green Bay Via Blockhouse Bay,3,DCC8FF,C80000
+1993UE3455,AT,199,New Lynn To Blockhouse Bay Via Green Bay,3,DCC8FF,C80000
+1994UE3503,AT,199,Blockhouse Bay To New Lynn Via Green Bay,3,DCC8FF,C80000
+2001NZBM0529,AT,200,Woodward Rd To Midtown Limited Stops,3,00F0FF,000000
+2002NZBM0530,AT,200,Mid Town To Woodward Rd Limited Stops,3,00F0FF,000000
+2051NZBM0215,AT,205,Avondale To Midtown Via Bond Street,3,00F0FF,000000
+2052NZBM0208,AT,205,Midtown To Avondale Via Bond Street,3,00F0FF,000000
+2053NZBM0580,AT,205,Woodard Rd To Midtown,3,00F0FF,000000
+2063NZBG3633,AT,206,Blockhouse Bay To Britomart Via Bond St,3,64FF00,000000
+2071UE3770,AT,207,Green Bay To Britomart,3,DCC8FF,C80000
+2072UE3494,AT,207,Britomart To Green Bay Via Bond St And Blockhouse Bay,3,DCC8FF,C80000
+2101NZBM0210,AT,210,Avondale To Midtown,3,00F0FF,000000
+2102NZBM2164,AT,210,Midtown To Avondale,3,00F0FF,000000
+2103NZBM0217,AT,210,Woodward Ave To Midtown,3,00F0FF,000000
+2104NZBM2177,AT,210,Midtown To Woodward Rd,3,00F0FF,000000
+2111NZBM0211,AT,211,Rosebank Road To Midtown,3,00F0FF,000000
+2112NZBM3200,AT,211,Midtown To Rosebank Rd,3,00F0FF,000000
+2113NZBM0578,AT,211X,Rosebank Rd To Midtown Express,3,00F0FF,000000
+2114NZBM3225,AT,211X,Midtown To Rosebank Road Express,3,00F0FF,000000
+2116NZBM3227,AT,211,Midtown To Rosebank Via New North (Not Via Mead),3,00F0FF,000000
+2118NZBM3224,AT,211,Symonds Street To Rosebank Rd,3,00F0FF,000000
+2121NZBM0216,AT,212,Patiki Road To Midtown,3,00F0FF,000000
+2122NZBM2165,AT,212,Midtown To Patiki Road,3,00F0FF,000000
+2123NZBM0218,AT,212,Patiki Road To Midtown Direct (Not Via Mead St),3,00F0FF,000000
+2124NZBM2178,AT,212,Midtown To Patiki Rd Direct,3,00F0FF,000000
+2125NZBM0581,AT,212X,Patiki Rd To Midtown Express,3,00F0FF,000000
+2131NZBM3635,AT,213,New Lynn To Midtown,3,00F0FF,000000
+2132NZBM3532,AT,213,Midtown To New Lynn,3,00F0FF,000000
+2133NZBM3636,AT,213X,New Lynn To Midtown Express,3,00F0FF,000000
+2134NZBM3533,AT,213X,Midtown To New Lynn Express,3,00F0FF,000000
+2151NZBM0214,AT,215,Avondale To Midtown Via Unitec,3,00F0FF,000000
+2152NZBM2189,AT,215,Midtown To Avondale Via Unitec,3,00F0FF,000000
+2161NZBM0213,AT,216,Rosebank Road To Midtown Via Unitec,3,00F0FF,000000
+2191NZBM3637,AT,219,New Lynn To Midtown Via Unitec,3,00F0FF,000000
+2192NZBM3534,AT,219,Midtown To New Lynn Via Unitec,3,00F0FF,000000
+2231NZBM3564,AT,223,New Lynn To Midtown Via St Lukes,3,00F0FF,000000
+2232NZBM3504,AT,223,Midtown To New Lynn Via St Lukes,3,00F0FF,000000
+2241NZBM3565,AT,224,Henderson To Midtown Via New Lynn & St Lukes,3,00F0FF,000000
+2242NZBM3505,AT,224,Midtown To Henderson Via St Lukes And New Lynn,3,00F0FF,000000
+2331NZBM3785,AT,233,New Lynn To Midtown Via Sandringham Road And St Lukes,3,00F0FF,000000
+2332NZBM3824,AT,233,Midtown To New Lynn Via Sandringham Road And St Lukes,3,00F0FF,000000
+2401NZBM0228,AT,240,Sandringham To Midtown Limited Stop Express,3,00F0FF,000000
+2402NZBM0224,AT,240,Midtown To Sandringham Limited Stop Express,3,00F0FF,000000
+2431NZBM3786,AT,243,New Lynn To Midtown Via Sandringham Road,3,00F0FF,000000
+2432NZBM3825,AT,243,Midtown To New Lynn Via Sandringham Road,3,00F0FF,000000
+2434NZBM3831,AT,243X,Midtown To New Lynn Express,3,00F0FF,000000
+2435NZBM3794,AT,243X,New Lynn To Midtown Express,3,00F0FF,000000
+2491NZBM3787,AT,249,New Lynn To Midtown Via Blockhouse Bay And Sandringham Road,3,00F0FF,000000
+2492NZBM3832,AT,249,Midtown To New Lynn Via Sandringham Rd And Blockhouse Bay,3,00F0FF,000000
+2493NZBM3883,AT,249,Blockhouse Bay To Midtown Via Sandringham Road,3,00F0FF,000000
+2494NZBM3884,AT,249,Midtown To Blockhouse Bay Via Sandringham Road,3,00F0FF,000000
+2495NZBM3905,AT,249X,Blockhouse Bay To Midtown Express,3,00F0FF,000000
+2496NZBM3906,AT,249X,Midtown To Blockhouse Bay Express,3,00F0FF,000000
+2497NZBM3887,AT,249,Wesley To Midtown Via Sandringham Rd,3,00F0FF,000000
+2498NZBM3907,AT,249,Midtown To Wesley Via Sandringham Road,3,00F0FF,000000
+2499NZBM3908,AT,249F,Blockhouse Bay To Midtown Flyer,3,00F0FF,000000
+2501NZBM1729,AT,250,May Road To Civic Centre Park N Ride Limited Stops,3,00F0FF,000000
+2502NZBM1196,AT,250,Civic Centre To May Road Limited Stops,3,00F0FF,000000
+2580NZBM3888,AT,258X,Civic Centre To Blockhouse Bay Express,3,00F0FF,000000
+2581NZBM1724,AT,258,Blockhouse Bay To Civic Centre,3,00F0FF,000000
+2582NZBM3115,AT,258,Civic Centre To Blockhouse Bay,3,00F0FF,000000
+2583NZBM1731,AT,258,Blockhouse Bay To Civic Centre Via Flyover,3,00F0FF,000000
+2584NZBM3129,AT,258,Civic Centre To Blockhouse Bay Via Flyover,3,00F0FF,000000
+2585NZBM3898,AT,258,May Road To Civic Centre Via Flyover,3,00F0FF,000000
+2586NZBM3896,AT,258,Civic Centre To May Road Via Flyover,3,00F0FF,000000
+2671NZBM0245,AT,267,Lynfield To Civic Centre,3,00F0FF,000000
+2672NZBM3114,AT,267,Civic Centre To Lynfield,3,00F0FF,000000
+2741NZBM0259,AT,274,Three Kings To Britomart,3,00F0FF,000000
+2742NZBM3081,AT,274,Britomart To Three Kings,3,00F0FF,000000
+2771NZBM1982,AT,277,Waikowhai To Britomart,3,00F0FF,000000
+2772NZBM3249,AT,277,Britomart To Waikowhai,3,00F0FF,000000
+2991NZBM3885,AT,299,Lynfield To Civic Centre,3,00F0FF,000000
+2992NZBM3886,AT,299,Civic Centre To Lynfield,3,00F0FF,000000
+3021NZBM0278,AT,302,Onehunga To Midtown,3,00F0FF,000000
+3022NZBM2236,AT,302,Midtown To Onehunga,3,00F0FF,000000
+3041NZBM3398,AT,304,Otahuhu To Midtown Via Favona,3,00F0FF,000000
+3042NZBM3399,AT,304,Midtown To Otahuhu Via Favona,3,00F0FF,000000
+3051NZBM3368,AT,305,Mangere Town Centre To Midtown,3,00F0FF,000000
+3052NZBM3369,AT,305,Midtown To Mangere Town Centre,3,00F0FF,000000
+3121NZBM0279,AT,312,Onehunga To Midtown,3,00F0FF,000000
+3122NZBM2204,AT,312,Midtown To Onehunga,3,00F0FF,000000
+3151NZBM3370,AT,315,Mangere Town Centre To Midtown Via Onehunga,3,00F0FF,000000
+3152NZBM3371,AT,315,Midtown To Mangere Town Centre,3,00F0FF,000000
+3245NZBW3406,AT,324,Papatoetoe To Onehunga Via Massey Road,3,B4FFFF,006E3C
+3281NZBW3372,AT,328,Manukau City Centre To Britomart  Via Mangere Town Centre,3,B4FFFF,006E3C
+3282NZBW3373,AT,328,Britomart To Manukau City Centre Via Mangere Town Centre,3,B4FFFF,006E3C
+3283NZBW3374,AT,328,Manukau City Centre To Britomart  Via Massey Road,3,B4FFFF,006E3C
+3284NZBW3375,AT,328,Britomart To Manukau City Centre Via Massey Road,3,B4FFFF,006E3C
+3341NZBW3376,AT,334,Otahuhu To Britomart  Via Mangere Town Centre,3,B4FFFF,006E3C
+3342NZBW3377,AT,334,Britomart To Otahuhu Via Mangere Town Centre,3,B4FFFF,006E3C
+3343NZBW3378,AT,334,Otahuhu To Britomart  Via Massey Road,3,B4FFFF,006E3C
+3344NZBW3379,AT,334,Britomart To Otahuhu Via Massey Road,3,B4FFFF,006E3C
+3345NZBW3413,AT,334,Otahuhu To Onehunga Via Mangere Town Centre,3,B4FFFF,006E3C
+3346NZBW3414,AT,334,Onehunga To Otahuhu Via Mangere Town Centre,3,B4FFFF,006E3C
+3347NZBW3380,AT,334,Otahuhu To Onehunga Via Massey Road,3,B4FFFF,006E3C
+3348NZBW3381,AT,334,Onehunga To Otahuhu Via Massey Road,3,B4FFFF,006E3C
+3481NZBW3689,AT,348,Manukau City Centre To Britomart  Via Mangere Town Centre,3,B4FFFF,006E3C
+3482NZBW3382,AT,348,Britomart To Manukau City Centre,3,B4FFFF,006E3C
+3483NZBW3383,AT,348,Manukau City Centre To Onehunga Via Mangere Town Centre,3,B4FFFF,006E3C
+3541NZBW3384,AT,354,Otahuhu To Britomart  Via Mangere Town Centre,3,B4FFFF,006E3C
+3542NZBW3385,AT,354,Britomart To Otahuhu Via Mangere Town Centre,3,B4FFFF,006E3C
+3543NZBW3386,AT,354,Otahuhu To Onehunga Via Mangere Town Centre,3,B4FFFF,006E3C
+3544NZBW3387,AT,354,Onehunga To Otahuhu,3,B4FFFF,006E3C
+3801PAC1175,AT,380,Airport Shopping Centre To Manukau City,3,FFFFFF,0064B4
+3802PAC1174,AT,380,Manukau City To Airport Shopping Centre,3,FFFFFF,0064B4
+3921NZBM2485,AT,392,Te Papapa To Midtown,3,00F0FF,000000
+3922NZBM2214,AT,392,Midtown To Te Papapa,3,00F0FF,000000
+4281NZBW3899,AT,428,Manukau City Centre To Otahuhu,3,B4FFFF,006E3C
+4284NZBW2001,AT,428,Otahuhu To Manukau City Centre,3,B4FFFF,006E3C
+4461NZBW1362,AT,446,Otara To Otahuhu Via Middlemore Hospital,3,B4FFFF,006E3C
+4471NZBW2230,AT,447,Manukau City To Britomart Via Middlemore Hospital,3,B4FFFF,006E3C
+4472NZBW2444,AT,447,Britomart To Manukau City Centre Via Middlemore Hospital,3,B4FFFF,006E3C
+4473NZBW1363,AT,447,Manukau City Centre To Otahuhu Via Middlemore Hospital,3,B4FFFF,006E3C
+4474NZBW2414,AT,447,Otahuhu To Manukau City Centre Via Middlemore Hospital,3,B4FFFF,006E3C
+4541NZBW3930,AT,454,Manurewa To Manukau Via Mahia Rd,3,B4FFFF,006E3C
+4542NZBW3931,AT,454,Manukau To Manurewa Via Mahia Rd,3,B4FFFF,006E3C
+4551NZBW2005,AT,455,Weymouth To Manukau City Centre,3,B4FFFF,006E3C
+4552NZBW3085,AT,455,Manukau City Centre To Weymouth,3,B4FFFF,006E3C
+4561NZBW3673,AT,456,Wattle Downs To Manukau City Centre,3,B4FFFF,006E3C
+4562NZBW3083,AT,456,Manukau City Centre To Wattle Downs,3,B4FFFF,006E3C
+4563NZBW0755,AT,456,Wattle Downs To Manurewa Interchange,3,B4FFFF,006E3C
+4661HE0909,AT,466,Manurewa  To Manukau City Centre Via The Gardens,3,960000,FFFFFF
+4662HE0907,AT,466,Manukau City Centre To Manurewa Via The Gardens,3,960000,FFFFFF
+4701NZBW2281,AT,470,Papakura To Britomart,3,B4FFFF,006E3C
+4702NZBW3078,AT,470,Britomart To Papakura,3,B4FFFF,006E3C
+4704NZBW3080,AT,470,Britomart To Papakura Via Mahia Road,3,B4FFFF,006E3C
+4711NZBW2282,AT,471,Pahurehure To Britomart,3,B4FFFF,006E3C
+4712NZBW3076,AT,471,Britomart To Pahurehure,3,B4FFFF,006E3C
+4721NZBW2283,AT,472,Red Hill To Britomart,3,B4FFFF,006E3C
+4722NZBW3077,AT,472,Britomart To Red Hill,3,B4FFFF,006E3C
+4724NZBW3094,AT,472,Manukau City Centre To Red Hill,3,B4FFFF,006E3C
+4741NZBW2293,AT,474,Drury To Britomart Via Pahurehure,3,B4FFFF,006E3C
+4742NZBW3203,AT,474,Britomart To Drury Via Great South Road,3,B4FFFF,006E3C
+4752NZBW3204,AT,475,Papakura Shops To Pukekohe,3,B4FFFF,006E3C
+4753NZBW0352,AT,475,Pukekohe To Papakura,3,B4FFFF,006E3C
+4861NZBW2255,AT,486,Otara To Britomart,3,B4FFFF,006E3C
+4871NZBW2218,AT,487,Manukau City Centre To Britomart,3,B4FFFF,006E3C
+4872NZBW2437,AT,487,Britomart To Manukau City Centre,3,B4FFFF,006E3C
+4873NZBW0376,AT,487,Manukau City Centre To Otahuhu,3,B4FFFF,006E3C
+4874NZBW2415,AT,487,Otahuhu To Manukau City Centre,3,B4FFFF,006E3C
+4971NZBW2217,AT,497,Manukau City Centre To Britomart,3,B4FFFF,006E3C
+4972NZBW2438,AT,497,Britomart To Manukau City Centre Via Flat Bush,3,B4FFFF,006E3C
+4973NZBW0369,AT,497,Manukau City  Centre To Otahuhu Via Flat Bush,3,B4FFFF,006E3C
+4974NZBW0356,AT,497,Otahuhu To Manukau City Centre Via Flat Bush,3,B4FFFF,006E3C
+5001HE1647,AT,50,Cockle Bay To Britomart Via Newmarket,3,960000,FFFFFF
+5008HE1645,AT,50,Britomart To Cockle Bay Via Newmarket,3,960000,FFFFFF
+5021NZBW1658,AT,502,Mt Wellington To Britomart Via Ruawai Road And Ellerslie,3,B4FFFF,006E3C
+5022NZBW1655,AT,502,Britomart To Mt Wellington Via Ellerslie And Ruawai Road,3,B4FFFF,006E3C
+5104HE1673,AT,51,Britomart To Cockle Bay School Via Cockle Bay,3,960000,FFFFFF
+5105HE1648,AT,51,Cockle Bay To Britomart Via Newmarket,3,960000,FFFFFF
+5106HE1646,AT,51,Britomart To Cockle Bay Via Newmarket,3,960000,FFFFFF
+5121NZBW1650,AT,512,Mt Wellington To Britomart  Via Ruawai Road And Panama Road And Ellerslie,3,B4FFFF,006E3C
+5122NZBW1649,AT,512,Britomart  To Mt Wellington Via Ellerslie And Ruawai Road And Panama Road,3,B4FFFF,006E3C
+5205HE1867,AT,52,Bucklands Beach  Eastern Beach To Pakuranga Plaza,3,960000,FFFFFF
+5206HE1726,AT,52,Pakuranga Plaza To Bucklands Beach,3,960000,FFFFFF
+5209HE3162,AT,52,Bucklands Beach To Britomart Via Newmarket And Half Moon Bay,3,960000,FFFFFF
+5210HE1969,AT,52,Britomart To Bucklands Beach Via Newmarket And Half Moon Bay,3,960000,FFFFFF
+5212HE1968,AT,52,Britomart To Bucklands Beach Via Newmarket,3,960000,FFFFFF
+5213NZBG3672,AT,N13,Civic Centre To New Lynn And Henderson,3,64FF00,000000
+5217HE1869,AT,52,Bucklands Beach To Pakuranga Plaza Via Half Moon Bay,3,960000,FFFFFF
+5218HE1728,AT,52,Pakuranga Plaza To Bucklands Beach And Half Moon Bay,3,960000,FFFFFF
+5224NZBM1793,AT,N24,Civic Centre To Blockhouse Bay And New Nth Rd Via Sandringham Rd,3,00F0FF,000000
+5226NZBM3122,AT,N26,Civic Centre To Lynfield Via Dominion Rd,3,00F0FF,000000
+5231NZBW1787,AT,N31,Civic Centre To Onehunga And Mangere & Papatoetoe,3,B4FFFF,006E3C
+5247NZBW3088,AT,N47,Civic Centre To Papakura Via Great South Rd,3,B4FFFF,006E3C
+5250HE3166,AT,N50,Civic Centre To Pakuranga And Howick,3,960000,FFFFFF
+5255RT1790,AT,N05,Civic Centre To Te Atatu And Massey,3,FFDCDC,0000FF
+5262NZBM1786,AT,N62,Civic To Remuera And Panmure,3,00F0FF,000000
+5283NZBN1789,AT,N83,Civic Centre To Takapuna And East Coast Bays,3,0096FF,FFFF00
+5297BH1421,AT,N97,Onewa - Auckland,3,FFDC78,960000
+5298BH3739,AT,N97,Civic Centre To Birkenhead & Beach Haven,3,FFDC78,960000
+5321NZBW1704,AT,532,Mt Wellington To Britomart Via Carbine Road,3,B4FFFF,006E3C
+5322NZBW1656,AT,532,Britomart  To Mt Wellington Via Carbine Road,3,B4FFFF,006E3C
+5323NZBW3295,AT,532,Mt Wellington To Britomart  Via Carbine Road And Ellerslie,3,B4FFFF,006E3C
+5324NZBW3255,AT,532,Britomart To Mt Wellington Via Ellerslie And Carbine Road,3,B4FFFF,006E3C
+5451HE2109,AT,545,Botany Town Centre To Bucklands Beach Via Highland Park,3,960000,FFFFFF
+5452HE1572,AT,545,Bucklands Beach To Botany Town Centre Via Highland Park,3,960000,FFFFFF
+5502NZBW0412,AT,550,Otahuhu To Seaside Park,3,B4FFFF,006E3C
+5551RT3256,AT,555,Albany Station To Highbury,3,FFDCDC,0000FF
+5552RT3257,AT,555,Highbury To Albany Station,3,FFDCDC,0000FF
+5601RT3258,AT,560,Glenfield To Massey University,3,FFDCDC,0000FF
+5602RT3315,AT,560,Massey University To Glenfield,3,FFDCDC,0000FF
+5681HE3932,AT,568,Botany Town Centre To Manurewa East Via Otara/Mit Manukau Cc & Homai,3,960000,FFFFFF
+5682HE3933,AT,568,Manurewa East To Botany Town Centre Via Homai Manukau Cc & Otara/Mit,3,960000,FFFFFF
+5801HE3817,AT,580,Manukau City Centre To Highland Park Via Howick Botany Town Centre & Flat Bush,3,960000,FFFFFF
+5802HE3165,AT,580,Highland Park To Manukau City Centre Via Howick Botany Town Centre & Flat Bush,3,960000,FFFFFF
+5951NZBM3359,AT,595,Glen Innes Centre To Britomart Via Panmure And Ellerslie,3,00F0FF,000000
+5952NZBM3360,AT,595,Britomart To Glen Innes Via Panmure,3,00F0FF,000000
+6051NZBM0426,AT,605,Benson Road To Civic Centre,3,00F0FF,000000
+6052NZBM3238,AT,605,Civic Centre To Benson Road,3,00F0FF,000000
+6061NZBM0428,AT,606,Benson Road To Civic Centre,3,00F0FF,000000
+6062NZBM3206,AT,606,Civic Centre To Benson Road,3,00F0FF,000000
+6251NZBM3705,AT,625,Glen Innes To Britomart Via St Johns & Khyberpass,3,00F0FF,000000
+6252NZBM2221,AT,625,Britomart To Glen Innes Via Khyber Pass Rd & Remuera Rd,3,00F0FF,000000
+6351NZBM3706,AT,635,Glen Innes To Britomart Via Grand Dr & Parnell,3,00F0FF,000000
+6352NZBM2131,AT,635,Britomart To Glen Innes Via Parnell/Remuera Rd & Grand Dr,3,00F0FF,000000
+6551NZBM1675,AT,655,Glen Innes To Britomart Via Meadowbank & Parnell,3,00F0FF,000000
+6552NZBM1540,AT,655,Britomart To Glen Innes Via Parnell/Remuera Rd & Meadowbank,3,00F0FF,000000
+6601HE2008,AT,660,Botany Town Centre To Botany Town Centre Via Half Moon Bay & Howick (Clockwise),3,960000,FFFFFF
+6611HE2007,AT,661,Botany Town Centre To Botany Town Centre Via Howick & Half Moon Bay (Anti-Clockwise),3,960000,FFFFFF
+6801HE3164,AT,680,Cockle Bay To Britomart Via Botany Town Centre,3,960000,FFFFFF
+6802HE1651,AT,680,Britomart To Cockle Bay  Via Botany Town Centre,3,960000,FFFFFF
+6811HE0895,AT,681,Mission Heights To Botany Town Centre,3,960000,FFFFFF
+6812HE2159,AT,681,Botany Town Centre To Mission Heights,3,960000,FFFFFF
+6892HE0925,AT,689,Botany Town Centre To Beachlands,3,960000,FFFFFF
+6893HE0926,AT,689,Beachlands & Maraetai To Botany Town Centre Via Flat Bush,3,960000,FFFFFF
+6894HE0927,AT,689,Botany Town Centre To Maraetai,3,960000,FFFFFF
+7031NZBM0002,AT,703,Portland Road To Britomart,3,00F0FF,000000
+7032NZBM1430,AT,703,Britomart To Portland Road,3,00F0FF,000000
+7102NZBM3209,AT,710,Britomart To Panmure,3,00F0FF,000000
+7151NZBM0447,AT,715,Glen Innes Centre To Britomart Via Orakei,3,00F0FF,000000
+7152NZBM3207,AT,715,Britomart To Glen Innes Via Orakei,3,00F0FF,000000
+7161NZBM0450,AT,716,Panmure To Britomart  Via Glen Innes,3,00F0FF,000000
+7171NZBM0449,AT,717,Otahuhu To Britomart  Via Panmure And Glen Innes,3,00F0FF,000000
+7172NZBM3208,AT,717,Britomart To Otahuhu Via Glen Innes And Panmure,3,00F0FF,000000
+7451NZBM3900,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
+7452NZBM3901,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
+7502NZBM1441,AT,750,Britomart To Panmure Night Flexi Via Mission Bay/Long Dr And Glen Innes,3,00F0FF,000000
+7561NZBM1281,AT,756,Panmure To Britomart Via Glen Innes And Mission Bay,3,00F0FF,000000
+7562NZBM1278,AT,756,Britomart To Panmure Via Mission Bay And Glen Innes,3,00F0FF,000000
+7571NZBM2300,AT,757,Otahuhu To Britomart  Via Panmure And Glen Innes And Mission Bay,3,00F0FF,000000
+7572NZBM1279,AT,757,Britomart To Otahuhu Via Mission Bay And Glen Innes And Panmure,3,00F0FF,000000
+7671NZBM1491,AT,767,Glendowie South To Britomart  Via Tamaki Drive,3,00F0FF,000000
+7672NZBM1442,AT,767,Britomart To Glendowie South Via Tamaki Drive,3,00F0FF,000000
+7691NZBM0464,AT,769,Glendowie North To Brtomart  Via Tamaki Drive,3,00F0FF,000000
+7692NZBM0462,AT,769,Britomart To Glendowie North Via Tamaki Drive,3,00F0FF,000000
+7701NZBM0472,AT,770,St Heliers To Newmarket Via Glendowie,3,00F0FF,000000
+7702NZBM3240,AT,770,Newmarket To St Heliers Via  Glendowie,3,00F0FF,000000
+7704NZBM0467,AT,770,Eastridge To St Heliers Via Glendowie,3,00F0FF,000000
+7711NZBM3902,AT,771,St Heliers To Newmarket Via Mission Bay,3,00F0FF,000000
+7712NZBM3239,AT,771,Newmarket To St Heliers Via  Mission Bay,3,00F0FF,000000
+7970NZBM2416,AT,CITY,City Circuit,3,00F0FF,000000
+7971NZBM0606,AT,CITY,City Circuit,3,00F0FF,000000
+7972NZBM2417,AT,CITY,City Circuit,3,00F0FF,000000
+7980NZBM3845,AT,LINK,The Link Anticlockwise,3,00F0FF,000000
+7981NZBM3846,AT,LINK,The Link Anticlockwise,3,00F0FF,000000
+7982NZBM1874,AT,LINK,The Link Anticlockwise,3,00F0FF,000000
+7986NZBM3847,AT,LINK,The Link Anticlockwise,3,00F0FF,000000
+7989NZBM3848,AT,LINK,The Link Anticlockwise,3,00F0FF,000000
+7990NZBM1632,AT,LINK,The Link Clockwise,3,00F0FF,000000
+7991NZBM1631,AT,LINK,The Link Clockwise,3,00F0FF,000000
+7992NZBM2137,AT,LINK,The Link Clockwise,3,00F0FF,000000
+7996NZBM1633,AT,LINK,The Link Clockwise,3,00F0FF,000000
+7997NZBM0682,AT,LINK,The Link Clockwise,3,00F0FF,000000
+8008NZBW3812,AT,80,Keri Hill Shoppers Loop,3,B4FFFF,006E3C
+8032RT0786,AT,803,Takapuna To Bayswater Via Francis St,3,FFDCDC,0000FF
+8034RT0787,AT,803,Takapuna To Bayswater Wharf,3,FFDCDC,0000FF
+8036RT0955,AT,803,Takapuna To Bayswater,3,FFDCDC,0000FF
+8037RT0953,AT,803,Bayswater To Takapuna,3,FFDCDC,0000FF
+8038RT0956,AT,803,Takapuna To Bayswater Wharf Via Francis St,3,FFDCDC,0000FF
+8039RT1560,AT,803,Takapuna Loop,3,FFDCDC,0000FF
+8041RT1842,AT,804,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
+8043RT1843,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
+8045RT1844,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
+8047RT1845,AT,804,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
+8131RT0474,AT,813,Devonport To Takapuna Via Narrow Neck,3,FFDCDC,0000FF
+8132RT1682,AT,813,Takapuna To Devonport Via Narrow Neck,3,FFDCDC,0000FF
+8395NZBN3851,AT,839,Long Bay To Civic Centre,3,0096FF,FFFF00
+8396NZBN1577,AT,839,Civic Centre To Long Bay,3,0096FF,FFFF00
+8431NZBN1980,AT,843,Constellation To Akoranga Station Via Takapuna,3,0096FF,FFFF00
+8432NZBN1979,AT,843,Akoranga Station To Constellation Via Takapuna,3,0096FF,FFFF00
+8585NZBN3852,AT,858,Long Bay To Civic Centre,3,0096FF,FFFF00
+8586NZBN1578,AT,858,Civic Centre To Long Bay,3,0096FF,FFFF00
+8587NZBN3853,AT,858,Long Bay To Civic Centre Via North Shore Hospital,3,0096FF,FFFF00
+8588NZBN1582,AT,858,Civic Centre To Long Bay Via North Shore Hospital,3,0096FF,FFFF00
+8755NZBN3854,AT,875,Browns Bay To Civic Centre,3,0096FF,FFFF00
+8756NZBN1573,AT,875,Civic Centre To Browns Bay,3,0096FF,FFFF00
+8795NZBN3855,AT,879,Long Bay To Civic Centre,3,0096FF,FFFF00
+8796NZBN1574,AT,879,Civic Centre To Long Bay,3,0096FF,FFFF00
+8801RT1612,AT,880,Albany Loop Anticlockwise,3,FFDCDC,0000FF
+8802RT1611,AT,880,Albany Loop Clockwise,3,FFDCDC,0000FF
+8861RT0801,AT,886,Long Bay To Constellation,3,FFDCDC,0000FF
+8862RT0804,AT,886,Constellation To Long Bay,3,FFDCDC,0000FF
+8875RT1617,AT,887,Long Bay To Constellation,3,FFDCDC,0000FF
+8876RT1618,AT,887,Constellation To Long Bay,3,FFDCDC,0000FF
+8911NZBN1637,AT,891,Albany Station To Takapuna,3,0096FF,FFFF00
+8912NZBN1636,AT,891,Takapuna To Albany Station,3,0096FF,FFFF00
+8931NZBN3214,AT,893,Hibiscus Coast To Midtown Via Albany & Takapuna,3,0096FF,FFFF00
+8941NZBN3296,AT,894,Hibiscus Coast To Midtown Via Albany & Takapuna,3,0096FF,FFFF00
+8951NZBN2475,AT,895,Waiwera To Midtown,3,0096FF,FFFF00
+8952NZBN1037,AT,895,Midtown To Waiwera,3,0096FF,FFFF00
+8961NZBN2140,AT,896,Hibiscus Coast To Midtown,3,0096FF,FFFF00
+8962NZBN3826,AT,896,Midtown To Hibiscus Coast,3,0096FF,FFFF00
+9053RT0809,AT,905,Glenfield To Takapuna,3,FFDCDC,0000FF
+9054RT1124,AT,905,Takapuna To Glenfield,3,FFDCDC,0000FF
+9112RT3707,AT,911,Takapuna To Glenfield,3,FFDCDC,0000FF
+9113RT0810,AT,911,Glenfield To Takapuna,3,FFDCDC,0000FF
+9131NZBN0818,AT,913,Windy Ridge To Takapuna Via North Shore Hospital,3,0096FF,FFFF00
+9132NZBN3741,AT,913,Takapuna To Windy Ridge Via North Shore Hospital,3,0096FF,FFFF00
+9133NZBN0858,AT,913,Windy Ridge To Takapuna,3,0096FF,FFFF00
+9134NZBN3742,AT,913,Takapuna To Windy Ridge,3,0096FF,FFFF00
+9151BH3910,AT,915,Glenfield To Takapuna,3,FFDC78,960000
+9156BH3711,AT,915,Takapuna To Glenfield/Bayview,3,FFDC78,960000
+9223RT3856,AT,922,Takapuna To Midtown Via Northcote,3,FFDCDC,0000FF
+9224RT1973,AT,922,Midtown To Takapuna Via Northcote,3,FFDCDC,0000FF
+9451RT3261,AT,945,Takapuna To Glenfield Via Marlborough,3,FFDCDC,0000FF
+9452RT3262,AT,945,Glenfield To Takapuna Via Marlborough,3,FFDCDC,0000FF
+9551BH0711,AT,955,Bayview To Midtown,3,FFDC78,960000
+9552BH0815,AT,955,Midtown To Bayview,3,FFDC78,960000
+9554BH0928,AT,955,Midtown To Bayview,3,FFDC78,960000
+9571BH3923,AT,957,Birkenhead Wharf To Albany Station,3,FFDC78,960000
+9572BH3904,AT,957,Albany Station To Birkenhead Wharf,3,FFDC78,960000
+9576BH3924,AT,957,Highbury Shops To Birkenhead Wharf,3,FFDC78,960000
+9731BH0010,AT,973,Beach Haven To Midtown,3,FFDC78,960000
+9732BH1164,AT,973,Midtown To Verrans Corner,3,FFDC78,960000
+9734BH0004,AT,973,Midtown To Beach Haven,3,FFDC78,960000
+9741BH0480,AT,974,Beach Haven To Midtown,3,FFDC78,960000
+9742BH1625,AT,974,Midtown To Verrans Corner,3,FFDC78,960000
+9744BH3699,AT,974,Midtown To Beach Haven,3,FFDC78,960000
+9751BH0014,AT,975,Beach Haven To Takapuna,3,FFDC78,960000
+9752BH0726,AT,975,Takapuna To Verrans Corner,3,FFDC78,960000
+9754BH0482,AT,975,Takapuna To Beach Haven,3,FFDC78,960000
+9755BH0932,AT,975,Beach Haven Wharf To Takapuna,3,FFDC78,960000
+9761BH0015,AT,976,Beach Haven To Takapuna,3,FFDC78,960000
+9762BH1239,AT,976,Takapuna To Verrans Corner,3,FFDC78,960000
+9763BH0016,AT,976,Beach Haven To Takapuna Via Hospital,3,FFDC78,960000
+9764BH0481,AT,976,Takapuna To Beach Haven,3,FFDC78,960000
+9767BH1676,AT,976,Beach Haven Wharf To Takapuna,3,FFDC78,960000
+9981NZBN1378,AT,998,Army Bay To Orewa Via Big Manly,3,0096FF,FFFF00
+9982NZBN3758,AT,998,Orewa To Army Bay,3,0096FF,FFFF00
+9991NZBN1552,AT,999,Army Bay To Orewa Via Little Manly,3,0096FF,FFFF00
+9992NZBN3759,AT,999,Orewa To Army Bay,3,0096FF,FFFF00
+10103WA3145,AT,1,Onetangi To Matiatia Wharf,3,FFFFFF,000000
+10104WA3818,AT,1,Matiatia Wharf To Onetangi,3,FFFFFF,000000
+10105WA3146,AT,2,Rocky Bay To Matiatia Wharf,3,FFFFFF,000000
+10107WA3147,AT,3,Rocky Bay To Matiatia Via Onetangi & Ostend,3,FFFFFF,000000
+10108WA3819,AT,2,Matiatia Wharf To Rocky Bay,3,FFFFFF,000000
+10110WA3150,AT,3,Matiatia Wharf To Rocky Bay Via Ostend & Onetangi,3,FFFFFF,000000
+11001FF2089,AT,BIRK,Birkenhead To Auckland Via Northcote Point,4,FFFFFF,000000
+11002FF2088,AT,BIRK,Auckland To Birkenhead Via Northcote Point,4,FFFFFF,000000
+12001FF2107,AT,BAYS,Bayswater To Auckland,4,FFFFFF,000000
+12002FF2106,AT,BAYS,Auckland To Bayswater,4,FFFFFF,000000
+14001FF2091,AT,DEV,Devonport To Auckland,4,FFFFFF,000000
+14002FF2090,AT,DEV,Auckland To Devonport,4,FFFFFF,000000
+15001360D2093,AT,GULF,Gulf Harbour To Auckland,4,FFFFFF,000000
+15002360D2092,AT,GULF,Auckland To Gulf Harbour,4,FFFFFF,000000
+16001FF2099,AT,RANG,Rangitoto Island To Auckland Via Devonport,4,FFFFFF,000000
+16002FF2098,AT,RANG,Auckland To Rangitoto Island Via Devonport,4,FFFFFF,000000
+17001FF2102,AT,MTIA,Waiheke Island To Auckland Direct,4,FFFFFF,000000
+17002FF2104,AT,MTIA,Auckland To Waiheke Island Direct,4,FFFFFF,000000
+17003FF2103,AT,MTIA,Waiheke Island To Auckland Indirect (Via Devonport),4,FFFFFF,000000
+17004FF2439,AT,MTIA,Auckland To Waiheke Island Indirect (Via Devonport),4,FFFFFF,000000
+18001360D2101,AT,TIRI,Tiri Tiri Matangi To Auckland Via Gulf Harbour,4,FFFFFF,000000
+18002360D2100,AT,TIRI,Auckland To Tiri Tiri Matangi Via Gulf Harbour,4,FFFFFF,000000
+19001PH2111,AT,PH,Rakino Pine Harbour,4,FFFFFF,000000
+19002PH2110,AT,PH,Pine Harbour To Rakino,4,FFFFFF,000000
+20001FF2094,AT,HMB,Half Moon Bay To Auckland,4,FFFFFF,000000
+20004FF2495,AT,HMB,Auckland To Half Moon Bay,4,FFFFFF,000000
+22001FF2493,AT,LOOP,Inner Harbour Loop,4,FFFFFF,000000
+22002FF2494,AT,LOOP,Inner Harbour Loop,4,FFFFFF,000000
+17014VT2474,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
+17015VT3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
+19001VT2153,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
+19002VT2150,AT,WEST,Britomart To Waitakere,2,FFFFFF,000000
+21001VT2051,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
+21002VT2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
+21003VT2039,AT,STH,Papakura To Otahuhu,2,FFFFFF,000000
+24101VT2046,AT,STH,Otahuhu To Britomart Via Newmarket,2,FFFFFF,000000
+24102VT2057,AT,STH,Britomart To Otahuhu Via Newmarket,2,FFFFFF,000000
+24106VT2052,AT,STH,Otahuhu To Papakura,2,FFFFFF,000000
+32001VT2050,AT,SE,Papakura To Britomart Via Glen Innes,2,FFFFFF,000000
+32002VT2053,AT,SE,Britomart To Papakura Via Glen Innes,2,FFFFFF,000000
+34201VT2038,AT,SE,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000
+34202VT2037,AT,SE,Britomart To Otahuhu Via Glen Innes,2,FFFFFF,000000
+51101VT3390,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
+51102VT3438,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000

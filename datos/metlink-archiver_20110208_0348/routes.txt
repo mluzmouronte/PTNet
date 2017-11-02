@@ -1,0 +1,229 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+TZWA:MPN:I:,TZWA,MPN,Palmerston North - Masterton,3
+TZWA:MPN:O:,TZWA,MPN,Masterton - Palmerston North,3
+GOW:N1:O:,GOW,N1,After Midnight (Island Bay/Lyall Bay),3
+GOW:N2:O:,GOW,N2,After Midnight (Hataitai/Miramar/Strathmore/Seatoun),3
+GOW:N3:O:,GOW,N3,After Midnight (Karori/Northland),3
+GOW:N4:O:,GOW,N4,After Midnight (Wadestown/Khandallah),3
+NLDS:N5:O:,NLDS,N5,After Midnight (Newlands/Churton Park/Johnsonvillle),3
+MANA:N6:O:,MANA,N6,After Midnight (Tawa/Porirua/Whitby),3
+VLYF:N8:I:,VLYF,N8,After Midnight (Lower Hutt - Wellington),3
+VLYF:N22:O:,VLYF,N22,After Midnight (Naenae/Stokes Valley/Upper Hutt),3
+VLYF:N66:O:,VLYF,N66,After Midnight (Wainuiomata),3
+VLYF:N88:O:,VLYF,N88,After Midnight (Eastbourne),3
+NAK:NAK:I:,NAK,NAK,Nakedbus.com (Auckland - Wellington),3
+NAK:NAK:O:,NAK,NAK,Nakedbus.com (Wellington - Auckland),3
+GOW:1:I:,GOW,1,Island Bay - Wellington,3
+GOW:1:O:,GOW,1,Wellington - Island Bay,3
+GOW:2:I:,GOW,2,Miramar - Wellington,3
+GOW:2:O:,GOW,2,Wellington - Miramar,3
+GOW:3:I:,GOW,3,The Green Route (Karori - Wellington - Lyall Bay),3
+GOW:3:O:,GOW,3,The Green Route (Lyall Bay - Wellington - Karori),3
+GOW:4:I:,GOW,4,Happy Valley - Wellington,3
+GOW:4:O:,GOW,4,Wellington - Happy Valley,3
+GOW:5:I:,GOW,5,Hataitai - Wellington,3
+GOW:5:O:,GOW,5,Wellington - Hataitai,3
+GOW:6:I:,GOW,6,Lyall Bay - Wellington,3
+GOW:6:O:,GOW,6,Wellington - Lyall Bay,3
+GOW:7:I:,GOW,7,Kingston - Wellington,3
+GOW:7:O:,GOW,7,Wellington - Kingston,3
+GOW:8:I:,GOW,8,Kowhai Park - Wellington,3
+GOW:8:O:,GOW,8,Wellington - Kowhai Park,3
+GOW:9:I:,GOW,9,Aro Street - Wellington,3
+GOW:9:O:,GOW,9,Wellington - Aro Street,3
+GOW:10:I:,GOW,10,Newtown - Wellington,3
+GOW:10:O:,GOW,10,Wellington - Newtown,3
+GOW:11:I:,GOW,11,Seatoun - Wellington,3
+GOW:11:O:,GOW,11,Wellington - Seatoun,3
+GOW:13:I:,GOW,13,Wellington - Mairangi,3
+GOW:13:O:,GOW,13,Mairangi - Wellington,3
+GOW:14:I:,GOW,14,The Silver Route (Kilbirnie - Wilton),3
+GOW:14:O:,GOW,14,The Silver Route (Wilton - Kilbirnie),3
+GOW:17:I:,GOW,17,Karori - Wellington,3
+GOW:17:O:,GOW,17,Wellington - Karori,3
+GOW:18:I:,GOW,18,Campus Connection (Miramar - Karori),3
+GOW:18:O:,GOW,18,Campus Connection (Karori - Miramar),3
+GOW:20:I:,GOW,20,Highbury - Wellington - Mt Victoria,3
+GOW:20:O:,GOW,20,Mt Victoria - Wellington - Highbury,3
+GOW:21:I:,GOW,21,Vogeltown - Wellington - Karori,3
+GOW:21:O:,GOW,21,Karori - Wellington - Vogeltown,3
+GOW:22:I:,GOW,22,Houghton Bay - Wellington - Mairangi,3
+GOW:22:O:,GOW,22,Mairangi - Wellington - Houghton Bay,3
+GOW:23:I:,GOW,23,Southgate - Wellington - Mairangi,3
+GOW:23:O:,GOW,23,Mairangi - Wellington - Houghton Bay/Southgate,3
+GOW:24:I:,GOW,24,Miramar Heights - Wellington,3
+GOW:24:O:,GOW,24,Wellington Miramar Heights,3
+GOW:25:O:,GOW,25,Strathmore - Wellington,3
+GOW:28:I:,GOW,28,Beacon Hill Shuttle (Beacon Hill - Broadway Shops),3
+GOW:28:O:,GOW,28,Beacon Hill Shuttle (Broadway Shops - Beacon Hill),3
+GOW:29:I:,GOW,29,Southern Shopper (Island Bay - Brooklyn - Newtown),3
+GOW:29:O:,GOW,29,Southern Shopper (Newtown - Brooklyn - Island Bay),3
+GOW:30:I:,GOW,30,Seatoun Express (Breaker Bay/Scorching Bay - Wellington),3
+GOW:30:O:,GOW,30,Seatoun Express (Wellington - Breaker Bay/Scorching Bay),3
+GOW:31:I:,GOW,31,Miramar North Express (Miramar - Wellington),3
+GOW:31:O:,GOW,31,Miramar North Express (Wellington - Miramar),3
+GOW:32:I:,GOW,32,Island Bay Express (Island Bay - Wellington),3
+GOW:32:O:,GOW,32,Island Bay Express (Wellington - Island Bay),3
+GOW:43:I:,GOW,43,Strathmore - Wellington - Khandallah,3
+GOW:43:O:,GOW,43,Khandallah - Wellington - Strathmore,3
+GOW:44:I:,GOW,44,Strathmore - Wellington - Khandallah,3
+GOW:44:O:,GOW,44,Khandallah - Wellington - Strathmore,3
+GOW:45:I:,GOW,45,Wellington - Ngaio,3
+GOW:45:O:,GOW,45,Ngaio - Wellington,3
+GOW:46:I:,GOW,46,Broadmeadows - Wellington,3
+GOW:46:O:,GOW,46,Wellington - Broadmeadows,3
+NLDS:50:O:,NLDS,50,Broadmeadows Shopper,3
+NLDS:52:I:,NLDS,52,Johnsonville - Newlands - Wellington,3
+NLDS:52:O:,NLDS,52,Wellington - Newlands - Johnsonville,3
+NLDS:53:I:,NLDS,53,Johnsonville West (Johnsonville Hub - McLintock St),3
+NLDS:53:O:,NLDS,53,Johnsonville West (McLintock St - Johnsonville Hub),3
+NLDS:54:I:,NLDS,54,Churton Park - Wellington,3
+NLDS:54:O:,NLDS,54,Wellington - Churton Park,3
+NLDS:55:I:,NLDS,55,Grenada Village - Johnsonville - Wellington,3
+NLDS:55:O:,NLDS,55,Wellington - Johnsonville - Grenada Village,3
+NLDS:56:I:,NLDS,56,Newlands Coach Services,3
+NLDS:56:O:,NLDS,56,Wellington - Newlands - Johnsonville,3
+NLDS:57:I:,NLDS,57,Woodridge - Wellington,3
+NLDS:57:O:,NLDS,57,Wellington - Woodridge,3
+MANA:59:I:,MANA,59,Porirua - Tawa - Johnsonville,3
+MANA:59:O:,MANA,59,Johnsonville - Tawa - Porirua,3
+MANA:61:I:,MANA,61,Ascot Park - Porirua,3
+MANA:61:O:,MANA,61,Porirua - Ascot Park,3
+MANA:62:O:,MANA,62,Porirua - Ranui Heights - Porirua,3
+MANA:63:O:,MANA,63,Porirua - Sievers Grove - Porirua,3
+MANA:64:O:,MANA,64,Porirua - Castor Crescent - Porirua,3
+MANA:65:I:,MANA,65,Whitby - Porirua,3
+MANA:65:O:,MANA,65,Porirua - Whitby,3
+MANA:66:I:,MANA,66,Whitby - Paremata Station,3
+MANA:66:O:,MANA,66,Paremata - Whitby,3
+MANA:67:I:,MANA,67,Whitby - Porirua,3
+MANA:67:O:,MANA,67,Porirua - Whitby,3
+MANA:68:I:,MANA,68,Titahi Bay - Porirua,3
+MANA:68:O:,MANA,68,Porirua - Titahi Bay,3
+MANA:69:I:,MANA,69,Titahi Bay - Porirua,3
+MANA:69:O:,MANA,69,Porirua - Titahi Bay,3
+VLYF:80:I:,VLYF,80,Wainuiomata Commuter (Wainuiomata - Wellington),3
+VLYF:80:O:,VLYF,80,Wainuiomata Commuter (Wellington - Wainuiomata),3
+VLYF:81:I:,VLYF,81,Eastbourne - Wellington,3
+VLYF:81:O:,VLYF,81,Wellington - Eastbourne,3
+VLYF:83:I:,VLYF,83,Eastbourne - Lower Hutt - Wellington,3
+VLYF:83:O:,VLYF,83,Wellington - Lower Hutt - Eastbourne,3
+VLYF:84:I:,VLYF,84,Gracefield - Wellington,3
+VLYF:84:O:,VLYF,84,Wellington - Gracefield,3
+VLYF:85:I:,VLYF,85,Eastbourne Express (Eastbourne - Wellington),3
+VLYF:85:O:,VLYF,85,Eastbourne Express (Wellington - Eastbourne),3
+VLYF:90:I:,VLYF,90,Stokes Valley - Wellington,3
+VLYF:90:O:,VLYF,90,Wellington - Stokes Valley,3
+VLYF:91:I:,VLYF,91,Airport Flyer (Hutt Valley - Airport),3
+VLYF:91:O:,VLYF,91,Airport Flyer (Airport - Hutt Valley),3
+RUNC:92:I:,RUNC,92,Upper Hutt Commuter (Te Marua - Wellington),3
+RUNC:92:O:,RUNC,92,Upper Hutt Commuter (Wellington - Te Marua),3
+RUNC:93:I:,RUNC,93,Upper Hutt Commuter (Timberlea - Wellington),3
+RUNC:93:O:,RUNC,93,Upper Hutt Commuter (Wellington - Timberlea),3
+RUNC:98:I:,RUNC,98,Porirua - Upper Hutt,3
+RUNC:98:O:,RUNC,98,Upper Hutt - Porirua,3
+RUNC:99:I:,RUNC,99,Tawa - Taita,3
+RUNC:99:O:,RUNC,99,Taita - Tawa,3
+VLYF:110:I:,VLYF,110,Upper Hutt (Emerald Hill - Petone),3
+VLYF:110:O:,VLYF,110,Upper Hutt (Petone - Emerald Hill),3
+VLYF:111:I:,VLYF,111,To Upper Hutt Station,3
+VLYF:111:O:,VLYF,111,Upper Hutt - Totara Park,3
+VLYF:112:I:,VLYF,112,Te Marua - Upper Hutt,3
+VLYF:112:O:,VLYF,112,Upper Hutt - Te Marua,3
+VLYF:114:I:,VLYF,114,Poets Block (Trentham - Upper Hutt),3
+VLYF:114:O:,VLYF,114,Poets Block (Upper Hutt - Trentham),3
+VLYF:115:I:,VLYF,115,Pinehaven - Upper Hutt,3
+VLYF:115:O:,VLYF,115,Upper Hutt - Pinehaven,3
+VLYF:120:I:,VLYF,120,Stokes Valley - Lower Hutt,3
+VLYF:120:O:,VLYF,120,Lower Hutt - Stokes Valley,3
+VLYF:121:I:,VLYF,121,Valley Heights (Gracefield - Stokes Valley),3
+VLYF:121:O:,VLYF,121,Valley Heights (Stokes Valley - Gracefield),3
+VLYF:130:I:,VLYF,130,Petone - Naenae,3
+VLYF:130:O:,VLYF,130,Naenae - Petone,3
+VLYF:145:I:,VLYF,145,Belmont - Lower Hutt,3
+VLYF:145:O:,VLYF,145,Lower Hutt - Belmont,3
+VLYF:150:I:,VLYF,150,Western Hills (Kelson - Lower Hutt - Petone),3
+VLYF:150:O:,VLYF,150,Western Hills (Petone - Lower Hutt - Kelson),3
+VLYF:154:I:,VLYF,154,Korokoro - Lower Hutt,3
+VLYF:154:O:,VLYF,154,Lower Hutt - Korokoro,3
+VLYF:160:I:,VLYF,160,Wainuiomata North - Lower Hutt,3
+VLYF:160:O:,VLYF,160,Lower Hutt - Wainuiomata North,3
+VLYF:170:I:,VLYF,170,Wainuiomata South - Lower Hutt,3
+VLYF:170:O:,VLYF,170,Lower Hutt - Wainuiomata South,3
+TZWA:200:I:,TZWA,200,Masterton - Featherston,3
+TZWA:200:O:,TZWA,200,Featherston - Masterton,3
+TZWA:201:O:,TZWA,201,Masterton West,3
+TZWA:202:O:,TZWA,202,Masterton South and East,3
+TZWA:203:O:,TZWA,203,Masterton - Lansdowne Circuit,3
+TZWA:204:I:,TZWA,204,Greytown - Woodside Station,3
+TZWA:204:O:,TZWA,204,Woodside Station - Greytown,3
+TZWA:205:I:,TZWA,205,Featherston - Martinborough,3
+TZWA:205:O:,TZWA,205,Martinborough - Featherston,3
+MANA:210:I:,MANA,210,Mana Coach Services Ltd,3
+MANA:210:O:,MANA,210,Johnsonville - Titahi Bay,3
+MANA:211:I:,MANA,211,Mana Coach Services Ltd,3
+MANA:211:O:,MANA,211,Courtenay Place - Porirua,3
+MANA:220:I:,MANA,220,Titahi Bay - Ascot Park,3
+MANA:220:O:,MANA,220,Ascot Park - Titahi Bay,3
+MANA:226:I:,MANA,226,Elsdon - Sievers Grove,3
+MANA:226:O:,MANA,226,Sievers Grove - Elsdon,3
+MANA:230:I:,MANA,230,Whitby (The Crows Nest) - Porirua,3
+MANA:230:O:,MANA,230,Porirua - Whitby (The Crows Nest),3
+MANA:235:I:,MANA,235,Whitby (Navigation Drive) - Paremata Station,3
+MANA:235:O:,MANA,235,Paremata Station - Whitby (Navigation Drive),3
+MANA:236:I:,MANA,236,Whitby (Navigation Drive) - Porirua,3
+MANA:236:O:,MANA,236,Porirua - Whitby (Navigation Drive),3
+MANA:250:I:,MANA,250,Raumati South - Paraparaumu (via Raumati Beach Shops),3
+MANA:250:O:,MANA,250,Paraparaumu - Raumati South (via Raumati Beach Shops),3
+MANA:258:O:,MANA,258,Paraparaumu Station - Paraparaumu Beach (Loop) via Te Roto Drive,3
+MANA:259:O:,MANA,259,Paraparaumu Station - Paraparaumu Beach (Loop) via Langdale Ave,3
+MANA:260:I:,MANA,260,Raumati Beach - Paraparaumu (via Paraparaumu Beach),3
+MANA:260:O:,MANA,260,Paraparaumu - Raumati Beach (via Paraparaumu Beach),3
+MANA:261:I:,MANA,261,Paraparaumu Beach - Paraparaumu (via Guildford Dr),3
+MANA:261:O:,MANA,261,Paraparaumu - Paraparaumu Beach (via Guildford Dr),3
+MANA:262:I:,MANA,262,Paraparaumu Beach - Paraparaumu (via Mazengarb Rd),3
+MANA:262:O:,MANA,262,Paraparaumu - Paraparaumu Beach (via Mazengarb Rd),3
+MANA:265:O:,MANA,265,Paraparaumu Station - Paraparaumu Station (Loop),3
+MANA:266:O:,MANA,266,Paraparaumu Station - Paraparaumu Station (Loop),3
+MANA:270:I:,MANA,270,Paraparaumu East - Paraparaumu,3
+MANA:270:O:,MANA,270,Paraparaumu - Paraparaumu East,3
+MANA:271:I:,MANA,271,Lindale Shuttle (Lindale - Paraparaumu),3
+MANA:271:O:,MANA,271,Lindale Shuttle (Paraparaumu - Lindale),3
+MANA:280:I:,MANA,280,Waikanae Beach - Paraparaumu,3
+MANA:280:O:,MANA,280,Paraparaumu - Waikanae Beach,3
+MANA:285:I:,MANA,285,Kapiti Commuter (Waikanae - Wellington),3
+MANA:285:O:,MANA,285,Kapiti Commuter (Wellington - Waikanae),3
+MADG:290:I:,MADG,290,Otaki - Paraparaumu,3
+MADG:290:O:,MADG,290,Paraparaumu - Otaki,3
+MANA:300:I:,MANA,300,Whenua Tapu Cemetery Visitors Bus (Runs last Sunday of each month),3
+MANA:300:O:,MANA,300,Whenua Tapu Cemetery Visitors Bus (Runs last Sunda,3
+TP:OTL:I:,TP,OTL,Levin - Otaki,3
+TP:OTL:O:,TP,OTL,Otaki - Levin,3
+INCT:PNC:I:,INCT,PNC,Palmerston North - Wellington,3
+INCT:PNC:O:,INCT,PNC,Wellington - Palmerston North,3
+GOW:47:I:,GOW,47,Johnsonville to Newtown,3
+GOW:47:O:,GOW,47,Newtown to Johnsonville,3
+NLDS:58:I:,NLDS,58,Baylands - Newlands - Wellington,3
+NLDS:58:O:,NLDS,58,Wellington - Newlands - Baylands,3
+MANA:60:I:,MANA,60,Porirua - Tawa - Johnsonville - Wellington,3
+MANA:60:O:,MANA,60,Wellington - Johnsonville - Tawa - Porirua,3
+WCCL:CCL:I:,WCCL,CCL,Cable Car (Kelburn - Wellington),5
+WCCL:CCL:O:,WCCL,CCL,Cable Car (Wellington - Kelburn),5
+EBYW:WHF:I:,EBYW,WHF,Wellington Harbour Ferry (Days Bay - Queens Wharf),4
+EBYW:WHF:O:,EBYW,WHF,Wellington Harbour Ferry (Queens Wharf - Days Bay),4
+RAIL:HVL:I:,RAIL,HVL,Hutt Valley Line (Upper Hutt - Wellington),2
+RAIL:HVL:O:,RAIL,HVL,Hutt Valley Line (Wellington - Upper Hutt),2
+RAIL:JVL:I:,RAIL,JVL,Johnsonville Line (Johnsonville - Wellington),2
+RAIL:JVL:O:,RAIL,JVL,Johnsonville Line (Wellington - Johnsonville),2
+RAIL:KPL:I:,RAIL,KPL,Kapiti Line (Waikanae - Wellington),2
+RAIL:KPL:O:,RAIL,KPL,Kapiti Line (Wellington - Waikanae),2
+RAIL:MEL:I:,RAIL,MEL,Melling Line (Melling - Wellington),2
+RAIL:MEL:O:,RAIL,MEL,Melling Line (Wellington - Melling),2
+TRAN:PNL:I:,TRAN,PNL,Capital Connection (Palmerston North - Wellington),2
+TRAN:PNL:O:,TRAN,PNL,Capital Connection (Wellington - Palmerston North),2
+RAIL:PPL:I:,RAIL,PPL,Paraparaumu Line (Wellington - Paraparaumu ),2
+RAIL:PPL:O:,RAIL,PPL,Paraparaumu Line (Paraparaumu - Wellington),2
+TRAN:TOL:I:,TRAN,TOL,The Overlander (Auckland - Wellington),2
+TRAN:TOL:O:,TRAN,TOL,The Overlander (Wellington - Auckland),2
+RAIL:WRL:I:,RAIL,WRL,Wairarapa Line (Masterton - Wellington),2
+RAIL:WRL:O:,RAIL,WRL,Wairarapa Line (Wellington - Masterton),2

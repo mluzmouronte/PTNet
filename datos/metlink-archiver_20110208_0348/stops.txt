@@ -1,0 +1,3009 @@
+stop_id,stop_name,stop_lat,stop_lon
+22744,Palmerston North - Travel Centre,-40.357126,175.605817
+22743,Ashhurst (pre booked passengers only),-40.291739,175.754805
+22742,"Woodville - Coach Stop, Grey Street",-40.335455,175.864445
+22741,"Pahiatua - United Travel, Main Street",-40.453452,175.840644
+22740,"Eketahuna - Community Store, Main Street",-40.644521,175.703205
+22739,National Willife Centre (booked passengers only),-40.722213,175.637541
+22745,"Masterton - Tranzit, Queen Street (opposite)",-40.953509,175.656059
+22651,"Masterton - Tranzit, Queen Street",-40.953307,175.655825
+23336,Manners Street at Cuba Street (Burger King),-41.290930,174.776661
+10304,Courtenay Place - Courtenay Central,-41.292933,174.779915
+10309,Courtenay Place - Blair Street,-41.293764,174.782673
+10268,Kent Terrace at Pirie Street (near 43),-41.296911,174.782495
+10266,Kent Terrace at Basin Reserve,-41.298827,174.781436
+10213,Basin Reserve - Adelaide Road,-41.301608,174.779803
+10211,Adelaide Road at Broomhedge St (near 85),-41.304089,174.778963
+10209,Adelaide Road at Hospital Road (near 171),-41.306496,174.778251
+10158,Wellington Hospital,-41.308958,174.778604
+10111,Newtown Shops - Riddiford St (Mr Bun),-41.312716,174.779626
+11764,Riddiford Street (near 233),-41.315801,174.780497
+11777,Rintoul Street (near 191),-41.319505,174.777969
+11775,Berhampore Shops - Luxford St (near 46),-41.319919,174.775675
+11769,Adelaide Road at Herald Street (near 493),-41.321211,174.775375
+11767,Adelaide Road at Dawson Street (near 531),-41.323093,174.775438
+11765,Adelaide Road (near 559),-41.324638,174.775121
+10043,Adelaide Road at Berhampore Golf Course,-41.327601,174.774532
+10042,The Parade at Dee Street (near 17),-41.329373,174.774054
+10022,The Parade at Tamar Street (near 69),-41.331611,174.773803
+10021,The Parade at Avon Street (near 109),-41.333163,174.773618
+10020,Island Bay Shops - The Parade (near 145),-41.334642,174.773479
+10002,The Parade at Mersey Street (near 217),-41.337556,174.772577
+11749,The Parade at Humber Street (near 311),-41.340837,174.771220
+11745,Island Bay - The Parade,-41.342660,174.770349
+11748,The Parade at Humber Street (Amba Dairy),-41.340757,174.771122
+10003,Mersey Street at Clyde Street (near 30),-41.337450,174.773626
+10004,Melrose Road at Melbourne Road (near 1),-41.338084,174.776344
+10005,Melrose Road (near 41),-41.336616,174.779232
+10009,Melrose Road at Southgate Road,-41.337780,174.780853
+10006,Buckley Road at Bann Street (near 207),-41.342014,174.780238
+10001,Orchy Crescent at Buckley Road,-41.342930,174.779223
+10007,Buckley Road at Bann Street (near 178),-41.341807,174.780221
+10008,Buckley Road at Melrose Road (near 160),-41.340332,174.780635
+10010,Buckley Road (opposite 143),-41.339045,174.781174
+10011,Buckley Road (near 108),-41.336832,174.782751
+10025,Buckley Road (near 78),-41.334983,174.784135
+10024,Buckley Road (near 44),-41.332806,174.783395
+10023,Buckley Road at Houghton Bay Rd (near 6),-41.330665,174.782644
+22393,Sinclair Park - Houghton Bay Road (near 27),-41.330742,174.785191
+22394,Hornsey Road at Houghton Bay Rd (near 133),-41.331991,174.787148
+22395,View Road at Houghton Bay Road,-41.333363,174.788727
+22396,View Road (near 33),-41.334940,174.789236
+22397,View Road at Twomey Grove (near 59),-41.336679,174.789773
+22399,View Road at Hungerford Road (near 97),-41.338312,174.790188
+10013,Lyall Bay - Hungerford Road (near 2),-41.337904,174.792101
+10029,Queens Drive (near 304),-41.335488,174.791079
+10028,Queens Drive at Sutherland Road (near 252),-41.332300,174.791064
+10031,Queens Drive at Rua Street (near 190),-41.330489,174.791672
+10048,Rua Street at Freyberg Street (near 2),-41.329953,174.793127
+10050,Lyall Parade at Onepu Road,-41.329211,174.795102
+10049,Onepu Road at Apu Crescent (near 194),-41.327705,174.795252
+10052,Lyall Bay Shops - Onepu Road (near 140),-41.325327,174.795271
+10074,Onepu Road at Endeavour Street (near 96),-41.323336,174.795288
+10073,Kilbirnie Bus Depot - Onepu Road (near 56),-41.320778,174.795338
+10122,Kilbirnie Shops - Rongotai Road (Eat East),-41.318057,174.795372
+11581,Rongotai Road at Childers Terrace (near 2),-41.317704,174.793761
+11582,Crawford Road at Kilbirnie Tennis Club,-41.315948,174.790787
+11583,Crawford Road at Wellington Road (opposite),-41.313529,174.789395
+11584,Constable Street at Coromandel St,-41.312696,174.786804
+11585,Constable Street at Owen Street (near 84),-41.312962,174.784733
+11586,Constable Street (near 14),-41.313653,174.780786
+11587,Newtown Shops - Riddiford St (Lorraines),-41.312952,174.779477
+11588,Riddiford Street at Hall St,-41.311213,174.779000
+10159,Wellington Hospital (opposite),-41.309017,174.778307
+10208,Adelaide Road at Hospital Road (near 138),-41.306236,174.778173
+10210,Adelaide Road at King Street (near 80),-41.303901,174.778886
+10212,Basin Reserve - Adelaide Road (McDonalds),-41.301612,174.779565
+10265,Cambridge Terrace at Basin Reserve,-41.298626,174.781037
+10267,Cambridge Terrace at Vivian Street (near 54),-41.296809,174.782086
+10270,Elizabeth Street at Kent Terrace (near 7),-41.295856,174.783744
+10272,Brougham Street at Elizabeth Street (near 51),-41.296921,174.785302
+10273,Pirie Street at Porritt Avenue (near 77),-41.298270,174.786019
+10276,Pirie Street at Bus Tunnel (near 123),-41.298968,174.788092
+10216,Waitoa Road at Bus Tunnel,-41.301794,174.791716
+10219,Hataitai Village (near 38),-41.303886,174.793875
+10221,Hataitai Road at Huia Road (near 120),-41.301987,174.796725
+10277,Hataitai Road (near 90),-41.299901,174.798197
+10278,Hataitai Road at Hataitai School (near 128),-41.297896,174.800304
+10279,Hataitai School - Arawa Road,-41.298592,174.801290
+10280,Arawa Road at Te Anau Road,-41.299814,174.801467
+10224,Waipapa Road at Peranga Terrace (near 31),-41.300745,174.800143
+10223,Waipapa Road at Kainui Road (near 75),-41.302491,174.798483
+10222,Waipapa Road (near 101),-41.303528,174.797185
+10220,Hataitai Village (Tunnel Laundrette),-41.304331,174.794783
+10166,Moxham Avenue at Raupo Street (near 87),-41.307330,174.793061
+10162,Kilbirnie School - Moxham Avenue,-41.308715,174.792609
+10164,Kupe Street at Hamilton Road,-41.310146,174.792695
+10168,Hamilton Road at Wellington Road (near 115),-41.311761,174.793635
+10116,Wellington Regional Aquatic Centre,-41.315083,174.793152
+10119,Kilbirnie Library - Kilbirnie Crescent,-41.315945,174.793916
+10121,Kilbirnie Shops - Bay Road,-41.317664,174.795194
+10078,Rongotai Road at Ross Street (near 119),-41.318517,174.798848
+10082,Rongotai Road at Troy Street (near 141),-41.318992,174.801298
+10125,Cobham Drive at Airport Runway (opposite),-41.316903,174.806474
+10127,Miramar Avenue at Tauhinu Road,-41.314750,174.812818
+10130,Miramar Avenue - Miramar Shops,-41.315864,174.815321
+10135,Park Road at Byron Street (near 45),-41.314123,174.817793
+10136,Park Road at Brussels Street (near 63),-41.313110,174.818602
+10179,Park Road at Rotherham Terrace (near 91),-41.311797,174.819652
+10187,Darlington Road at Camperdown Rd (near 104),-41.307404,174.825778
+10185,Darlington Road at Totara Terrace (near 64),-41.309327,174.824924
+10183,Darlington Road at Puriri Street (near 26),-41.311812,174.823822
+10141,Para Street at Awa Road (near 82),-41.313229,174.822487
+10140,Miramar Central School - Para Street (opposite),-41.315350,174.820491
+10139,Marist Holy Cross School - Para Street,-41.317258,174.819421
+10095,Hobart Street at Chelsea Street (near 104),-41.319553,174.814419
+11822,Hobart Street at Kedah Street (near 32),-41.323617,174.812560
+11824,Broadway at Hobart Street (near 383),-41.325286,174.812343
+11825,Broadway at Crawford Green (near 411),-41.325214,174.814647
+10063,Scots College - Monorgan Road,-41.327977,174.818236
+10034,Raukawa Street at Nuku Street (near 37),-41.330749,174.817201
+10033,Taiaroa Street at Raukawa Street (near 1),-41.331698,174.817012
+10037,Taiaroa Street at Tukanae Street (near 27),-41.334167,174.817462
+10038,Tukanae Street (near 12),-41.332815,174.819253
+10041,Tukanae Street at Ahuriri Street (near 2),-41.334036,174.819526
+10018,Ahuriri Street (near 41),-41.336239,174.817460
+10016,Ahuriri Street at Kekerenga Street (near 55),-41.336499,174.816356
+10015,Ahuriri Street at Kekerenga Street (near 71),-41.337390,174.814098
+10014,Strathmore Park Terminus,-41.336159,174.813921
+10017,Kekerenga Street at Ahuriri Street (near 2),-41.336050,174.816319
+22443,Ahuriri Street (near 30),-41.336065,174.817658
+10040,Ahuriri Street at Tukanae Street (near 4),-41.334244,174.819496
+10039,Tukanae Street (near 11),-41.333140,174.819250
+10036,Taiaroa Street at Tukanae Street (near 24),-41.334036,174.817244
+10032,Raukawa Street (near 40),-41.331200,174.816580
+10062,Scots College - Monorgan Road (near 44),-41.328034,174.818034
+10065,Broadway at The Quadrant (near 451),-41.325046,174.818453
+11828,Strathmore Park Shops - Broadway (opposite),-41.324408,174.820694
+11883,Broadway at Tio Tio Road (near 535),-41.323894,174.823559
+11884,Broadway at Cavendish Square (near 569),-41.324299,174.825852
+11885,Ferry Street at Dundas Street (near 48),-41.322578,174.828779
+11886,Seatoun Village - Dundas Street (near 23),-41.322575,174.830679
+11887,Dundas Street at Monro Street (near 55),-41.323168,174.833622
+11888,Seatoun Park - Monro Street,-41.325462,174.833244
+11832,Seatoun Park - Hector Street,-41.325458,174.834630
+10308,Courtenay Place - Paramount,-41.293858,174.782460
+10306,Courtenay Place - St James Theatre,-41.293113,174.779932
+23337,Manners Street at Cuba Street (Body Shop),-41.291515,174.777238
+10330,Manners Street at Willis Street,-41.289578,174.774917
+22215,Willis Street - Grand Arcade,-41.286934,174.775861
+10332,Lambton Quay - Cable Car,-41.283808,174.775335
+10347,Lambton Quay - Farmers,-41.282814,174.775559
+10355,"Lambton Quay - North End, Stop F",-41.279571,174.776761
+11657,The Terrace at Bolton Street (near 25),-41.279807,174.775454
+11658,The Terrace at Aurora Terrace (near 85),-41.281433,174.775128
+11659,The Terrace at Dalmuir Lane (near 135),-41.283476,174.774657
+11660,Salamanca Road at The Terrace,-41.288838,174.771494
+11661,Victoria University - Kelburn Parade,-41.289001,174.767892
+11662,Upland Road at Glasgow Street (near 39),-41.287827,174.765735
+11663,Kelburn Village - Upland Road (St Michael's),-41.289353,174.762540
+11664,Kelburn Normal School - Upland Road (opposite),-41.287183,174.760727
+11599,Glenmore Street at Karori Tunnel,-41.287582,174.756391
+11600,Karori Sanctuary - Chaytor Street (Appleton Park,-41.286217,174.754373
+11601,Chaytor Street at Curtis Street (opposite),-41.284581,174.752932
+11602,Chaytor Street at Joll Street,-41.283010,174.751995
+11603,Karori Road at Standen Street (near 93),-41.281468,174.750330
+11604,Marsden Village - Karori Road (near 141),-41.282380,174.746009
+11605,Karori Normal School - Karori Road,-41.283761,174.741078
+11606,Karori Road at Campbell Street (near 223),-41.284226,174.739467
+11607,Karori Mall - Karori Road (opposite),-41.284881,174.737251
+11609,St Teresa's - Karori Road (near 291),-41.285593,174.734786
+11610,Karori Road at Burrows Avenue (near 333),-41.286564,174.731301
+11611,Karori Road at Tringham Street (near 357),-41.286890,174.728791
+11613,Karori Park Pavilion - Karori Road (opposite),-41.287178,174.725180
+11614,Karori Road at St Philips Church (near 415),-41.288460,174.723769
+11943,Hazelwood Avenue (near 33),-41.292917,174.722643
+11945,Hazelwood Avenue (near 23),-41.294229,174.724051
+11947,Hazelwood Avenue (near 67),-41.297108,174.724222
+11949,South Karori - Hazelwood Avenue (near 89),-41.298724,174.722150
+11616,Karori Park,-41.288962,174.723316
+11951,Woodhouse Avenue at South Karori Rd (near 1),-41.288889,174.723995
+11953,Woodhouse Avenue (opposite 24),-41.289839,174.725477
+11955,Woodhouse Avenue at Parklands Dr,-41.291884,174.724838
+11957,Parklands Drive at Landsdowne Terrace (near 18),-41.290915,174.725803
+11959,Parklands Drive at Collier Avenue,-41.289423,174.726839
+11961,Collier Avenue (near 20),-41.287894,174.727862
+11919,Marshall Street at Tringham Street (near 1),-41.285998,174.727621
+11920,Marshall Street at Hildreth Street,-41.284541,174.726866
+11922,Sunshine Avenue at Percy Dyett Drive,-41.283637,174.725875
+11923,Sunshine Avenue at Victory Avenue,-41.282468,174.727552
+11924,Victory Avenue at Tobruk Street,-41.281370,174.728682
+11925,Victory Avenue at Montgomery Ave,-41.283062,174.730027
+11938,Montgomery Avenue (near 13),-41.282352,174.730474
+11928,Montgomery Avenue (near 35),-41.280694,174.730574
+11930,Montgomery Ave at Alanbrooke Place (near 51),-41.279532,174.730591
+11932,Montgomery Ave at Caldwell St,-41.279540,174.728216
+11934,Montgomery Ave at Skyline Reserve,-41.278533,174.726900
+11936,Karori West - Montgomery Avenue,-41.277984,174.728068
+11933,Montgomery Ave at Caldwell St (opposite 75),-41.279377,174.728259
+11931,Montgomery Ave at Alanbrooke Place,-41.279430,174.730732
+11929,Montgomery Avenue (near 50),-41.280610,174.730763
+11937,Montgomery Avenue (near 24),-41.282259,174.730711
+11926,Victory Avenue at Montgomery Ave (near 38),-41.283333,174.729975
+11939,Victory Avenue at Tobruk Street (near 14),-41.281495,174.728768
+11940,Sunshine Avenue at Victory Avenue (near 46),-41.282592,174.727687
+11941,Sunshine Avenue at Percy Dyett Drive (near 18),-41.283762,174.725915
+11921,Marshall Street at Hildreth Street (near 26),-41.284403,174.727030
+11942,Marshall Street at Tringham Street (near 4),-41.285878,174.727785
+11618,Karori Road at Tringham Street,-41.286776,174.728549
+11619,Karori Road at Richmond Avenue (near 340),-41.286589,174.730251
+11620,St Teresa's - Karori Road (near 294),-41.285365,174.735019
+21869,Beauchamp Street at Dasent Street (near 39),-41.287708,174.738508
+21870,Beauchamp Street at Henderson St (near 63),-41.289040,174.739164
+21871,Beauchamp Street at Verviers St (near 79),-41.290211,174.739768
+21872,Verviers Street at Kano Street (near 37),-41.290012,174.741016
+21873,Campbell Street (near 133),-41.290724,174.742205
+21874,Campbell Street (near 171),-41.292946,174.744127
+21875,Croydon Street (near 64),-41.293918,174.745980
+21876,Croydon Street at Versailles Street,-41.291843,174.746809
+21877,Croydon Street (near 2),-41.290519,174.746821
+21878,Duthie Street at Hurman Street,-41.289511,174.747356
+21879,Duthie Street at Gipps Street,-41.287689,174.747546
+11631,Plymouth Street at Messines Road,-41.286728,174.749730
+11632,Messines Road (near 22),-41.285470,174.748968
+11633,Messines Road at Braithwaite Street (near 2),-41.284495,174.748548
+11640,Gipps Street at Shirley Street (near 3),-41.287597,174.746493
+11641,Gipps Street at Donald Street (near 25),-41.288177,174.744431
+11642,Donald Street at Firth Terrace (near 56),-41.287093,174.743459
+11643,Victoria University - Karori Campus,-41.285100,174.742475
+11644,Marsden Village - Karori Road (near 146),-41.282283,174.745922
+11645,Karori Road at Standen Street (near 90),-41.281308,174.750254
+22206,Northland Road at Seaview Terrace (near 138),-41.279535,174.761394
+22207,Northland Road at Military Road,-41.279528,174.760105
+22210,Northland Road (near 88),-41.281651,174.759087
+22211,Northland Village - Northland Road,-41.283404,174.757558
+22212,Northland Tunnel (near Putnam St),-41.284880,174.755197
+10352,"Lambton Quay - North End, Stop H",-41.279858,174.776243
+10356,"Molesworth Street - Parliament, Stop E",-41.278658,174.778145
+10379,Molesworth Street - Cathedral,-41.275801,174.777710
+10381,Molesworth Street - New World,-41.273962,174.777768
+10380,Molesworth Street - Motorway,-41.272817,174.777833
+22121,Park Street at Tinakori Road (near 7),-41.271530,174.777189
+22122,Grant Road at Newman Terrace (near 32),-41.269163,174.778271
+22124,Grosvenor Terrace at Orchard Street,-41.267143,174.779613
+22125,Grosvenor Terrace at Lower Watt St,-41.266014,174.779846
+22126,Lennel Road at Lower Watt Street,-41.264488,174.780079
+22129,Lennel Road at Sefton Street (near 20),-41.263952,174.778000
+22130,Wadestown Library - Wadestown Road,-41.262533,174.776612
+22131,Wadestown Road at Pitt Street (near 95),-41.261789,174.775148
+22132,Wadestown Shops (near 109),-41.261996,174.773996
+22133,Wadestown Road at Lytton Street (near 163),-41.261679,174.769404
+22134,Wadestown School - Wilton Road (near 177),-41.261658,174.767864
+22135,Wilton Road at Purakau Avenue (near 11),-41.262522,174.765559
+22136,Izard Park - Wilton Road (near 41),-41.264287,174.764341
+22137,Wilton Road (near 79),-41.266207,174.763068
+22480,Churchill Drive at Wilton Bush Road,-41.263458,174.763233
+22264,Ngaio Town Hall - Ottawa Road,-41.249944,174.773517
+22265,Ottawa Road at Awarua Street,-41.247848,174.774511
+22316,Simla Crescent Station (bus stop),-41.246951,174.784212
+22244,Burma Road at John Sims Drive,-41.236389,174.798018
+22245,Broadmeadows - Rajkot Terrace,-41.236831,174.797409
+22246,Rajkot Terrace at Orissa Crescent,-41.237180,174.796369
+22247,Kanpur Road at Sita Way (near 5),-41.236768,174.795618
+22248,Kanpur Road (near 45),-41.237674,174.794139
+22249,Kanpur Road (near 59),-41.237593,174.791834
+22250,Kanpur Road at Juanpur Crescent (near 91),-41.235495,174.792934
+22251,Kanpur Road at Nalanda Crescent (near 111),-41.233932,174.792677
+22252,Nalanda Crescent at Rajkot Terrace (near 59),-41.234107,174.794746
+22254,Rajkot Terrace at John Sims Drive,-41.233256,174.795045
+22253,John Sims Drive (near 40),-41.233594,174.796426
+22255,Broadmeadows - John Sims Drive,-41.234876,174.797428
+22241,Burma Road at Fraser Avenue,-41.235936,174.798208
+22242,Station Road (near 7),-41.242105,174.792983
+22317,Cashmere Avenue (near 57),-41.245186,174.795250
+22293,Ranui Crescent at Cashmere Avenue (near 73),-41.247137,174.796652
+22295,Everest Street at Ganges Road (near 29),-41.248513,174.793300
+22296,Khandallah Village (New World),-41.247322,174.791120
+22297,Clutha Avenue at Nicholson Road (near 3),-41.248077,174.789469
+22298,Clutha Avenue at Cockayne Road (near 47),-41.248641,174.787373
+22299,Cockayne Road at Lucknow Terrace,-41.249675,174.786875
+22300,Calcutta Street (near 39),-41.251271,174.787945
+22301,Waru Street at Calcutta Street (near 7),-41.252343,174.789669
+22302,Punjab Street at Waru Street (near 36),-41.253741,174.786663
+22303,Punjab Street at Cockayne Road (near 10),-41.252204,174.785249
+22304,Cockayne Road at Bankot Crescent (near 155),-41.252223,174.782887
+22305,Cockayne Road at Setsan Way (near 205),-41.252781,174.779393
+22306,Cockayne Road at Quetta Street,-41.252555,174.777072
+22307,Perth Street at Crofton Road (near 1),-41.254838,174.775021
+22308,Perth Street at Orari Street Walkway (near 15),-41.254671,174.773620
+22324,Ngaio Gorge Road (near 17),-41.256295,174.773389
+22325,Ngaio Gorge Road (near 67),-41.256451,174.775601
+22326,Ngaio Gorge Road (near 105),-41.256300,174.778366
+22327,Kaiwharawhara Road (near 68),-41.257565,174.782781
+22328,Kaiwharawhara Road (near 36),-41.258641,174.787751
+22329,Kaiwharawhara Road at Hutt Road,-41.259612,174.789066
+10359,Wellington Station - Stop D,-41.278356,174.779021
+10385,Thorndon Quay - Capital Gateway (opposite),-41.275951,174.781976
+10387,Thorndon Quay at Davis Street (near 125),-41.274245,174.783398
+10386,Thorndon Quay (opposite Bordeaux Bakery),-41.271443,174.781735
+10395,Thorndon Quay at Motorway (Hirequip),-41.269735,174.780937
+10399,Hutt Road at Sar Street,-41.267039,174.781676
+10409,Hutt Road at Aotea Quay,-41.263657,174.784879
+10412,Kaiwharawhara - Hutt Road (Fore St),-41.259538,174.790353
+10438,Hutt Road at Rangiora Avenue,-41.255530,174.796725
+21990,Ngauranga - Hutt Road (opposite motorway),-41.247640,174.812322
+21991,Ngauranga Commercial Centre - Centennial Hwy,-41.244582,174.813229
+21989,Ngauranga Gorge (Kiwi Point),-41.237620,174.805115
+21992,Newlands Bus Depot - Newlands Road (opposite),-41.231151,174.812168
+21993,Newlands Road (opposite 72),-41.230399,174.814796
+21994,Newlands Road at Salford Street,-41.228662,174.818136
+21995,Newlands Road at Stella Grove (near 143),-41.226432,174.819029
+21996,Newlands Park (Northpac Timber),-41.223888,174.821595
+21969,Kenmore Street Plunket Rooms,-41.223507,174.825223
+21970,Kenmore Street (near 72),-41.225447,174.827281
+21971,Link Road (near 29),-41.227616,174.825647
+21972,Glanmire Road at Turville Cres (near 85),-41.228797,174.823854
+21973,Kenmore Street (near 5),-41.228552,174.825721
+21974,Kenmore Street at Barclay Street (near 35),-41.227843,174.828373
+21975,Somes Crescent at Dress Circle (near 10),-41.227149,174.830155
+21976,Somes Crescent at Sunhaven Dr (near 23),-41.226373,174.831375
+21977,Somes Crescent at Baylands Dr (near 45),-41.225147,174.830875
+21978,Baylands Drive at Bayswater Place (near 79),-41.222909,174.830002
+21979,Horokiwi Road at Bloomsbury Grove,-41.222299,174.829258
+21980,Horokiwi Road at Pinkerton Grove (near 44),-41.222952,174.827236
+21997,Newlands Shops - Bracken Road,-41.222826,174.823236
+21998,Bracken Road (near 29),-41.221643,174.822869
+21999,Bracken Road at Trebann Street (near 45),-41.220806,174.822262
+22000,Newlands College - Bracken Road (opposite),-41.219126,174.822549
+22040,Beazley Avenue at Bracken Road (near 110),-41.217368,174.820974
+22041,Beazley Avenue at Beverley Grove (near 92),-41.216232,174.820490
+22042,Paparangi School - Beazley Avenue (opposite),-41.215053,174.819264
+22043,Paparangi Shops,-41.213853,174.817681
+22044,Mark Avenue (near 37),-41.212614,174.816836
+22045,Mark Avenue (near 75),-41.211405,174.815848
+22046,Mark Avenue Park,-41.207829,174.818743
+22047,Guadeloupe Crescent at Mandeville Cres,-41.209117,174.821582
+22048,Guadeloupe Crescent (near 39),-41.208818,174.823410
+22049,Grenada Village - Guadeloupe Crescent,-41.206819,174.823379
+22051,Mark Avenue at Buccaneer Place (near 134),-41.207472,174.820809
+22052,Grenada Grounds - Mark Avenue (opposite),-41.207989,174.819428
+22053,Mark Avenue (near 64),-41.211280,174.816310
+22054,Mark Avenue (near 40),-41.212224,174.816992
+22055,Paparangi Shops (opposite),-41.213881,174.818182
+22056,Paparangi School - Beazley Avenue,-41.214568,174.819156
+22057,Beazley Avenue at Beverley Grove (near 91),-41.216430,174.821056
+22001,Bracken Road at Carluke Street,-41.218216,174.820306
+22002,Helston Road at Paparangi Crescent,-41.217898,174.817613
+22003,Helston Road at Warren Street (near 168),-41.216771,174.815960
+22004,Helston Road (near 142),-41.216953,174.815261
+22005,Helston Road at McMahon Way (near 112),-41.217465,174.813665
+22006,Helston Park - Helston Road,-41.219167,174.813103
+22007,Helston Road at Hardy Street,-41.220774,174.812289
+21957,Helston Road at Petherick Crescent,-41.221924,174.810161
+10616,Middleton Road (near 25),-41.219307,174.808157
+10642,Middleton Road (near 59),-41.217319,174.809140
+10643,Middleton Road (near 71),-41.215992,174.809915
+10645,Middleton Road at Churton Drive,-41.214057,174.810971
+10711,Middleton Road at Wingfield Place (opposite),-41.211061,174.811330
+22093,Halswater Drive at Dormar Place,-41.207706,174.811083
+22094,Burbank Crescent at Wantwood Street,-41.205536,174.809867
+22095,Burbank Crescent at Longmont Terrace,-41.203647,174.810280
+22096,Lakewood Avenue at Westchester Drive,-41.202492,174.808138
+22097,Westchester Drive (near 111),-41.202694,174.806712
+22100,Amesbury Drive at Derry Hill,-41.201935,174.804569
+22101,Amesbury Drive at Claverton Grove,-41.200383,174.802988
+22102,Amesbury Drive at Erlestoke Crescent,-41.199282,174.801432
+22103,Erlestoke Crescent (near 17),-41.199962,174.799972
+22104,Waverton Terrace at Sandy Brow,-41.201802,174.799783
+22105,Waverton Terrace (near 30),-41.202937,174.802116
+22106,Waverton Terrace (near 12),-41.204881,174.802765
+22098,Westchester Drive at Waverton Terrace,-41.206242,174.803899
+22099,Halswater Drive at Lakewood Avenue,-41.207052,174.805066
+10714,Middleton Road at Wingfield Place,-41.210453,174.812184
+10646,Middleton Road at Churton Drive (near 122),-41.214058,174.811520
+10644,Middleton Road (near 76),-41.215892,174.810544
+22485,Middleton Road (near 48),-41.218599,174.809652
+10615,Middleton Road (near 18),-41.219824,174.808529
+22058,Bassett Road (near 15),-41.219208,174.807009
+22059,Johnsonville School - Ohariu Road,-41.218912,174.804651
+22060,Ohariu Road at Hallewell Cres (near 67),-41.217283,174.802233
+22061,Branscombe Street (near 5),-41.215987,174.802174
+22062,Branscombe Street at Ironside Road,-41.217668,174.800037
+22063,Erris Street at Ironside Road (near 101),-41.219162,174.799004
+22064,Erris Street at Tatum Way (near 27),-41.218313,174.797370
+22066,Erris Street at Cortina Avenue (near 61),-41.218412,174.795083
+22067,Cortina Avenue at Stonefield Place (near 54),-41.219280,174.796001
+22068,Cortina Avenue at Safari Crescent (near 42),-41.220926,174.796714
+22069,Cortina Avenue (near 20),-41.222401,174.798042
+22070,Truscott Avenue at Fairburn Grove,-41.226289,174.795882
+22071,McLintock Street at Truscott Avenue (near 3),-41.227103,174.792766
+22072,McLintock St at Meadowcroft Grove,-41.225307,174.793576
+22073,McLintock Street at Norwood Place (near 59),-41.223480,174.791773
+22074,Johnsonville West - McLintock Street,-41.221348,174.792157
+22076,McLintock St at Meadowcroft Grove (opposite),-41.225225,174.794242
+22077,Truscott Avenue at Elliott Street,-41.227269,174.793701
+22078,Truscott Avenue at Fairburn Gr (near 18),-41.225726,174.795628
+22079,Truscott Avenue (near 102),-41.224079,174.797265
+22531,Broderick Road (Hail and Ride),-41.224150,174.800822
+10614,Johnsonville Station - Stop A,-41.223429,174.804906
+10574,Johnsonville Road (Burger King),-41.225731,174.806877
+10921,Main Road Tawa at Dressmart (opposite),-41.183707,174.824553
+10955,Redwood Village - Main Road (opposite),-41.179319,174.824658
+10956,Main Road Tawa at Redwood Ave (near 85),-41.177528,174.825133
+10994,Main Road Tawa at Elena Place (near 159),-41.172368,174.824514
+11037,Tawa Mall - Main Road (Harcourts),-41.168772,174.824677
+11039,Main Road Tawa (near 249),-41.165177,174.826437
+11068,Main Road Tawa at McLellan St (opposite),-41.161481,174.827241
+11086,Main Road Tawa (near 329),-41.156815,174.828959
+11098,Kenepuru Drive at Rahia Street,-41.148704,174.833823
+11100,Kenepuru Drive at Ambulance Drive,-41.148398,174.837770
+11102,Kenepuru Drive at Bowland (opposite),-41.147505,174.840105
+22483,Kenepuru Drive at The Mill (opposite),-41.140395,174.841432
+11177,Porirua Station - Stop A,-41.137429,174.843327
+11174,Lyttelton Avenue - Ferry Place,-41.135421,174.842163
+11246,Lyttelton Avenue - Countdown (opposite),-41.133977,174.840669
+11237,Prosser Street (opposite 22),-41.133780,174.832658
+11236,Kotuku Street (near 13),-41.132930,174.828870
+11234,Kotuku Street (near 45),-41.130460,174.827837
+11291,Kotuku Street at Takapuwahai Drive (near 89),-41.127870,174.829302
+11292,Takapuwahia Drive at Rangituhi Cres (near 22),-41.126081,174.829110
+11295,Takapuwahia Drive at Te Hiko Street (near 60),-41.124251,174.831454
+11297,Te Hiko Street (near 8),-41.124086,174.835046
+11300,Whitireia Polytechnic - Titahi Bay Road (opposit,-41.124166,174.836835
+11338,Titahi Bay Road at Whanga Cres Walkway,-41.119343,174.838786
+11468,Main Road at Dimock Street (near 80),-41.109272,174.840554
+11528,Dimock Street (near 71),-41.104174,174.844509
+11529,Dimock Street (near 99),-41.101268,174.844904
+11552,Dimock Street (near 141),-41.099336,174.842338
+11526,Thornley Street at Dimock Street (near 28),-41.100015,174.839832
+11463,Titahi Bay Library - Tireti Road,-41.108297,174.836145
+11393,Te Pene Avenue at Te Puke Street (near 75),-41.112413,174.837902
+11396,Te Pene Avenue at Piko Street (near 125),-41.116429,174.838550
+11182,Mungavin Park - Mungavin Avenue,-41.139198,174.851013
+11185,Mungavin Avenue at Gear Terrace (near 41),-41.139768,174.853078
+11134,Mungavin Avenue (near 69),-41.140938,174.855375
+11136,Trust Porirua Park - Mungavin Avenue (opposite),-41.142941,174.856861
+11137,Mungavin Avenue at Sievers Gr (near 145),-41.141910,174.858273
+11139,Holy Family School - Mungavin Avenue,-41.140230,174.859680
+11145,Mungavin Avenue at Bedford St (near 201),-41.140947,174.863787
+11151,Cannons Creek Shops - Warspite Avenue (opposite),-41.140852,174.866310
+11196,Warspite Avenue at Castor Crescent (near 51),-41.139206,174.868992
+11198,Calliope Park - Warspite Avenue,-41.137869,174.870336
+22855,Warspite Ave at Fantame St (School stop),-41.136909,174.872310
+11201,Warspite Avenue (near 115),-41.135920,174.874474
+11210,Warspite Avenue (near 165),-41.133857,174.879467
+11254,Warspite Avenue (near 183),-41.132402,174.879759
+11256,Waitangirua Mall - Warspite Avenue,-41.129093,174.880011
+22941,Warspite Avenue (near 305),-41.126377,174.880267
+11306,Warspite Avenue at Penguin Gr (near 335),-41.124649,174.880754
+11304,Warspite Avenue (near 367),-41.122495,174.879144
+11351,Conclusion Street (near 7),-41.120983,174.876350
+11350,Conclusion Street (near 47),-41.118353,174.875192
+11346,Rangikura School - Conclusion Street,-41.117671,174.871182
+11343,Ascot Park - Conclusion Street (near 141),-41.118996,174.868885
+11347,Desert Gold Street (near 8),-41.121012,174.871765
+11344,Warspite Avenue (near 461),-41.121087,174.869326
+11302,Whitford Brown Ave at Aotea Lodge (opposite),-41.123098,174.856864
+11341,RNZ Police College - Papakowhai Road (Lagoon),-41.120526,174.857792
+11342,Tweed Road at Langwell Street (near 78),-41.116971,174.861492
+11405,Tweed Road at Ness Grove (near 52),-41.114710,174.863786
+11406,Tweed Road at Papakowhai Dairy (opposite),-41.112894,174.865795
+11477,Eskdale Road at Forth Place (near 13),-41.110551,174.865289
+11409,Eskdale Road at Moray Place (near 61),-41.111288,174.868156
+11411,Lauderdale Road (opposite 14),-41.110465,174.870609
+11480,Tirowhanga Road (near 20),-41.109938,174.872047
+11482,Kahu Road (near 51),-41.107460,174.874883
+23089,Kahu Road (near 61),-41.106760,174.876364
+11484,Kahu Road (near 108),-41.108107,174.878867
+11485,Kahu Road at Kenef Road,-41.106757,174.878805
+11532,Oak Avenue (near 14),-41.104175,174.878041
+11487,Postgate Drive at Browns Bay Park (near 5),-41.107004,174.881289
+11414,Postgate Drive at Staithes Drive North (near 39),-41.111430,174.882177
+11417,Spinnaker Drive at Hicks Close (near 258),-41.113856,174.883651
+11420,Spinnaker Drive at Spinnaker Walkway,-41.112368,174.887098
+23093,Discovery Drive at Spinnaker Drive (near 7),-41.111539,174.889301
+23094,Discovery Drive (near 51),-41.113699,174.888351
+11358,Discovery Drive at Mariners Way,-41.116134,174.890373
+11359,Whitby Lakes (Lower Lake),-41.118869,174.892179
+11361,Whitby Village,-41.117580,174.893892
+23095,Whitby College - Discovery Drive,-41.115770,174.894448
+11428,Discovery Drive at The Haven (near 87),-41.115183,174.897837
+11430,Discovery Drive (near 109),-41.115910,174.899609
+11363,James Cook Drive at Discovery Drive,-41.115845,174.901358
+11432,James Cook Drive at Sailmaker Close,-41.112884,174.901261
+11433,James Cook Drive at Observatory Close,-41.110917,174.902002
+11501,Joseph Banks Drive (near 21),-41.108130,174.905507
+11503,Joseph Banks Drive at The Masthead (near 51),-41.108246,174.908297
+11505,Joseph Banks Drive (near 91),-41.107587,174.913851
+11531,Paremata Road (near 132),-41.103360,174.877768
+22775,Mana Marina,-41.101084,174.869773
+22943,Mana Esplanade,-41.095755,174.869039
+22565,"Plimmerton Shops, Steyne Avenue (Hail & Ride)",-41.083528,174.866492
+10733,"Lower Hutt - Queensgate, Stop B",-41.209920,174.904840
+10673,Queens Drive at Central Library,-41.211783,174.900541
+10671,"Victoria Street at Weltec, Block F (near 64)",-41.214080,174.895060
+10665,Victoria Street at Alice Street (near 46),-41.215173,174.893219
+10626,Alicetown Shops (near 438),-41.216648,174.891162
+10624,Cuba Street at Burnham Street (near 150),-41.219523,174.889396
+10593,Cuba Street at Manchester Street (near 96),-41.223231,174.887330
+10589,Cuba Street at Jackson Street (near 42),-41.226909,174.885479
+10587,Jackson Street at Bolton Street,-41.226909,174.883272
+10586,"Petone - Jackson Street, Police Station",-41.225944,174.880000
+10583,Jackson Street at Sydney Street,-41.224733,174.875861
+10581,Jackson Street at Pak N Save,-41.223745,174.872326
+10579,Jackson Street at Kathmandu,-41.222835,174.869545
+10578,Te Puni Mail Centre,-41.223770,174.866315
+10382,Murphy Street - Wellington Girls,-41.275230,174.779688
+10357,Wellington Station - Stop C,-41.278472,174.779107
+10351,"Lambton Quay - North End, Stop J",-41.279863,174.776482
+10350,Lambton Quay - Stout Street,-41.280961,174.775963
+10349,Lambton Quay - Kirkcaldie and Stains,-41.282856,174.775703
+10329,Lambton Quay - ANZ Bank,-41.284821,174.775601
+10331,Willis Street - Willbank Court,-41.287921,174.775517
+21988,Hutt Road at Centennial Highway,-41.247134,174.813609
+10577,Te Puni Mail Centre (opposite),-41.223512,174.866093
+10580,Jackson Street at Te Puni Street,-41.222813,174.870940
+10582,Jackson Street at Petone Avenue,-41.223853,174.873999
+10584,Jackson Street at Palace Cafe,-41.224233,174.875561
+10585,"Petone - Jackson Street, ANZ Bank",-41.225454,174.879676
+10588,Cuba Street at Jackson Street (near 33),-41.226719,174.885008
+10592,"Cuba Street at Weltec, Block N",-41.224649,174.886011
+10623,Cuba Street at Bouverie Street (opposite 142),-41.220642,174.888139
+10625,Alicetown Shops,-41.216564,174.890790
+10663,Victoria Street at Alice Street (near 85),-41.214972,174.892832
+10669,"Victoria Street at Weltec, Block F",-41.213629,174.895095
+10672,Queens Drive at Central Library (opposite),-41.211665,174.900060
+10677,Lower Hutt - Centre City Plaza,-41.210221,174.902988
+10732,"Lower Hutt - Queensgate, Stop A",-41.209212,174.904629
+10741,High Street at Kirk Motors,-41.206498,174.908093
+10744,High Street at Melling Road,-41.204951,174.911769
+10810,Ropata Medical Centre (near 583),-41.203661,174.916824
+10811,High Street at Knox Presbyterian Church (near 61,-41.203552,174.919051
+10813,Hutt Hospital - High Street (opposite),-41.203156,174.924442
+10815,Boulcott Village (near 71),-41.202965,174.927811
+10818,High Street at Thornycroft Street (near 773),-41.201637,174.931302
+10820,High Street at Avalon Baptist Church (near 805),-41.200178,174.933466
+10822,High Street at Park Avenue (near 847),-41.198299,174.935939
+10827,"Naenae College, Daysh Street",-41.198146,174.939166
+10835,Naenae Road at Horlor Street,-41.202417,174.946017
+10839,Naenae Road at Vogel Street (near 162),-41.201721,174.949384
+10842,Naenae Road at Rata Street (near 251),-41.198313,174.954924
+10876,Naenae Road at Kowhai Street (near 293),-41.195088,174.956033
+10874,Naenae - Kowhai Street (near 2),-41.193210,174.953115
+10911,High Street at Burcham Street (near 1105),-41.186290,174.954842
+10940,High Street at Macky Street (near 1147),-41.183542,174.957563
+10973,"Taita Station - High Street, Stop B",-41.179842,174.960648
+10975,High Street at Biddle Crescent (near 1259),-41.175768,174.961886
+11006,High Street at Partridge Street (near 1295),-41.173321,174.963804
+11010,High Street at Farmer Crescent (near 1341),-41.170465,174.965984
+11041,High Street at The Links,-41.166810,174.966436
+11043,High Street at The Endway (riverside),-41.166402,174.969236
+11071,Stokes Valley Entrance - Stop A,-41.161503,174.982391
+11058,Stokes Valley Road at George Street (near 55),-41.163709,174.984507
+11061,Stokes Valley Road (near 95),-41.166307,174.984788
+22810,Tui Glen School (near 135),-41.169425,174.983678
+11024,Stokes Valley Road at Hawthorn Crescent,-41.171839,174.983130
+10987,Stokes Valley Road at Delaney Park (near 225),-41.176223,174.982248
+10986,Stokes Valley Road at Milton Street (near 255),-41.177905,174.982347
+10988,Stokes Valley Road at Chittick Street (near 275),-41.179415,174.982571
+10953,Stokes Valley Road at Manuka Street (near 357),-41.184524,174.982939
+10919,Stokes Valley Road at Kamahi Street,-41.186835,174.983151
+11087,Silver Stream Railway Museum (opposite),-41.150016,174.991473
+11116,Silverstream Station - Fergusson Drive (St Pats),-41.146536,175.012470
+11118,St Joseph's Home of Compassion,-41.145110,175.015716
+11159,Fergusson Drive at Kiwi Street (near 275),-41.143286,175.019091
+11160,Fergusson Drive at Golf Road,-41.141634,175.022401
+11162,Fergusson Drive at Barton Rd,-41.138917,175.027894
+11211,Trentham Memorial Park (near 441),-41.136863,175.032001
+11214,Fergusson Drive at Brentwood St,-41.134295,175.036699
+11217,Fergusson Drive at Merton St,-41.132297,175.040664
+11269,Trentham School - Fergusson Drive,-41.129788,175.045578
+11271,Fergusson Drive at Refreshment Plc (near 617),-41.128554,175.048101
+11273,Fergusson Rest Home (near 657),-41.126728,175.051535
+11276,Fergusson Drive at Golders Road (near 699),-41.125791,175.055627
+11280,Fergusson Drive at Broadway Shops,-41.125464,175.058821
+11282,Fergusson Drive at Fraser Crescent,-41.125113,175.062336
+11289,Upper Hutt - Senior Citizens Club,-41.125518,175.069425
+11290,Upper Hutt Station - Stop C,-41.125879,175.070853
+10734,"Lower Hutt - Queensgate, Stop C",-41.210322,174.905090
+10680,Cornwall Street at RSA,-41.210902,174.908673
+10746,Waterloo Road at Chilton St James (opposite),-41.209911,174.914119
+10687,Waterloo Road at St Bernards College,-41.210465,174.917129
+10688,Waterloo Station - Stop C,-41.213854,174.921354
+10633,Guthrie Street at Brook Street (near 11),-41.218723,174.917237
+10631,Waiwhetu Road at Grenville Street (near 62),-41.221727,174.916358
+10602,Waiwhetu Road at Rodney Street (near 40),-41.222975,174.914462
+10601,Wainui Rd at Our Lady Of The Rosary (near 11),-41.225036,174.915094
+10569,Griffins - Wainui Road,-41.228291,174.917026
+10571,Wainui Road at Gracefield Road (to Wainui),-41.230901,174.920407
+10444,Wainuiomata Road at Parkway (near 156),-41.254977,174.930691
+10448,Wainuiomata Road at Rimu Street (near 126),-41.256827,174.933144
+10416,Wainuiomata Road at Davis Grove (near 76),-41.259296,174.937430
+10418,Wainuiomata Road at The Strand,-41.260623,174.941503
+10423,Wainuiomata Shopping Centre (Library stop),-41.262114,174.946071
+10426,Wainuiomata Shopping Centre (Fitzherbert Rd),-41.261840,174.946850
+10427,Fitzherbert Road at Police Station,-41.260109,174.946942
+10458,Nelson Crescent at Miles Crescent,-41.255382,174.949512
+10459,Nelson Crescent at Wise Street (near 17),-41.254661,174.951138
+10463,Wise Street at Thirlmere Street (near 21),-41.252841,174.951168
+10460,Wise Street at Derwent Street (near 39),-41.251469,174.950829
+10498,Wise Street at Russell Road (near 89),-41.247877,174.950210
+10525,Wise Street at Pencarrow Crescent (near 127),-41.244149,174.949586
+10523,Norfolk Street (near 28),-41.242715,174.948136
+10521,Wellington Road at Hamstead Street (near 227),-41.240656,174.944698
+10545,Wellington Road at Arakura Park (near 273),-41.237647,174.945791
+10547,Wellington Road at Bexley Grove (near 297),-41.235315,174.946808
+10549,Wellington Road at Stockdale Street (near 325),-41.233681,174.947595
+10573,Wainuiomata North - Ipswich Grove,-41.231436,174.948268
+10548,Wellington Road at Stockdale Street (near 310),-41.233555,174.948140
+10546,Wellington Road at Kew Grove (near 272),-41.235541,174.947316
+10544,Wellington Road at Arakura Park (near 242),-41.237819,174.946309
+10522,Wellington Road at Whitehall Street,-41.240190,174.945615
+10520,Wellington Road at Norfolk Street (near 186),-41.242435,174.944965
+10517,Wellington Road at Kent Street (near 164),-41.244570,174.944408
+10495,Wellington Road at Dublin Street (near 128),-41.247046,174.943896
+10497,Wellington Road at Dover Road (near 100),-41.249497,174.945436
+10453,Wellington Road at Devon Street (near 52),-41.252418,174.946859
+10456,Wellington Road at Parkway (near 13),-41.254662,174.947343
+10428,Fitzherbert Road at Gospel Chapel (near 24),-41.260107,174.947611
+10425,Wainuiomata Shopping Centre (10 Fitzherbert Rd),-41.261846,174.947531
+10404,Main Road at Fitzherbert Road (near 9),-41.263085,174.947806
+10406,Main Road at Arthur Street (near 33),-41.264901,174.949591
+10408,Main Road at Hyde Street,-41.266865,174.951177
+10392,Main Road at Stanley Street (near 93),-41.268780,174.952976
+10394,Wainuiomata Village - Main Road (near 143),-41.273096,174.954441
+10371,Wainuiomata Bus Depot - Main Road (opposite),-41.275689,174.954542
+10373,Hine Road at Homedale Road (near 21),-41.276109,174.957372
+10374,Hine Road (near 49),-41.275067,174.960934
+10377,Hine Road (near 97),-41.274614,174.964813
+10378,Wainuiomata - Sunny Grove,-41.276583,174.968752
+10376,Hine Road (near 106),-41.275014,174.964598
+10375,Hine Road (near 68),-41.275434,174.961088
+10372,Hine Road at Homedale Road (near 38),-41.276465,174.957633
+10370,Wainuiomata Bus Depot - Main Road,-41.275563,174.953977
+10675,Hutt Valley High School - Woburn Road (opposite),-41.215622,174.902607
+10628,Woburn Road at Hutt Recreation Ground,-41.217017,174.904365
+10630,Ludlam Crescent at Wai-iti Crescent (near 28),-41.220704,174.907418
+10597,Randwick Road at Moera Shops (near 130),-41.226838,174.905770
+10563,Randwick Road at Randwick School (near 94),-41.229660,174.905064
+10560,Randwick Road at Hutt Park Hotel,-41.232479,174.904489
+10529,Seaview Road at Parkside Road,-41.237993,174.907166
+10508,"Seaview Road, Placemakers",-41.240349,174.908487
+10509,Seaview Road at Barnes Street (near 55),-41.242356,174.909129
+10485,"Seaview Road, Mobil Terminal (opposite)",-41.245708,174.910133
+10486,Seaview Road (near 105),-41.248606,174.910253
+10483,Seaview Marina - Marine Drive,-41.250127,174.907552
+10440,Point Howard,-41.252890,174.904947
+10414,Lowry Bay (near 230),-41.257671,174.912723
+10403,York Bay (near 305),-41.263541,174.910148
+10401,Mahina Bay - Rangiuru Road,-41.267417,174.907742
+10390,Mahina Bay (near 445),-41.270147,174.908238
+10363,Sunshine Bay (near 517),-41.276067,174.904804
+10364,Days Bay - Ferry Road,-41.277449,174.905142
+10367,Days Bay - Marine Drive (Williams Park),-41.280983,174.907119
+10341,Days Bay - Moana Road (opposite),-41.282573,174.906281
+10339,Muritai Road at Marine Parade (near 79),-41.286932,174.901894
+10326,Muritai Road at Houhere Terrace (near 107),-41.288717,174.900680
+10324,Eastbourne Village - Muritai Road (near 139),-41.290918,174.898319
+10297,Muritai Road at Titoki Street (near 247),-41.294746,174.896112
+10298,Muritai Road at Ngaio Street (near 275),-41.296729,174.896552
+10295,Muritai Road at Hinau Street (near 315),-41.298633,174.895758
+10257,Muritai Drive at Konini Street (near 335),-41.300128,174.894679
+10256,Muritai Road at Kowhai Street (near 383),-41.302180,174.892600
+10254,Muritai Road at Nikau Street (near 417),-41.304139,174.890661
+10201,Muritai Road at Tawa Street (near 383),-41.305539,174.888181
+10199,Eastbourne Terminus (near 497),-41.307858,174.885130
+22791,Wakefield Street - Michael Fowler Centre,-41.290194,174.778265
+23064,Downtown Backpackers,-41.280215,174.779990
+11175,Porirua - Lyttelton Avenue Coach Stop,-41.136334,174.841974
+23226,Plimmerton,-41.084965,174.868461
+22445,Paekakariki - SH1 at Beach Road,-40.988295,174.952562
+22446,Paraparaumu - Intercity Bus Stop,-40.917299,175.006073
+21500,Waikanae - Ngaio Road (Woolworths),-40.876204,175.065382
+22429,Otaki Information Centre,-40.761163,175.156420
+23225,Levin Info Centre,-40.628492,175.284127
+22441,Levin Mall,-40.621385,175.285918
+23083,Shannon,-40.545523,175.413845
+23224,Linton,-40.431861,175.558563
+23082,Palmerston North - Massey University,-40.383419,175.614917
+23079,Bulls - Information Centre,-40.176109,175.389586
+23160,Taihape,-39.678435,175.802704
+23223,Waiouru,-39.482031,175.674057
+23164,Turangi,-38.995477,175.819161
+23165,Taupo,-38.695072,176.089820
+23166,Rotorua,-38.145171,176.235499
+23222,Tirau,-37.989165,175.749057
+23221,Cambridge,-37.905477,175.467510
+23220,Hamilton,-37.798047,175.275249
+23219,Te Rapa,-37.751480,175.219330
+23218,Ngaruawahia,-37.679235,175.157015
+23217,Huntly,-37.567025,175.159207
+23216,Rangiriri,-37.433546,175.128404
+23215,Mercer,-37.289930,175.053848
+23214,Bombay,-37.195187,174.983366
+23213,Auckland,-36.858697,174.761252
+22428,Otaki Information Centre (opposite),-40.761468,175.156951
+21596,Waikanae - Ngaio Road (Newmans),-40.875832,175.065537
+22548,Paraparaumu Station - Stop B,-40.916774,175.006699
+23227,Paekakariki - BP,-40.989299,174.951771
+23174,Mana Esplanade (near Bridge),-41.101381,174.870377
+10576,Johnsonville Road (Woolworths),-41.223891,174.807591
+11751,The Parade at Mersey Street (near 214),-41.336833,174.772701
+11756,Island Bay Shops - The Parade (near 138),-41.334338,174.773351
+11757,The Parade at Avon Street (near 108),-41.333030,174.773483
+21952,The Parade at Tamar Street (near 64),-41.331000,174.773668
+21953,The Parade at Dee Street,-41.328871,174.773933
+21954,Adelaide Road at Wakefield Park,-41.327413,174.774431
+11766,Adelaide Road at Duppa Street,-41.323973,174.774996
+11770,Adelaide Road (near 500),-41.321558,174.775110
+11774,Berhampore Shops - Luxford St (BP),-41.319811,174.775672
+11776,Luxford Street at Rintoul Street (near 2),-41.319855,174.777477
+10108,Rintoul Street at Waripori Street (near 188),-41.318471,174.777858
+10109,Wakefield Hospital - Rintoul Street (near 128),-41.316380,174.777969
+10110,Rintoul Street at Stoke Street (near 76),-41.314666,174.778185
+10353,"Lambton Quay - North End, Stop I",-41.280061,174.775915
+21898,Vogeltown Terminus - Farnham Street,-41.319482,174.769487
+21899,Priscilla Crescent at Breton Grove (near 41),-41.322391,174.767116
+21900,Halifax Street (near 24),-41.324186,174.765193
+21789,Kingston Shops - Quebec Street,-41.323555,174.763467
+21790,Quebec Street at Baffin Grove (near 6),-41.320987,174.763554
+21901,Farnham Street (near 100),-41.318207,174.765678
+21902,Farnham Street (near 80),-41.319213,174.765298
+21903,Farnham Street (near 42),-41.320653,174.765958
+21904,Farnham Street (near 26),-41.320951,174.767053
+22217,Farnham Street at Balfour Street,-41.319709,174.768800
+11772,Britomart Street (near 130),-41.320537,174.771749
+10360,Wellington Station - Stop A,-41.278377,174.779415
+11781,Newtown Shops - Rintoul St (near 5),-41.312690,174.778956
+11780,Rintoul Street at Stoke Street (near 61),-41.314853,174.778310
+11779,Wakefield Hospital - Rintoul Street (near 99),-41.316874,174.778089
+10240,Miramar - Darlington Road,-41.305760,174.826091
+10142,Rotherham Terrace at Para Street (near 82),-41.312679,174.822580
+10178,Park Road at Rotherham Terrace (near 86),-41.311858,174.819797
+10137,Park Road at Brussels Street,-41.313235,174.818701
+10134,Park Road at Byron Street (near 34),-41.314603,174.817604
+10131,Miramar Shops - Park Road,-41.316303,174.816587
+10092,Caledonia Street at Hobart Street (near 38),-41.321517,174.812633
+10090,Caledonia Street at Calabar Road (near 10),-41.320894,174.809821
+10124,Cobham Drive at Airport Runway,-41.317256,174.805791
+10081,Rongotai Road at Salek Street (near 168),-41.319118,174.801266
+10076,Rongotai Road at Ross Street (near 118),-41.318518,174.798156
+10118,Kilbirnie Library - Kilbirnie Crescent (opposite,-41.316038,174.793740
+10115,Wellington Regional Aquatic Centre (opposite),-41.315095,174.792950
+10167,Hamilton Road at Wellington Road (near 124),-41.311737,174.793479
+10161,Kupe Street at Moxham Avenue,-41.310168,174.792445
+10163,Kilbirnie School - Moxham Avenue (near 118),-41.308555,174.792497
+10165,Moxham Avenue at Raupo Street (near 88),-41.307342,174.792882
+10218,Hataitai Village (near 35),-41.303936,174.793577
+10217,Waitoa Road at Bus Tunnel (near 73),-41.302107,174.791832
+10275,Pirie Street at Bus Tunnel (near 108),-41.299060,174.787987
+10274,Pirie Street at Porritt Avenue (near 66),-41.298355,174.785758
+10271,Brougham Street at Elizabeth Street (near 46),-41.296779,174.785190
+10269,Elizabeth Street at Kent Terrace,-41.295879,174.783410
+10303,Cuba Street - James Smiths Corner,-41.291004,174.777117
+10091,Caledonia Street at Calabar Road (near 9),-41.320776,174.809901
+10093,Caledonia Street at Hobart Street (near 31),-41.321408,174.812714
+10094,Hobart Street at Chelsea Street (near 107),-41.318889,174.814795
+10132,Miramar Shops - Park Road (old shelter),-41.316070,174.816557
+10143,Rotherham Terrace at Darlington Road (near 81),-41.312613,174.822757
+10182,Darlington Road at Puriri Street (near 33),-41.311597,174.823756
+10184,Darlington Road at Totara Terrace (near 65),-41.309747,174.824565
+10186,Darlington Road at Camperdown Rd (near 115),-41.307298,174.825644
+11617,Karori Park Pavilion - Karori Road,-41.287118,174.724952
+11621,Karori Mall - Karori Road,-41.284443,174.738231
+11623,Karori Road at Reading Street (near 218),-41.283968,174.739854
+11624,Karori Normal School - Karori Road (opposite),-41.283635,174.741039
+11646,Chaytor Street at Joll Street (opposite),-41.282627,174.752367
+11647,Chaytor Street at Curtis Street,-41.284463,174.753025
+11648,Karori Sanctuary - Chaytor Street (at Tunnel),-41.287083,174.754897
+11649,Glenmore Street at Northland Road,-41.287008,174.756842
+11665,Glenmore Street at Kelburn Viaduct,-41.287869,174.757653
+11666,Glenmore Street at The Rigi,-41.285851,174.758280
+11667,Glenmore Street at Orangi Kaupapa Rd (near 108),-41.283562,174.761920
+11668,Glenmore Street at Garden Road,-41.282444,174.763215
+11669,Botanic Garden - Glenmore Street (opposite),-41.280632,174.766880
+11670,Tinakori Road at St Mary Street (near 360),-41.279236,174.768645
+11671,Bowen Street,-41.278249,174.774254
+10112,Constable Street at Owen Street (near 77),-41.313003,174.783802
+10160,Constable Street at Coromandel St (near 123),-41.312578,174.786837
+10113,Crawford Road at Wellington Road,-41.313419,174.789535
+10114,Crawford Road at Duncan Terrace,-41.315759,174.791964
+10117,Crawford Road at Childers Terrace,-41.316720,174.793292
+10120,Kilbirnie Shops - Rongotai Road (Kilbirnie Sport,-41.317796,174.794767
+10075,Onepu Road at Coutts Street,-41.319969,174.795770
+10072,Onepu Road at Endeavour Street (near 95),-41.323396,174.795469
+10051,Onepu Road at Resolution Street (near 115),-41.324540,174.795453
+10054,Lyall Bay Shops - Onepu Road (near 145),-41.325856,174.795429
+10055,Onepu Road at Apu Crescent (near 181),-41.327189,174.795393
+10053,Onepu Road at Lyall Parade (near 219),-41.328739,174.795388
+10047,Rua Street at Freyburg Street,-41.330065,174.792867
+10046,Rua Street at Queens Drive (near 17),-41.330059,174.792102
+10026,Sutherland Road at Rua Street (near 217),-41.331230,174.790366
+10027,Sutherland Road at Queens Drive (near 250),-41.332289,174.790610
+10030,Queens Drive (opposite 302),-41.335126,174.791201
+10012,Lyall Bay - Hungerford Road,-41.337703,174.792310
+11593,Tinakori Road at St Mary Street,-41.279305,174.768838
+11594,Botanic Garden - Glenmore Street,-41.280721,174.766954
+11595,Glenmore Street at Orangi Kaupapa Rd,-41.283577,174.762135
+11596,Glenmore Street at The Rigi (near 147),-41.285541,174.759143
+11597,Glenmore Street at Kelburn Viaduct (near 177),-41.287813,174.757806
+11598,Glenmore Street (near 205),-41.288545,174.757050
+10334,Brandon Street,-41.283250,174.775869
+21916,Island Bay - Reef Street,-41.343140,174.770816
+11747,The Esplanade at Beach Street,-41.346349,174.769444
+21917,The Esplanade (opposite 432),-41.348118,174.762703
+21918,The Esplanade at Severn Street,-41.347895,174.761335
+21919,Owhiro Bay Parade - Happy Valley Road,-41.344171,174.759275
+21920,Happy Valley Dairy (opposite),-41.342737,174.760014
+21921,Happy Valley Road (near 71),-41.340935,174.760049
+22377,Happy Valley Road (near 85),-41.339963,174.760023
+21923,Owhiro Bay School (opposite),-41.338437,174.759648
+21924,Happy Valley Road (near 137),-41.337427,174.759131
+21926,Happy Valley Road (near 163),-41.335778,174.758011
+21927,Murchison Street at Happy Valley Park (opposite),-41.333806,174.757994
+21928,Murchison Street at Domanski Cres (opposite),-41.335410,174.760320
+21929,Murchison Street at Irwell Street,-41.336596,174.764044
+21930,Frobisher Street at Murchison St (near 94),-41.337330,174.764971
+21931,Frobisher Street (near 64),-41.339688,174.764473
+21932,Frobisher Street (near 44),-41.340484,174.763670
+21933,Frobisher Street (near 24),-41.342218,174.762724
+21934,Severn Street at Frobisher Street,-41.343595,174.763430
+22375,Severn Street at Wye Street,-41.342462,174.764452
+21936,Severn Street at Moselle Street (near 46),-41.340818,174.767718
+11773,Berhampore Shops - Adelaide Rd (near 450),-41.319637,174.775237
+11783,Adelaide Road at Stoke Street (near 340),-41.314308,174.775655
+11784,Adelaide Road at Hall Street (near 256),-41.310200,174.776894
+22774,Wellington Girls College (school stop),-41.275508,174.780317
+22773,Queen Margaret College (school stop),-41.271836,174.780146
+11778,South Wellington Intermediate (Rintoul St),-41.317847,174.778056
+11785,Adelaide Road at Hall Street (near 259),-41.310885,174.776853
+11782,Adelaide Road at Stoke Street (near 343),-41.314360,174.775812
+21955,Adelaide Road at McAlister Park (near 389),-41.317235,174.775698
+11750,Humber Street at The Parade,-41.340458,174.770696
+21937,Severn Street at Moselle Street,-41.341267,174.767240
+21938,Severn Street at Frobisher Street (near 121),-41.343737,174.763554
+21939,Frobisher Street (near 35),-41.341940,174.762633
+21940,Frobisher Street (near 53),-41.340570,174.763326
+21941,Frobisher Street (near 75),-41.339601,174.764244
+21942,Frobisher Street at Murchison St (near 99),-41.337459,174.764736
+21943,Murchison Street at Jordan Street,-41.336741,174.763976
+21944,Murchison Street at Domanski Cres,-41.335624,174.760481
+21945,Murchison Street at Happy Valley Park,-41.334002,174.758131
+23320,Happy Valley Road (opposite 165),-41.335605,174.758162
+21946,Owhiro Bay School,-41.338390,174.759826
+21947,Happy Valley Road (near 88),-41.339969,174.760226
+22376,Happy Valley Road (near 70),-41.340869,174.760250
+21948,Happy Valley Dairy,-41.342661,174.760251
+21949,Owhiro Bay Parade - Happy Valley Road (near 4),-41.344258,174.759457
+21950,The Esplanade at Severn Street (near 441),-41.347741,174.761450
+22378,The Esplanade (near 432),-41.347955,174.762770
+21951,The Esplanade (near 354),-41.347929,174.766821
+11746,The Esplanade at Beach Street (near 300),-41.345861,174.769562
+22974,Island Bay - Reef Street (near 30),-41.342749,174.770459
+23177,Wellington Station - Stop V,-41.278713,174.778672
+21791,The Ridgeway at Wentworth Street (near 130),-41.317792,174.763958
+21792,The Ridgeway at Mornington Road,-41.315945,174.765223
+21793,Mills Road at Vennell Street (near 48),-41.313427,174.765538
+21794,Mills Road at Veronica Street (near 26),-41.312180,174.765791
+21795,Washington Ave at Connaught Tce,-41.309283,174.765594
+21796,Washington Avenue (near 104),-41.307700,174.766638
+21797,Brooklyn School - Washington Avenue,-41.305827,174.766648
+21798,Brooklyn Library,-41.305086,174.765577
+21799,Brooklyn Village - Cleveland Street,-41.305386,174.763650
+21800,Ohiro Road at Tanera Crescent (near 154),-41.303857,174.763490
+21801,Brooklyn Road at Ohiro Road,-41.302634,174.764568
+21802,Brooklyn Road at Washington Ave (opposite),-41.302629,174.766108
+21804,Brooklyn Road at Bidwill Street (opposite),-41.302654,174.769178
+21805,Renouf Tennis Centre,-41.301411,174.769145
+21806,Central Park,-41.298682,174.768558
+21807,Brooklyn Road at Webb Street (Pukehinau Flats),-41.297212,174.769868
+21808,Willis Street - Abel Smith Street,-41.294666,174.771495
+21809,Willis Street - Cumberland House,-41.293303,174.772259
+21810,Willis Street - Dixon Street,-41.291149,174.773503
+21811,Willis Street - Flagstaff Lane,-41.289933,174.774139
+10361,Wellington Station - Stop B,-41.278288,174.779377
+21812,Victoria Street - Manners Mall,-41.290940,174.775396
+21813,Victoria Street - Vivian Street,-41.293711,174.773237
+21814,Victoria Street - Abel Smith Street,-41.295046,174.772521
+21815,Brooklyn Road at Webb Street,-41.297133,174.770332
+21816,Central Park (opposite),-41.298671,174.768713
+21817,Renouf Tennis Centre (opposite),-41.300730,174.769545
+21818,Brooklyn Road at Bidwill Street,-41.302753,174.769754
+21819,Brooklyn Road at Washington Ave,-41.302811,174.765946
+21820,Brooklyn Road at Brooklyn Terrace,-41.302752,174.764523
+21821,Ohiro Road at Tanera Crescent (near 157),-41.304198,174.763606
+21822,Brooklyn Village - Ohiro Road,-41.304948,174.763435
+21823,Brooklyn Library (opposite),-41.304923,174.765083
+21825,Washington Avenue (near 83),-41.307165,174.766875
+21824,Washington Avenue (near 115),-41.308272,174.766355
+21826,Washington Ave at Connaught Tce (near 151),-41.310155,174.766286
+21827,Mills Road at Fortunatus Street (near 23),-41.312051,174.766002
+21828,Mills Road at Vennell Street (near 59),-41.313937,174.765730
+21829,The Ridgeway at Ingestre Street (near 93),-41.315834,174.765411
+21830,The Ridgeway (near 111),-41.317002,174.764988
+21831,The Ridgeway at Farnham Street (near 137),-41.318323,174.764020
+21832,The Ridgeway at Kingston Heights Road (near 175),-41.320701,174.763988
+21833,Kingston Shops - Quebec Street (opposite),-41.323524,174.763717
+21848,Kowhai Park - Mitchell Street,-41.315527,174.758307
+21849,Mitchell Street (near 212),-41.314288,174.756876
+21850,Mitchell Street at Virginia Grove (near 184),-41.312685,174.757455
+21851,Mitchell Street at Colorado Grove (near 162),-41.310649,174.758069
+22213,Mitchell Street at Hoover Street (near 138),-41.308715,174.758567
+21852,Mitchell Street at Karepa Street (near 114),-41.307632,174.758120
+21853,Karepa Street (opposite 171),-41.305993,174.757479
+21854,Karepa Street at Ashton Fitchett Dr (near 102),-41.304235,174.758209
+21855,Karepa Street (near 80),-41.302547,174.758426
+21856,Apuka Street at Mitchell Street (near 48),-41.302093,174.759871
+21857,Mitchell Street (near 33),-41.303533,174.759934
+21858,Todman Street at Mitchell Street (near 88),-41.305978,174.759641
+21859,Todman Street (near 60),-41.306524,174.761065
+21835,Todman Street (near 53),-41.306742,174.760963
+21836,Todman Street at Mitchell Street (near 97),-41.306294,174.759601
+21837,Mitchell Street (near 38),-41.303743,174.759736
+21838,Apuka Street at Mitchell Street,-41.302237,174.759851
+21839,Karepa Street at Apuka Street (near 57),-41.302137,174.758726
+21841,Karepa Street (near 73),-41.302599,174.758607
+21840,Karepa Street at Ashton Fitchett Dr (near 125),-41.304051,174.758431
+21842,Karepa Street (near 175),-41.305900,174.757692
+21843,Karepa Street at Mitchell Street,-41.306979,174.757828
+21844,Mitchell Street at Hoover Street (near 129),-41.308456,174.759002
+21845,Mitchell Street at Phoenix Way (near 157),-41.310546,174.758353
+21847,Mitchell Street at Virginia Grove,-41.313100,174.757454
+21846,Mitchell Street (near 207),-41.314294,174.757091
+21860,Aro Street Terminus,-41.293672,174.761068
+21861,Aro Street at Durham Street,-41.294788,174.763486
+21862,Aro Street at Devon Street (near 92),-41.295267,174.766890
+21863,Aro Street at Willis Street,-41.296080,174.770268
+21864,Aro Street at Ohiro Road,-41.296097,174.769790
+21865,Aro Street at Boston Terrace,-41.295598,174.768213
+21866,Aro Street at Epuni Street (near 105),-41.295399,174.766511
+21867,Aro Street at Durham Street (near 181),-41.295264,174.764143
+22421,Newtown Park - Wellington Zoo,-41.319468,174.784503
+11761,Mansfield Street at Roy Street (near 305),-41.318510,174.781228
+11763,Riddiford Street at Gordon St (Caltex),-41.315705,174.780304
+10156,John Street at Adelaide Road (near 11),-41.307198,174.777112
+10155,National Dance and Drama Centre - Stop A,-41.307597,174.775176
+10206,Wallace Street at Carrington Street (near 112),-41.306005,174.775001
+10204,Wallace Street at Howard Street (near 82),-41.304610,174.774952
+10202,Massey University - Wallace Street (opposite),-41.302056,174.774071
+10259,Taranaki Street (near 274),-41.299787,174.774631
+10262,Taranaki Street at Abel Smith Street,-41.297252,174.776067
+10263,Taranaki Street at Vivian Street (Briscoes),-41.295173,174.777193
+22352,Taranaki Street at Courtenay Place (near 72),-41.293364,174.778231
+10305,Taranaki Street at Courtenay Place,-41.293061,174.778665
+10264,Taranaki Street at Vivian Street,-41.295851,174.777009
+10260,Taranaki Street (near 217),-41.299202,174.775188
+10203,Massey University - Wallace Street,-41.302383,174.774498
+10207,Wallace Street at Howard Street,-41.305292,174.775137
+10205,Wallace Street at John Street (near 143),-41.306912,174.775205
+10157,John Street at Adelaide Road,-41.307128,174.777552
+11762,Mansfield Street (near 277),-41.317217,174.780966
+11759,Mansfield Street at Roy Street (near 311),-41.318803,174.781463
+11890,Dundas Street at Monro Street (near 68),-41.323429,174.834227
+11831,Seatoun Village - Dundas Street,-41.322693,174.830610
+11830,Ferry Street at Ludlam Street (near 49),-41.322902,174.828812
+11829,Broadway at Cavendish Square,-41.324556,174.826158
+11908,Broadway at Tio Tio Road (near 530),-41.324149,174.822801
+11827,Strathmore Park Shops - Broadway,-41.324578,174.820734
+10064,Broadway at Monorgan Road,-41.325199,174.818470
+11826,Broadway at Crawford Green (near 426),-41.325324,174.814518
+11823,Hobart Street at Broadway (near 3),-41.325022,174.811929
+11821,Hobart Street at Kedah Street (near 31),-41.323700,174.812419
+22171,Karori Sanctuary - Northland Tunnel Road,-41.286095,174.754716
+22172,Northland Tunnel (opposite Putnam St),-41.284867,174.754910
+22173,Northland Village - Northland Road (Hell Pizza),-41.283216,174.757433
+22174,Northland Road (near 87),-41.281511,174.758844
+22175,Northland Road at Kaihuia Street (near 127),-41.279329,174.759586
+22176,Northland Road at Pembroke Road (near 141),-41.279412,174.761188
+22177,Pembroke Road (near 19),-41.277656,174.760592
+22179,Pembroke Road at Cheshire Street (near 67),-41.276066,174.759117
+22181,Pembroke Road at Huntingdon Street (near 117),-41.273916,174.758355
+22182,Pembroke Road at Hereford Street  (near 171),-41.271906,174.758517
+22184,Pembroke Road (near 203),-41.270494,174.763123
+22185,Mairangi Road (near 217),-41.268893,174.763557
+22186,Mairangi Road at Euston Road (near 130),-41.267393,174.765630
+22188,Mairangi Road at Dorset Way (near 112),-41.266996,174.766276
+22190,Mairangi Road at Rutland Way (near 92),-41.266065,174.767075
+22191,Mairangi Road at Norwich Street (near 68),-41.264672,174.766321
+22192,Mairangi - Norwich Street,-41.265214,174.764414
+22193,Norwich Street at Mairangi Road (near 2),-41.264329,174.766312
+22194,Mairangi Road at Rutland Way (near 107),-41.265634,174.766980
+22196,Mairangi Road at Warwick Street (near 135),-41.267524,174.765920
+22198,Mairangi Road (near 159),-41.268808,174.763782
+22200,Mairangi Road at Monmouth Way (near 196),-41.270816,174.762666
+22201,Pembroke Road at Hereford Street,-41.271611,174.759500
+22202,Pembroke Road at Huntingdon Street,-41.273877,174.758593
+22204,Pembroke Road at Cheshire Street (near 72),-41.276250,174.759468
+22205,Pembroke Road (near 24),-41.277573,174.760745
+11805,Hataitai Village (Methodist Church),-41.304237,174.795043
+11806,Waipapa Road (near 96),-41.303431,174.797063
+22465,Waipapa Road at Huia Road (near 66),-41.302149,174.798461
+22466,Waipapa Road at Peranga Terrace (near 38),-41.300510,174.800148
+22467,Waipapa Road at Te Anau Rd (near 20),-41.299863,174.801253
+22468,Arawa Road at Hohiria Road (near 18),-41.299079,174.801244
+22476,Hataitai Road at Te Anau Road (near 10),-41.297233,174.801217
+11809,Grafton Road (near 114),-41.294658,174.800598
+11811,Grafton Road (near 102),-41.293715,174.800417
+11812,The Crescent at Grafton Road (near 66),-41.291808,174.800281
+11814,The Crescent (near 44),-41.290527,174.799828
+11816,The Crescent (near 14),-41.289173,174.800603
+22477,Grafton Road at The Crescent (near 22),-41.289234,174.801870
+11819,Roseneath Shops (opposite),-41.287851,174.802215
+22479,Carlton Gore Road at Lindum Terrace,-41.288178,174.801471
+10336,Oriental Parade at Carlton Gore Rd,-41.288341,174.799637
+10318,Oriental Parade (near 328),-41.289115,174.797963
+10316,Oriental Parade at Grass Street (near 260),-41.291140,174.795737
+10315,Oriental Parade at Oriental Terrace,-41.291390,174.792973
+10314,Oriental Parade at Freyberg Pool (opposite),-41.291210,174.790043
+10311,Oriental Parade at Cable Street (near 62),-41.292320,174.785846
+22138,Warwick Street at Wilton Road,-41.268258,174.759673
+22140,Warwick Street at Gloucester Street (near 4),-41.268780,174.759711
+22141,Gloucester Street (near 5),-41.269219,174.758708
+22142,Gloucester Street at Worcester St (near 21),-41.270096,174.756678
+22143,Gloucester Street at Wilton Road (near 51),-41.268739,174.757059
+22144,Wilton Park - Wilton Road (near 185),-41.269813,174.755142
+22145,Wilton - Surrey Street,-41.271366,174.754921
+22481,Cardinal McKeefry School - Wilton Rd,-41.275371,174.756293
+22146,Wilton Park - Wilton Road,-41.269770,174.754986
+22147,Otari-Wilton's Bush (Otari School),-41.268314,174.756594
+22148,Gloucester Street at Worcester St (near 22),-41.269872,174.756624
+22150,Gloucester Street (near 14),-41.269122,174.758550
+22151,Warwick Street at Gloucester Street,-41.268532,174.759441
+22153,Wilton Road at Warwick Road (near 122),-41.267972,174.760131
+22155,Wilton Road (near 74),-41.266201,174.762889
+22157,Izard Park - Wilton Road,-41.264272,174.764162
+22159,Wilton Road at Purakau Avenue (near 6),-41.262351,174.765531
+22160,Wadestown School - Wilton Road (opposite),-41.261641,174.767195
+22161,Wadestown Road at Lytton Street (near 158),-41.261610,174.769808
+22162,Wadestown Shops (near 98),-41.261826,174.774517
+22163,Wadestown Road at Pitt Street,-41.261794,174.776055
+22164,Lennel Road at Moorhouse Street,-41.262629,174.777403
+22165,Lennel Road at Sefton Street,-41.264113,174.778684
+22166,Grosvenor Terrace at Barnard Street,-41.265207,174.781364
+22167,Grosvenor Terrace at Lower Watt St (opposite),-41.266037,174.780049
+22168,Grosvenor Terrace at Orchard Street (opposite),-41.267221,174.779795
+22169,Grant Road at Newman Terrace (near 35),-41.269288,174.778334
+22170,Park Street at Tinakori Road (near 6),-41.271430,174.777258
+11592,Murphy Street - Motorway,-41.272338,174.777975
+10310,Waitangi Park - Cable Street,-41.292208,174.784887
+10312,Oriental Parade at Chaffers Marina,-41.291682,174.786879
+10313,Oriental Parade at Freyberg Pool,-41.291067,174.789955
+11579,Oriental Parade at Oriental Terrace (opposite),-41.291246,174.792946
+11580,Oriental Parade at Fishermans Table,-41.291245,174.794211
+22447,Oriental Parade at Grass Street,-41.290797,174.796337
+10317,Oriental Parade (opposite 324),-41.289323,174.797347
+10335,Oriental Parade at Carlton Gore Rd (opposite),-41.288115,174.799691
+22458,Roseneath Shops,-41.287811,174.802441
+11818,Grafton Road at The Crescent (near 21),-41.289650,174.801774
+11817,Grafton Road (near 39),-41.290764,174.801411
+11813,Grafton Road at The Crescent,-41.292056,174.800550
+11810,Grafton Road (near 97),-41.293730,174.800620
+11808,Grafton Road (near 123),-41.294700,174.800790
+22459,Grafton Road (near 171),-41.296572,174.802047
+22460,Hataitai Road at Arawa Road,-41.297632,174.801049
+22509,Cardinal McKeefry School - Wilton Rd (opposite),-41.275401,174.756067
+11650,Kelburn Normal School - Upland Road,-41.287126,174.760917
+11651,Kelburn Village - Upland Road (near 94),-41.288927,174.762111
+11652,Upland Road at Glasgow Street (near 38),-41.287494,174.765727
+11653,Victoria University - Kelburn Parade (near 42),-41.288742,174.767778
+10327,The Terrace at Salamanca Road (near 230),-41.288106,174.772251
+10328,The Terrace at Dalmuir Lane (near 130),-41.283406,174.774524
+10346,The Terrace at Aurora Terrace (near 70),-41.281472,174.774974
+10348,The Terrace at Bolton Street (near 22),-41.279800,174.775311
+23179,Ghuznee Street - Cuba Street (near 37),-41.293573,174.776374
+23206,Ghuznee Street at Willis Street,-41.292568,174.773194
+10300,The Terrace at Ghuznee Street,-41.291019,174.770824
+11635,Karori Sanctuary - Birdwood Street,-41.286779,174.754137
+11636,Birdwood Street at Braithwaite Street,-41.284170,174.750927
+11637,Messines Road at Braithwaite Street (near 1),-41.284482,174.748810
+11638,Messines Road (near 15),-41.285413,174.749134
+11639,Plymouth Street at Messines Road (near 3),-41.286892,174.749650
+11625,Victoria University - Karori Campus (opposite),-41.284990,174.742591
+11626,Donald Street at Firth Terrace (near 53),-41.287197,174.743712
+11627,Gipps Street at Donald Street (near 28),-41.287996,174.744510
+11628,Gipps Street at Shirley Street (near 10),-41.287490,174.746407
+11634,Birdwood Street at Braithwaite Street (near 1),-41.283819,174.750942
+11654,The Terrace at Salamanca Road (near 245),-41.289311,174.771829
+11655,Ghuznee Street at Motorway Bridge,-41.292027,174.772057
+11656,Ghuznee Street - Cuba Street (near 38),-41.293394,174.776322
+10239,Darlington Road (near 155),-41.305746,174.825863
+22339,Highbury Terminus,-41.293997,174.753254
+22340,Highbury Road at Disley Street,-41.292478,174.754850
+22342,Moana Road at Highbury Road (near 4),-41.291822,174.757113
+22343,Moana Road at Disley Street (opp 61),-41.290412,174.755691
+22344,Moana Road (near 46),-41.289595,174.754928
+22348,Moana Road (near 18),-41.288122,174.754650
+22349,Raroa Road (near 1),-41.287839,174.756064
+22350,Raroa Road at Fairview Crescent (near 35),-41.289154,174.757281
+22351,Plunket Street (near 24),-41.288418,174.760079
+22353,Hawker Street at Majoribanks Street (near 5),-41.294773,174.787333
+22354,Hawker Street at Doctors Common (near 33),-41.293313,174.788607
+22355,Hawker Street at Moeller Street,-41.292121,174.790557
+22356,Palliser Road at Charles Plimmer Park,-41.294589,174.795210
+22357,Palliser Road (near 46),-41.293582,174.797404
+22359,Roseneath Terrace at Thane Road,-41.293142,174.799040
+22360,Thane Road at Robieson Street (near 17),-41.294799,174.799073
+22361,Alexandra Road at Lookout Road (near 7),-41.295902,174.798769
+22362,Alexandra Road (near 25),-41.296470,174.797578
+22363,Alexandra Road at Upoko Road,-41.297750,174.795189
+22364,Mt Victoria Terminus,-41.296365,174.795067
+22365,Alexandra Road at Upoko Road (near 46),-41.297298,174.795869
+22366,Alexandra Road (near 14),-41.296231,174.797309
+22367,Alexandra Road at Lookout Road (near 5),-41.295774,174.798359
+22368,Thane Road at Robieson Street,-41.294259,174.799022
+22369,Roseneath Terrace at Thane Road (near 8),-41.293137,174.798765
+22370,Palliser Road (near 45),-41.293760,174.797528
+22371,Palliser Road at Charles Plimmer Park (near 83),-41.294877,174.795779
+22372,Moeller Street at Hawker Street (near 78),-41.292313,174.790957
+22373,Hawker Street at Doctors Common (near 38),-41.293438,174.788658
+22374,Hawker Street at Majoribanks Street,-41.294861,174.787527
+22330,Plunket Street (opposite 20),-41.288684,174.760325
+22331,Plunket Street at Raroa Road (near 69),-41.289066,174.758891
+22332,Raroa Road at Cluny Avenue (near 40),-41.289361,174.757310
+22333,Raroa Road (near 4),-41.287968,174.755912
+22334,Moana Road (near 15),-41.288285,174.755156
+22336,Moana Road (near 47),-41.289627,174.755168
+22337,Moana Road at Disley Street (near 67),-41.290398,174.755989
+22341,Highbury Road at Moana Road (near 11),-41.291965,174.757225
+22338,Highbury Road at Disley Street (near 25),-41.292648,174.754914
+21905,Balfour Street (near 21),-41.319980,174.766956
+21906,Balfour Street (near 65),-41.317999,174.768085
+21907,Balfour Street (near 83),-41.316850,174.767839
+21908,McColl Street (near 46),-41.315985,174.769058
+21909,McColl Street at Krull Street (near 12),-41.313604,174.769305
+21910,Short Street at Moffitt Street,-41.312681,174.770152
+21911,Finnimore Terrace at Dransfield St (near 10),-41.311867,174.771564
+21912,Hutchison Road at John Street,-41.307371,174.774632
+21880,Duthie Street at Plymouth Street (near 45),-41.287891,174.747886
+21881,Duthie Street at Hurman Street (near 73),-41.289500,174.747499
+21882,Croydon Street at Versailles Street (near 17),-41.291864,174.747203
+21883,Croydon Street (near 49),-41.293951,174.746160
+21884,Campbell Street (near 136),-41.293074,174.744023
+21885,Campbell Street (near 106),-41.290896,174.742138
+21886,Verviers Street at Kano Street (near 39),-41.290137,174.741079
+21887,Beauchamp Street at Verviers St (near 76),-41.290258,174.739638
+21888,Beauchamp Street at Tisdall Street (near 60),-41.289034,174.738973
+21889,Beauchamp Street at Dasent Street (near 40),-41.288087,174.738470
+21868,Karori Mall - Beauchamp St (Recreation Centre),-41.285277,174.737238
+10154,National Dance and Drama Centre - Stop B,-41.307567,174.774769
+21890,Finnimore Terrace at Dransfield St,-41.312299,174.772185
+21891,Short Street at Liardet Street,-41.313027,174.769911
+21892,McColl Street at Krull Street (near 9),-41.314033,174.769496
+21894,Balfour Street (near 82),-41.316252,174.769269
+21893,Balfour Street (opposite 81),-41.316928,174.768044
+21895,Balfour Street (near 54),-41.318187,174.768174
+21897,Balfour Street (near 24),-41.319673,174.767031
+22404,Island Bay - Dover Street,-41.328137,174.774809
+10044,Houghton Bay Road at Volga Street,-41.329473,174.781070
+10045,National Hockey Stadium (opposite),-41.326430,174.780379
+10071,Lavaud Street at Russell Street,-41.323900,174.779199
+10069,Rintoul Street at Blythe Street (near 282),-41.323015,174.777586
+10070,Rintoul Street at Luxford Street (near 228),-41.320193,174.777773
+22405,Rintoul Street at Blythe Street (near 273),-41.322507,174.777835
+22406,Lavaud Street at Russel Street (near 4),-41.323776,174.779614
+22407,National Hockey Stadium,-41.326544,174.780585
+22408,Mt Albert Road at Volga Street,-41.328459,174.780230
+22388,Buckley Road at Houghton Bay Rd,-41.330599,174.782833
+22389,Buckley Road (near 45),-41.332865,174.783647
+22390,Buckley Road (near 77),-41.334989,174.784338
+22391,Buckley Road (near 109),-41.336920,174.782921
+22392,Buckley Road (near 146),-41.339133,174.781343
+11755,Melrose Road at Southgate Road (near 76),-41.337711,174.780672
+11754,Melrose Road at Witham Street (near 56),-41.336489,174.780471
+11753,Melrose Road (near 32),-41.336758,174.779355
+11752,Melrose Road at Melbourne Road (near 6),-41.338322,174.776637
+22380,Houghton Bay - Houghton Bay Road (near 2),-41.340474,174.785467
+22381,Houghton Bay Road at Hungerford Road,-41.338963,174.786477
+22382,View Road at Hungerford Road (near 92),-41.338351,174.789986
+22383,View Road at Twomey Grove (near 60),-41.336681,174.789618
+22384,View Road (near 24),-41.334924,174.789080
+22385,Houghton Bay Road at View Road (near 84),-41.333198,174.788304
+22386,Houghton Bay Road at Hornsey Road,-41.332066,174.786947
+22415,Hornsey Road (near 48),-41.330071,174.786117
+22416,Hornsey Road (near 57),-41.328939,174.786468
+22417,Hornsey Road at Sunglow Avenue (near 49),-41.327948,174.786501
+22418,Hornsey Road at Auckland Terrace,-41.325185,174.787537
+22419,Sutherland Road at Sutherland Crescent,-41.322732,174.788964
+22420,Manchester Street at Caprera Street (opposite),-41.321513,174.786780
+11758,Wellington Zoo - Manchester Street,-41.319579,174.784924
+11760,Wellington Zoo - Daniell Street,-41.319067,174.784193
+22409,Manchester Street at Caprera Street,-41.321320,174.787062
+22410,Sutherland Road at Rodrigo Road,-41.322595,174.789068
+22411,Hornsey Road at Auckland Terrace (near 25),-41.325616,174.787668
+22412,Hornsey Road at Sunglow Avenue (near 47),-41.327869,174.786953
+22413,Hornsey Road (near 65),-41.329446,174.786900
+22414,Hornsey Road (opposite 50),-41.330095,174.786261
+22400,Hungerford Road at Houghton Bay Road (near 73),-41.338829,174.787633
+22401,Houghton Bay - Houghton Bay Road,-41.341296,174.785310
+22387,Sinclair Park - Houghton Bay Road,-41.330823,174.784619
+10133,Miramar Avenue - Holy Cross Church,-41.316703,174.816933
+10144,Awa Road at Totara Road,-41.312152,174.825730
+10147,Awa Road at Seatoun Heights Rd (near 45),-41.312097,174.826911
+10188,Nevay Road (opposite 16),-41.310266,174.828234
+10191,Nevay Road (opposite 50),-41.308547,174.828700
+10192,Nevay Road at Taipakupaku Road,-41.306449,174.829215
+10245,Nevay Road at Totara Road,-41.303833,174.828940
+10247,Nevay Road at Glenville Road (near 149),-41.301732,174.829108
+10248,Nevay Road (near 164),-41.300088,174.828836
+10284,Nevay Road (near 198),-41.298474,174.828373
+10287,"Nevay Road, Prison Gates (near 223)",-41.296556,174.828893
+10282,Mt Crawford - Wellington Prison (to city),-41.294240,174.827288
+10233,Akaroa Drive at Countess Close (near 160),-41.301299,174.820533
+10231,Kaikoura Street at Akaroa Drive (near 102),-41.302652,174.820451
+10228,Kaikoura Street at Tamahine Street (near 44),-41.304109,174.818819
+10226,Kaikoura Street at Cobar Close (near 28),-41.305979,174.817306
+10176,Kaikoura Street at Akaroa Drive (near 2),-41.307144,174.817732
+10174,Akaroa Drive at Waiwera Crescent,-41.308305,174.817179
+10172,Akaroa Drive at Maupuia Road,-41.309213,174.814421
+10171,Maupuia Road at Aranui Street (near 60),-41.312003,174.813948
+10126,Maupuia Road at Miramar Ave (to city),-41.314452,174.812869
+11803,Evans Bay Marina (opposite),-41.311171,174.796844
+11802,Evans Bay Boatyard (opposite),-41.309574,174.797625
+11799,Evans Bay Parade at Belvedere Rd (near 444),-41.308311,174.797770
+11797,Hataitai Beach (opposite),-41.306096,174.798856
+11795,Cog Park (opposite),-41.304584,174.800570
+11793,Greta Point Wharf,-41.303871,174.802987
+11792,Greta Point (Bella Vista),-41.302258,174.804185
+11791,Kio Bay (opposite),-41.297670,174.804382
+11790,Weka Bay (opposite),-41.294508,174.803292
+11788,Evans Bay Parade at Maida Vale Rd (near 98),-41.292628,174.802596
+22451,Balaena Bay (opposite),-41.291450,174.802994
+11787,Little Karaka Bay (opposite),-41.289600,174.803230
+11786,Point Jerningham (opposite),-41.288340,174.803780
+10307,Te Papa Museum,-41.290631,174.780892
+10337,Point Jerningham,-41.288275,174.803910
+10320,Little Karaka Bay,-41.289806,174.803343
+10319,Balaena Bay,-41.291905,174.802732
+11789,Weka Bay,-41.294265,174.803286
+10281,Kio Bay,-41.297853,174.804805
+10225,Greta Point (NIWA),-41.302064,174.804514
+11796,Cog Park,-41.305145,174.800371
+11798,Hataitai Beach,-41.306409,174.798996
+11800,Evans Bay Parade at Belvedere Rd,-41.308390,174.797867
+11801,Evans Bay Boatyard,-41.309399,174.797871
+11804,Evans Bay Marina,-41.311353,174.796754
+10128,Maupuia Road at Miramar Ave (from city),-41.314282,174.812793
+10169,Maupuia Road at Aranui Street (near 61),-41.312042,174.813794
+10170,Maupuia Road at Zaida Way (near 99),-41.309715,174.814005
+10173,Akaroa Drive at Duchess Place Walkway,-41.308728,174.815483
+10175,Akaroa Drive at Waiwera Cres (near 21),-41.308235,174.817070
+10177,Kaikoura Street at Akaroa Drive (near 3),-41.307246,174.817508
+10227,Kaikoura Street at Cobar Close (near 23),-41.306134,174.817239
+10229,Kaikoura Street at Tamahine Street (near 49),-41.303848,174.818836
+10232,Kaikoura Street at Akaroa Drive (near 109),-41.302418,174.820433
+10234,Akaroa Drive at Countess Close (near 147),-41.301147,174.820469
+10283,Mt Crawford - Wellington Prison (from city),-41.294132,174.827285
+10288,"Nevay Road, Prison Gates (near 222)",-41.296958,174.829131
+10285,Nevay Road (opposite 196),-41.298758,174.828644
+10286,Nevay Road (near 170),-41.299844,174.828901
+10246,Nevay Road at Glenville Road (near 144),-41.301963,174.829306
+10249,Nevay Road at Totara Road (near 122),-41.303856,174.829179
+10193,Nevay Road at Taipakupaku Road (near 94),-41.306510,174.829396
+10190,Nevay Road (near 56),-41.308499,174.828890
+10189,Nevay Road (near 18),-41.310562,174.828290
+10146,Awa Road at Seatoun Heights Rd,-41.312390,174.826621
+10145,Awa Road at Totara Road (near 32),-41.312426,174.825451
+10035,Taiaroa Street (near 10),-41.332325,174.817209
+10067,Ira Street at Broadway (near 5),-41.324222,174.819924
+10100,Ira Street at Devonshire Road (near 43),-41.321797,174.820036
+10096,Miramar - Devonshire Road,-41.321387,174.816919
+22463,Sidlaw Street at Bowes Crescent,-41.333940,174.821614
+11863,Sidlaw Street (near 69),-41.332639,174.823036
+11864,Beacon Hill - Sidlaw Street (near 81),-41.331681,174.823225
+11866,Sidlaw Street at Monorgan Road,-41.331623,174.820630
+11867,Strathmore Community Hall - Strathmore Avenue,-41.330887,174.821614
+11868,Tannadyce Street (near 9),-41.330184,174.822765
+11869,Tannadyce Street (near 27),-41.329660,174.824053
+11870,Tannadyce Street (near 63),-41.328136,174.824716
+11872,Tannadyce Street (near 87),-41.327317,174.825804
+11873,Tannadyce Street at Beacon Hill Road (near 105),-41.326550,174.827623
+11874,Beacon Hill Road at Kinghorne Street (near 40),-41.325523,174.827093
+11875,Beacon Hill Road (near 14),-41.324053,174.827781
+11876,Seatoun Heights Road (near 1),-41.323291,174.825848
+11877,Seatoun Heights Road (near 21),-41.321999,174.825490
+11878,Townsend Road (near 188),-41.321900,174.824388
+11881,Wilberforce Street at Townsend Rd,-41.320933,174.823991
+11882,Wilberforce Street at Madison Place (near 26),-41.322795,174.822417
+10068,Ira Street at Broadway (near 2),-41.324108,174.820291
+10102,Wilberforce Street at Madison Place,-41.322432,174.822049
+10103,Wilberforce Street at Townsend Rd (play area),-41.320949,174.823561
+10104,Townsend Road (near 203),-41.321447,174.824542
+11856,Seatoun Heights Road (near 16),-41.322811,174.826002
+11857,Seatoun Heights Road at Tio Tio Road,-41.323108,174.827145
+11858,Beacon Hill Road (near 11),-41.323909,174.828302
+22464,Beacon Hill Road at Tannadyce St (near 45),-41.326314,174.828321
+11859,Tannadyce Street (near 86),-41.327611,174.826577
+11860,Tannadyce Street (near 62),-41.328422,174.824855
+11861,Tannadyce Street (near 40),-41.329205,174.824877
+11862,Tannadyce Street (near 20),-41.330529,174.823743
+22970,Robertson Street (near 16),-41.344042,174.761279
+22487,Owhiro Bay - Hail & Ride,-41.348197,174.749774
+22225,Happy Valley Road (near281),-41.329409,174.757554
+22226,Happy Valley Road (near 305),-41.326822,174.758262
+22762,Ohiro Road (near 457),-41.320175,174.760044
+22764,"Ohiro Road (Hail & Ride, near 377)",-41.315541,174.760935
+22765,"Ohiro Road (Hail & Ride, near 326)",-41.312061,174.761774
+22766,"Ohiro Road (Hail & Ride, near 264)",-41.309124,174.762448
+21915,Halifax Street at Breton Grove (near 43),-41.322508,174.766522
+11771,Britomart Street (near 135),-41.320675,174.771574
+22218,Ohiro Road at Taft Street (near 271),-41.309076,174.762650
+22219,Ohiro Road at Borlase Street (near 329),-41.312392,174.761914
+22220,Ohiro Road at Livingstone Street (near 381),-41.315809,174.761086
+22221,Ohiro Road (near 451),-41.319891,174.760383
+22223,Happy Valley Road (opposite 281),-41.329542,174.757701
+22969,Roberston Street (near 17),-41.343834,174.761274
+22449,Moa Point (near 42),-41.337708,174.811048
+10293,Scorching Bay,-41.296580,174.833097
+10291,Scorching Bay at Chocolate Fish Cafe (opposite),-41.297861,174.832405
+10289,Karaka Bay Road at Pretoria Road,-41.300012,174.831903
+10251,Karaka Bay Wharf,-41.304389,174.831344
+10196,Karaka Bay Road (near 369),-41.306114,174.831607
+10195,Karaka Bay Road (opposite 275),-41.310326,174.830147
+10153,Worser Bay Lifesaving Club,-41.312871,174.829203
+10151,Worser Bay - Marine Parade (opposite 185),-41.314535,174.827672
+10149,Worser Bay - Marine Parade (opposite 135),-41.316703,174.827840
+10105,Worser Bay - Marine Parade (opposite 109),-41.318044,174.828450
+11899,Breaker Bay Road at Palmer Bay (near 187),-41.341187,174.822986
+11901,Breaker Bay Road at Reef Bay (near 160),-41.338225,174.823490
+11902,Breaker Bay Road at Flax Bay (near 136),-41.335486,174.824119
+11903,Breaker Bay Road (near 124),-41.334174,174.825636
+11904,Breaker Bay Road at Eve Bay (near 108),-41.332645,174.826095
+11905,Breaker Bay Road at Breaker Bay (near 67),-41.332096,174.829474
+11906,Inglis Street at Mantell Street (opposite),-41.328308,174.832057
+11907,Inglis Street at Burnham Street (near 88),-41.325994,174.831455
+11889,Seatoun School,-41.326136,174.836728
+10097,Miramar - Devonshire Road (near 43),-41.321326,174.816750
+10099,Devonshire Road at Ira Street (near 81),-41.321317,174.819665
+10150,Worser Bay - Marine Parade (near 115),-41.317798,174.828073
+10148,Worser Bay - Marine Parade (near 177),-41.314727,174.827462
+10152,Worser Bay Lifesaving Club (opposite),-41.312491,174.829299
+10194,Karaka Bay Road (near 279),-41.310373,174.829981
+10197,Karaka Bay Road (near 321),-41.308265,174.831702
+10198,Karaka Bay Road (near 355),-41.306528,174.831654
+10250,Karaka Bay Wharf (near 395),-41.304553,174.831241
+10290,Karaka Bay Road at Pretoria Road (near 465),-41.300150,174.831716
+10292,Scorching Bay at Chocolate Fish Cafe,-41.297980,174.832265
+11891,Inglis Street at Burnham Street (near 91),-41.326073,174.831576
+11892,Inglis Street at Mantell Street,-41.328324,174.832212
+11893,Breaker Bay Road at Breaker Bay,-41.332295,174.829431
+11894,Breaker Bay Road at Eve Bay,-41.332970,174.826021
+11895,Breaker Bay Road (opposite 124),-41.334352,174.825736
+11896,Breaker Bay Road at Flax Bay (near 145),-41.336350,174.824119
+11897,Breaker Bay Road at Reef Bay,-41.338429,174.823675
+11898,Breaker Bay Road at Ranger Point,-41.339960,174.824219
+22603,Moa Point,-41.337712,174.810809
+10180,Miramar North - Park Road (near 107),-41.310904,174.820321
+10181,Miramar North Road (near 57),-41.306621,174.820047
+10236,Miramar North Road (near 103),-41.304239,174.822012
+10237,Miramar North Road at Centennial Park (opposite),-41.302109,174.824592
+10244,Darlington Road (near 188),-41.301923,174.827239
+10129,Miramar Avenue at Portsmouth Road,-41.314995,174.812681
+10243,Darlington Road (near 215),-41.302179,174.827019
+10242,Darlington Road at Mapuia Park (near 247),-41.301377,174.826459
+10238,Miramar North Road at Centennial Park,-41.302312,174.824861
+10235,Miramar North Road (near 98),-41.304309,174.822145
+10230,Miramar North Road (near 56),-41.306228,174.820383
+22402,Houghton Bay - The Esplanade,-41.341957,174.784479
+22958,The Esplanade (opposite 136),-41.344531,174.780521
+11744,The Esplanade (opposite 182),-41.345014,174.777236
+22960,The Esplanade (opposite 222),-41.343963,174.774698
+22959,The Esplanade (near 230),-41.343267,174.774273
+11743,The Esplanade (near 184),-41.344869,174.777280
+22379,Houghton Bay - The Esplanade (near 86),-41.341611,174.784756
+10098,Ira Street at Miramar Avenue (near 95),-41.318307,174.819761
+10411,Kaiwharawhara Road at Hutt Road (near 7),-41.259739,174.788962
+10435,Kaiwharawhara Road (near 33),-41.258258,174.786917
+10434,Kaiwharawhara Road (Ngaio Gorge Track),-41.257952,174.782194
+10433,Ngaio Gorge Road (opposite 105),-41.256419,174.778250
+10432,Ngaio Gorge Road (opposite 65),-41.256594,174.775641
+10429,Perth Street at Ngaio Gorge Road,-41.256002,174.772534
+10430,Perth Street at Orari Street Walkway,-41.254462,174.773698
+22309,Perth Street at Crofton Road,-41.254528,174.774678
+10465,Cockayne Road at Quetta Street (near 236),-41.252106,174.777561
+10466,Cockayne Road at Setsan Way (near 196),-41.252584,174.779853
+10467,Cockayne Road at Bankot Crescent (near 156),-41.252032,174.782953
+10468,Punjab Street at Cockayne Road,-41.252145,174.785594
+10436,Punjab Street at Waru Street,-41.253602,174.786862
+10473,Waru Street at Calcutta Street,-41.252154,174.789652
+10471,Calcutta Street (near 30),-41.251479,174.787855
+10469,Nairnville Park - Cockayne Road,-41.250030,174.786658
+10470,Clutha Avenue at Cockayne Road (near 40),-41.248407,174.787318
+10472,Clutha Avenue at Nicholson Road (near 6),-41.247870,174.789428
+10500,Khandallah Village (Village Gentry),-41.247206,174.791021
+10474,Everest Street at Ganges Road (near 28),-41.248416,174.793202
+10501,Everest Street at Izard Road (near 2),-41.247444,174.794882
+10502,Ranui Crescent at Cashmere Avenue,-41.246864,174.796823
+10475,Cashmere Avenue School (opposite),-41.247863,174.798605
+10476,Cashmere Avenue at Mandalay Terrace,-41.248376,174.800946
+10503,Mandalay Terrace (near 27),-41.247215,174.802680
+10504,Mandalay Terrace at Narbada Cres (near 47),-41.246278,174.804397
+10505,Homebush Road at Benares Street (near 120),-41.246798,174.806881
+10506,Homebush Road (near 90),-41.247225,174.808349
+10481,Homebush Road (near 70),-41.248036,174.807178
+10480,Homebush Road (near 29),-41.249258,174.806221
+10479,Homebush Road at Onslow Road,-41.250911,174.804774
+22279,Onslow Road (opposite 47),-41.251059,174.803370
+10477,Onslow Arms - Onslow Road (opposite),-41.253069,174.801539
+10437,Hutt Road at Rangiora Avenue (Placemakers),-41.255981,174.796093
+10413,Kaiwharawhara - Hutt Road (Animates),-41.259396,174.790815
+10410,Hutt Road at Aotea Quay (rail side),-41.264618,174.784463
+10396,Thorndon Quay at Tinakori Road (near 286),-41.267801,174.781350
+10397,Thorndon Quay at Motorway (Handy Rentals),-41.269534,174.781110
+10398,Thorndon Quay (Bordeaux Bakery),-41.271332,174.781875
+10388,Thorndon Quay at Davis Street,-41.274410,174.783809
+10384,Thorndon Quay - Capital Gateway,-41.276355,174.781462
+22260,Thorndon Quay at Wellington Station,-41.278513,174.779944
+10358,Featherston Street at Bunny Street,-41.279987,174.779005
+10138,Ira Street at Miramar Avenue (near 82),-41.318332,174.819893
+10101,Ira Street at Otaki Street (near 54),-41.321091,174.820256
+22273,Onslow Arms - Onslow Road,-41.253144,174.801350
+22275,Onslow Road (near 47),-41.250501,174.803307
+22280,Homebush Road at Onslow Road (near 1),-41.250712,174.804828
+22281,Homebush Road (near 33),-41.249014,174.806250
+22282,Homebush Road (near 59),-41.247685,174.807156
+22283,Homebush Road (near 67),-41.247120,174.808167
+22284,Homebush Road at Benares Street,-41.247024,174.806828
+22285,Mandalay Terrace at Narbada Cres (near 50),-41.246253,174.804850
+22286,Mandalay Terrace (near 24),-41.247438,174.802782
+22287,Mandalay Terrace at Onslow Road,-41.248463,174.801151
+22292,Cashmere Avenue School,-41.247497,174.797807
+22294,Ranui Crescent at Izard Road,-41.247601,174.795805
+22243,Station Road (near 8),-41.242215,174.792890
+22600,Onslow College (School stop),-41.230116,174.798264
+22238,Raroa Intermediate - Haumia Street,-41.229987,174.800814
+22288,Onslow Road at Lohia Crescent,-41.249761,174.802845
+22290,Onslow Road at Benares Street,-41.248145,174.803648
+22291,Onslow Road at Mandalay Terrace (near 175),-41.248736,174.800968
+22240,Malvina Major Retirement Village,-41.233980,174.798274
+22261,Ngaio Gorge Road at Trelissick Cres (near 10),-41.256224,174.771561
+22262,Kenya Street (near 52),-41.254561,174.771338
+22263,Kenya Street at Crofton Road (near 6),-41.252202,174.773088
+22266,Ngaio School - Colway Street (opposite),-41.247922,174.776171
+22268,Colway Street (near 43),-41.249240,174.778844
+22313,Colway Street at Bombay Street (near 63),-41.249967,174.779640
+22269,Bombay Street at Tarikaka Street,-41.249623,174.780883
+22270,Bombay Street at Swansea Street,-41.249204,174.782376
+22271,Mysore Street (near 13),-41.250394,174.783482
+22272,Mysore Street at Cockayne Road (near 37),-41.251566,174.785148
+22601,St Benedict's School,-41.249094,174.791824
+22947,Mysore Street at Cockayne Road,-41.251324,174.784509
+22267,Mysore Street (near 14),-41.250477,174.783341
+22310,Bombay Street at Mysore Street (near 7),-41.249367,174.782320
+22311,Bombay Street at Tarikaka Street (near 23),-41.249775,174.780959
+22312,Colway Street at Bombay Street (near 62),-41.250014,174.779486
+22314,Colway Street (near 44),-41.249324,174.778703
+22315,Ngaio School - Colway Street,-41.247760,174.775535
+22320,Ottawa Road at Colway Street (near 54),-41.248485,174.774647
+22321,Ngaio Town Hall - Ottawa Road (opposite),-41.250306,174.773383
+22322,Kenya Street at Crofton Road,-41.251770,174.773649
+22323,Kenya Street (near 37),-41.254285,174.771760
+22602,Khandallah School - Clarke Street,-41.243927,174.788725
+22319,Cashmere Avenue (near 68),-41.245438,174.795269
+22234,Pollen Street (near 1),-41.229152,174.806422
+22235,Tarawera Road (near 33),-41.230835,174.805919
+22236,Haumia Street at Fraser Avenue,-41.231503,174.804065
+22237,Haumia Street at Tuapapa Street (near 31),-41.230617,174.801988
+22527,Bannister Avenue (Hail and Ride),-41.229438,174.797256
+22529,Elliott Street (Hail and Ride),-41.228847,174.795295
+22530,West Park School - Kipling Street (rear entrance,-41.226171,174.797680
+21956,Helston Road at Petherick Crescent (near 19),-41.221395,174.810003
+21958,Helston Road (Cashmere Hospital),-41.220145,174.811627
+21959,Helston Road (near 83),-41.218947,174.812739
+21960,Helston Road at McMahon Way (near 103),-41.217318,174.813231
+21961,Helston Road at Beazley Avenue,-41.216369,174.815162
+21963,Helston Road at Paparangi Crescent (near 201),-41.217391,174.817778
+23146,Bracken Road at Beazley Avenue,-41.217481,174.821776
+21966,Newlands College - Bracken Road,-41.218959,174.822879
+21967,Bracken Road (near 30),-41.221403,174.823280
+21968,Bracken Road at Oswald Crescent (near 20),-41.222118,174.823598
+22008,Horokiwi Road at Pinkerton Grove (near 35),-41.222521,174.827164
+22009,Horokiwi Road (near 65),-41.221584,174.830610
+22010,Woodridge Drive at Glenwood Grove (near 19),-41.219892,174.831111
+23211,Woodridge Drive at Cedarwood Street,-41.217474,174.832535
+23212,Cedarwood Street at Kentwood Drive,-41.214332,174.831876
+22014,Woodridge - Kentwood Drive (near 57),-41.215031,174.830380
+22258,Kentwood Drive (near 32),-41.216413,174.830108
+22015,Kentwood Drive (near 14),-41.217651,174.830990
+22016,Woodridge Drive at Kentwood Drive (near 26),-41.218218,174.832747
+22017,Woodridge Drive at Glenwood Grove (near 6),-41.220611,174.831764
+23141,Baylands Drive at Bayswater Place (near 82),-41.222239,174.830222
+23140,Baylands Drive at Somes Crescent,-41.224721,174.831019
+23139,Somes Crescent at Sunhaven Dr (near 44),-41.225886,174.832530
+23138,Somes Crescent at Dress Circle (near 10),-41.227531,174.830440
+23137,Kenmore Street at Barclay Street (near 32),-41.228227,174.828575
+23136,Kenmore Street (near 6),-41.228712,174.826405
+23135,Glanmire Road at Turville Crescent,-41.229208,174.824057
+23134,Link Road (near 54),-41.227719,174.824278
+23132,Link Road (Near 8),-41.226496,174.826403
+23131,Kenmore Street (near 65),-41.225669,174.826893
+23130,Kenmore Street Plunket Rooms (opposite),-41.223648,174.824798
+21981,Newlands Park,-41.223956,174.822969
+21982,Newlands School - Newlands Road,-41.224535,174.821112
+21983,Newlands Road at Stella Grove (near 164),-41.226606,174.819463
+21984,Newlands Road at Black Rock Road,-41.228816,174.818641
+21985,Newlands Road (near 64),-41.231032,174.814586
+21986,Newlands Bus Depot - Newlands Road,-41.231693,174.812672
+21987,Centennial Highway at Glover Street,-41.242792,174.813621
+10482,Ngauranga - Hutt Road (next to motorway),-41.248263,174.812280
+22549,St Brigids School - Phillip Street (school stop),-41.222442,174.801789
+22486,Basin Reserve (School stop),-41.301196,174.781452
+22075,McLintock Street at Norwood Place,-41.223455,174.792202
+22080,Cortina Avenue (near 21),-41.222544,174.797509
+22081,Cortina Avenue at Safari Crescent (near 37),-41.221088,174.796146
+22082,Cortina Avenue at Stonefield Place (near 59),-41.219456,174.795672
+22083,Cortina Avenue at Erris Street (near 83),-41.218586,174.794312
+22084,Erris Street at Glenamoy Crescent (near 22),-41.217896,174.797538
+22085,Erris Street at Ironside Road,-41.218799,174.799125
+22086,Branscombe Street at Lomita Road (near 38),-41.217203,174.799833
+22087,Branscombe Street at Ohariu Road (near 2),-41.215666,174.801962
+22088,Ohariu Road at Hallewell Cres (opposite 67),-41.217166,174.802802
+22089,Johnsonville School - Ohariu Road (opposite),-41.218230,174.805062
+22090,Bassett Road at Angell St (near 18),-41.219019,174.807576
+10613,Johnsonville Station - Stop B,-41.223742,174.805069
+10575,Johnsonville Road (RSA),-41.226408,174.807349
+22108,Abilene Crescent at Trilids Lane,-41.209544,174.806411
+22092,Cambrian Street at Cunliffe Street,-41.211478,174.805438
+22091,Chorley Grove (near 5),-41.212586,174.807114
+22109,Chorley Grove at Hawtrey Terrace,-41.214462,174.808680
+22110,Bassett Road (near 40),-41.217361,174.808175
+22031,Newlands Medical Centre - Stewart Drive,-41.222569,174.822394
+22032,Stewart Drive at Pritchard Street,-41.222584,174.819162
+22033,Stewart Drive at Fitzpatrick Street (near 65),-41.221250,174.816393
+22034,Stewart Drive (near 89),-41.222138,174.814891
+22035,Stewart Drive (near 103),-41.222371,174.813251
+22036,Stewart Drive (near 112),-41.221965,174.813287
+22038,Stewart Drive at Padnell Crescent (near 66),-41.221244,174.817312
+22257,Stewart Drive at Loasby Crescent (near 50),-41.221829,174.819057
+22039,Stewart Drive at Batchelor Street (near 14),-41.222078,174.822154
+23045,Porirua Station - Stop C,-41.136880,174.843312
+11172,Cobham Court (opposite McDonalds),-41.135475,174.839353
+11132,Kenepuru Drive at Porirua Cemetery (opposite),-41.144735,174.842685
+11103,Kenepuru Drive at Bowland,-41.147952,174.840296
+11101,Kenepuru Drive at Ambulance Drive (near 55),-41.148719,174.838506
+11099,Kenepuru Drive at Carters,-41.148868,174.835364
+11096,SDA School - Raiha Street,-41.148798,174.832407
+11131,Kenepuru Hospital - Ambulance Drive,-41.147170,174.833995
+11095,SDA School - Raiha Street (opposite),-41.148539,174.832865
+11097,Kenepuru Drive at Rahia Street (Master Trade),-41.149942,174.832963
+11085,Main Road Tawa (near 330),-41.157179,174.829291
+11067,Main Road Tawa at McLellan St (near 292),-41.161515,174.827885
+11040,Main Road Tawa (near 288),-41.165051,174.827018
+11038,Tawa Mall - Main Road (Unichem),-41.169671,174.825357
+10995,Main Road Tawa at Elena Place (near 132),-41.172749,174.824894
+10957,Main Road Tawa at Redwood Ave (near 76),-41.177592,174.825624
+10954,Redwood Village - Main Road,-41.179337,174.825231
+10920,Main Road Tawa at Dressmart,-41.183429,174.825022
+10880,Willowbank Road (near 21),-41.188487,174.828715
+22946,Middleton Road at Richmond Hill Rd (opposite),-41.192306,174.827569
+10860,Middleton Road (opposite 395),-41.195787,174.824422
+23119,Middleton Road (opposite 375),-41.198796,174.820939
+10783,Middleton Road at Westchester Drive,-41.204160,174.816627
+10713,Middleton Road at Glenside Road (Fletcher),-41.206053,174.811920
+10712,Middleton Road at Glenside Road (Twiglands),-41.206088,174.811397
+10782,Middleton Road (near 279),-41.203873,174.816536
+23120,Middleton Road (near 375),-41.198570,174.820408
+10859,Middleton Road (near 409),-41.195509,174.823794
+10878,Middleton Road at Richmond Hill Road,-41.192394,174.827094
+10879,Willowbank Road (near 10),-41.188567,174.828216
+11247,Lyttelton Avenue - Countdown,-41.133769,174.840723
+11349,Warspite Avenue (near 444),-41.122110,174.872928
+11352,Warspite Avenue at Conclusion St (near 394),-41.121960,174.877747
+11307,Warspite Avenue at Omapere St (near 364),-41.123265,174.881108
+11305,Warspite Avenue at Penguin Gr (near 326),-41.125406,174.881276
+11257,Waitangirua Mall - Warspite Avenue (opposite),-41.129010,174.880652
+11255,Warspite Avenue (near 178),-41.132538,174.880275
+11209,Warspite Avenue (near 134),-41.135059,174.879215
+11206,Warspite Avenue at Driver Cres (near 118),-41.135701,174.876839
+11200,Warspite Avenue (near 96),-41.136491,174.874205
+11199,Warspite Avenue at Flora St (near 74),-41.137617,174.871997
+11195,Warspite Avenue at Castor Cres (near 50),-41.139377,174.869580
+11150,Cannons Creek Shops - Warspite Avenue,-41.141148,174.865842
+11143,Mungavin Avenue at Bedford St (near 200),-41.141233,174.863354
+11140,Windley School - Mungavin Avenue,-41.140596,174.859833
+11138,Mungavin Avenue at Sievers Gr (near 130),-41.142199,174.858782
+11135,Trust Porirua Park - Mungavin Avenue,-41.143201,174.856380
+11133,Mungavin Avenue (near 66),-41.141215,174.854954
+11184,Mungavin Avenue at Gear Terrace (near 40),-41.140176,174.852923
+11180,Mungavin Park - Mungavin Avenue (opposite),-41.139461,174.850866
+11173,North City Plaza - Walton Leigh Avenue,-41.137540,174.841460
+22497,Viard College (school stop),-41.140202,174.839973
+22488,Gear Terrace at Bromley View,-41.141451,174.853721
+22489,Gear Terrace (near 59),-41.144020,174.855306
+22490,Gear Terrace (near 115),-41.146187,174.854950
+22491,Rose Street (near 14),-41.145614,174.851931
+22496,Ernest Street at Arawhata Street,-41.142693,174.850420
+22503,Awatea Street (near 53),-41.143602,174.848182
+22504,Apple Terrace (near 36),-41.145933,174.846078
+22578,Ribbonwood Terrace (near 1),-41.148896,174.846054
+22502,Ranui Heights - 15 Apple Terrace,-41.147482,174.844930
+22505,Awatea Street (near 72),-41.145338,174.846085
+22506,Awatea Street (opposite 41),-41.141896,174.847336
+22507,Awatea Street (Near 8),-41.138846,174.847107
+11179,Champion Street at Mepham Place (opposite Shell),-41.137417,174.847461
+11183,Champion Street (opposite 38),-41.135003,174.850848
+11248,Champion Street at Windley Street,-41.134302,174.854665
+11187,Champion Street at Cornwall Crescent (near 105),-41.134961,174.857959
+11188,Champion Street at Hereford Street (near 129),-41.135189,174.860610
+11190,Champion Street (near 157),-41.137522,174.862237
+11191,Champion Street at Gloucester St (near 179),-41.138904,174.863669
+22499,Champion Street (near 205),-41.140323,174.864496
+22500,Hampshire Street at Mungavin Ave (near 3),-41.141059,174.862432
+22522,Hampshire Street (near 27),-41.143900,174.861106
+11141,Sievers Grove (near 216),-41.145673,174.861739
+11108,Sievers Grove (near 174),-41.148814,174.862412
+23046,Swansea Steet (near 16),-41.148913,174.860734
+11104,Sievers Grove (near 97),-41.148492,174.860031
+11105,Sievers Grove (near 151),-41.150643,174.861272
+11107,Sievers Grove (near 177),-41.148696,174.861920
+11106,Sievers Grove at Sievers Reserve,-41.146250,174.861148
+11144,Hampshire Street at Bedford Street,-41.143670,174.863613
+11111,Bedford Street at Durham Street (near 73),-41.145502,174.863963
+11110,Bedford Street (near 103),-41.146480,174.865873
+11152,Bedford Street at Leicester Street (near 151),-41.145660,174.867565
+11153,Bedford Street (near 187),-41.143763,174.867369
+11148,Cannons Creek Shops - Bedford Street (near 225),-41.142034,174.864556
+11146,Champion Street (near 208),-41.140600,174.864063
+11192,Champion Street at Gloucester St (near 178),-41.139191,174.863225
+11189,Champion Street at Hereford Street (near 138),-41.136369,174.861120
+11186,Champion Street at Cornwall Crescent (near 104),-41.135347,174.858065
+11249,Champion Street at Windley Street (near 70),-41.134711,174.854438
+11181,Champion Street (near 38),-41.135332,174.851096
+11178,Champion Street at Mepham Place (Shell),-41.137617,174.847883
+22521,Calliope Crescent (near 1),-41.137652,174.868721
+11197,Calliope Crescent at Fawn Street,-41.136179,174.869561
+22520,Castor Crescent at Calliope Crescent (near 59),-41.134586,174.868408
+11250,Castor Crescent (near 85),-41.132742,174.869941
+11252,Castor Crescent (near 125),-41.132092,174.873353
+11203,Castor Crescent at Niger Street (near 165),-41.134281,174.875548
+11205,Driver Crescent (near 140),-41.136809,174.876846
+11208,Driver Crescent (near 94),-41.139874,174.877219
+11158,Driver Crescent - Porirua College & Maraeroa Sch,-41.141292,174.873090
+11156,Driver Crescent (near 14),-41.141762,174.868540
+11499,Whitby - The Crows Nest,-41.106661,174.894592
+11500,Ayton Drive (near 78),-41.109958,174.895139
+23142,Ayton Drive at The Yardarm (near 56),-41.111613,174.894198
+11427,Ayton Drive (opposite 31),-41.110605,174.891918
+11498,Spinnaker Drive at Ayton Drive (near 46),-41.108290,174.889709
+11495,Spinnaker Drive at Leeward Drive (near 26),-41.106299,174.888652
+11494,Leeward Drive at Bosun Terrace (near 25),-41.106740,174.886461
+11492,Leeward Drive (near 53),-41.107470,174.884243
+11490,Leeward Drive at Mercury Way (near 71),-41.108782,174.883316
+11419,Leeward Drive at Venus Place (near 109),-41.112876,174.884135
+11416,Spinnaker Drive at Hicks Close,-41.114311,174.883366
+11413,Postgate School - Postgate Drive,-41.112392,174.881751
+11488,Postgate Drive at Browns Bay Park (opposite),-41.107069,174.880612
+11533,Oak Avenue (opposite 10),-41.103969,174.878523
+11486,Kahu Road at Kenef Road (opposite 139),-41.107467,174.879408
+22942,Kahu Road (near 132),-41.108479,174.878651
+23091,Kahu Road (near 96),-41.107167,174.876840
+11483,Kahu Road (near 68),-41.107963,174.874921
+11481,Tirowhanga Road (near 17),-41.109866,174.872546
+11410,Lauderdale Road (near 12),-41.110713,174.870902
+11408,Eskdale Road at Moray Place (near 48),-41.111536,174.867865
+11478,Eskdale Road at Forth Place (near 16),-41.110524,174.865824
+11407,Tweed Road at Papakowhai Dairy,-41.112912,174.866320
+23092,Tweed Road at Ness Grove (near 41),-41.115103,174.863976
+11404,Tweed Road at Beauly Grove (near 71),-41.116509,174.862801
+11340,RNZ Police College - Papakowhai Road,-41.120755,174.858096
+11244,Porirua Library - Norrie Street (opposite),-41.132257,174.840026
+11176,Lyttelton Ave (opposite New World),-41.136280,174.842533
+23044,Porirua Station - Stop B,-41.137150,174.843319
+22517,Aotea College (School stop),-41.124207,174.855156
+11243,Porirua Library - Norrie Street,-41.132176,174.839511
+11245,Porirua - Pak n Save,-41.131634,174.840723
+11418,Leeward Drive at Ensign Lane (near 100),-41.112074,174.883040
+11489,Leeward Drive at Mercury Way,-41.109212,174.882911
+11491,Leeward Drive (near 46),-41.107206,174.883855
+11493,Leeward Drive at Bosun Terrace (near 22),-41.106673,174.886126
+11496,Spinnaker Drive at Leeward Drive (near 17),-41.106129,174.889135
+23090,Ayton Drive (near 5),-41.108563,174.890634
+22768,Ayton Drive (near 33),-41.110248,174.892277
+23143,Ayton Drive at The Yardarm (near 51),-41.111208,174.894175
+22769,Ayton Drive (near 69),-41.109994,174.894604
+23151,Whitby - Navigation Drive,-41.110368,174.911264
+23152,Navigation Drive (opposite 48),-41.112627,174.908661
+23153,Samwell Drive (opposite 53),-41.112104,174.907015
+11502,Joseph Banks Drive (near 34),-41.108595,174.905723
+11434,James Cook Drive at Endeavour Park,-41.110345,174.902796
+11431,James Cook Drive (near 35),-41.113733,174.901678
+11364,James Cook Drive at Discovery Drive (Park),-41.115908,174.901943
+11362,Discovery Drive (opposite 111),-41.116250,174.899738
+11429,Discovery Drive at The Haven,-41.115534,174.897859
+23101,Adventure Park (Bowling Club),-41.115969,174.894942
+23149,Whitby Village (opposite),-41.117735,174.894338
+11360,Whitby Lakes (Upper Lake),-41.119193,174.892212
+11357,Discovery Drive at Mariners Way (near 78),-41.116286,174.889866
+23102,Discovery Drive at The Sounding (near 44),-41.113786,174.887960
+11423,Discovery Drive at Spinnaker Drive (near 4),-41.111685,174.888662
+11421,Spinnaker Drive at Spinnaker Walkway (near 99),-41.112643,174.887368
+11479,Paremata Station (bus stop),-41.105984,174.866982
+23105,Paremata Road (near 79),-41.102980,174.878436
+23288,Discovery Drive (near 27),-41.112987,174.888914
+11415,Omapere Street at Postgate Drive (near 108),-41.114004,174.882309
+11353,Omapere Street (near 82),-41.116782,174.881007
+11355,Omapere Street at Adventure Drive,-41.121233,174.882003
+11348,Warspite Avenue (near 431),-41.122284,174.872158
+11303,Whitford Brown Ave at Aotea Lodge,-41.122675,174.856864
+11345,Warspite Avenue (near 488),-41.120638,174.869241
+11356,Omapere Street at Adventure Drive (near 5),-41.121330,174.881565
+11354,Omapere Street (near 51),-41.116953,174.880428
+11412,Omapere Street at Postgate Drive (BP Station),-41.113703,174.882027
+11523,Titahi Bay - Richard Street,-41.102525,174.836663
+11525,Thornley Street at Dimock Street,-41.099971,174.839248
+11553,Dimock Street (near 146),-41.098888,174.842766
+11530,Dimock Street (near 100),-41.101160,174.845437
+11527,Dimock Street (near 74),-41.104326,174.845132
+23126,Downes Street,-41.105359,174.845351
+11472,Mapplebeck Street at Downes Road (near 1),-41.105388,174.846305
+11473,Gloaming Hill - Maplebeck Street (near 25),-41.106865,174.848620
+11475,Gloaming Hill Road (near 78),-41.109086,174.850504
+11403,Gloaming Hill Road (near 34),-41.111092,174.847869
+11401,Gloaming Hill Road at Onepoto Road,-41.113614,174.847844
+11399,Onepoto Park - Onepoto Road (opposite),-41.113789,174.844252
+11339,Titahi Bay Road at Whanga Cres Walkway (opposite,-41.119334,174.839381
+11298,Whitireia Polytechnic - Te Hiko St Medical Centr,-41.124669,174.836337
+11296,Takapuwahia Drive at Te Hiko Street (near 55),-41.124611,174.832083
+11293,Takapuwahia Drive at Rangituhi Cres (near 17),-41.126069,174.829836
+11294,Takapuwahia Drive at Kotuku Street (near 1),-41.127524,174.830139
+11233,Kotuku Street (near 50),-41.129687,174.828340
+11235,Kotuku Street (near 16),-41.132519,174.829193
+11238,Prosser Street (near 22),-41.133296,174.833026
+11242,Porirua Mega Centre - Parumoana Street,-41.130223,174.838826
+22524,Mana College (school stop),-41.128106,174.832632
+22525,Heriot Drive,-41.133552,174.836226
+11241,Porirua Mega Centre - Semple Street,-41.129984,174.837449
+11398,Onepoto Park - Onepoto Road,-41.113328,174.844335
+11400,Onepoto Road - Indoor Bowls Centre,-41.113367,174.845848
+11402,Gloaming Hill Road (near 31),-41.111199,174.847384
+11476,Gloaming Hill Road (near 83),-41.108876,174.850165
+11474,Gloaming Hill - Gloaming Hill Road (near 103),-41.107261,174.848596
+11471,Mapplebeck Street at Downes Road,-41.105565,174.845976
+11470,Downes Street at Dimock Street (near 4),-41.105992,174.844595
+11524,John Street (near 6),-41.101478,174.837361
+11380,Titahi Bay - Pikarere Street (near 132),-41.111465,174.823204
+11383,Pikarere Street (near 100),-41.111617,174.826733
+11385,Pikarere Street at Rakihau Place (near 76),-41.112848,174.828053
+11386,Hiwi Street (near 22),-41.113459,174.829869
+11388,Hiwi Street at Pikarere Street (near 4),-41.113915,174.830632
+11390,Pikarere Street (near 2),-41.113430,174.832809
+11458,Tireti Road (near 54),-41.109716,174.831873
+11461,Tireti Road (near 42),-41.108679,174.834202
+11462,Titahi Bay Library - Tireti Road (opposite),-41.108036,174.835613
+11464,Tireti Road at Main Road,-41.105867,174.837744
+11466,Main Road at Whitehouse Crescent (near 47),-41.107142,174.839721
+11469,Main Road at Kura Street (near 79),-41.110111,174.841625
+11397,Titahi Bay School - Kura Street,-41.111567,174.838415
+11299,Whitireia Polytechnic - Titahi Bay Road,-41.125312,174.837284
+22945,Titahi Bay Road at Semple Street,-41.129136,174.836377
+11394,Te Pene Avenue at Piko Street (near 130),-41.116634,174.838103
+11392,Te Pene Avenue at Te Puke Street (near 86),-41.113151,174.837375
+11395,Titahi Bay School - Kura Street (opposite),-41.111134,174.838474
+11467,Main Road at Whitehouse Crescent (near 64),-41.108095,174.839783
+11465,Main Road at Tireti Road (near 32),-41.106117,174.838442
+11460,Tireti Road (near 45),-41.109137,174.834334
+11459,Tireti Road (near 59),-41.109738,174.832791
+11389,View Road (near 19),-41.111468,174.832172
+11391,Pikarere Street (near 3),-41.113675,174.833305
+11387,Pikarere Street (near 49),-41.112359,174.829957
+11384,Pikarere Street at Rakihau Place (near 73),-41.113056,174.827440
+11382,Pikarere Street (near 91),-41.111988,174.826589
+11381,Pikarere Street (near 117),-41.111656,174.824817
+11379,Titahi Bay - Pikarere Street,-41.111851,174.823298
+11239,Elsdon Park - Titahi Bay Road,-41.129091,174.835828
+10345,Coast Road (near 53),-41.280459,174.951543
+10344,Parenga Street at Ngaturi Grove (near 17),-41.285934,174.950021
+10343,Wood Street at Parenga Street (near 104),-41.283503,174.949949
+10368,Wood Street (near 56),-41.279931,174.949175
+10369,Wood Street at Faulke Avenue (near 10),-41.275837,174.949508
+10393,Wainuiomata Village - Main Road,-41.273187,174.953871
+10391,Main Road at Stanley Street,-41.268944,174.952312
+10407,Main Road at Short Street (near 64),-41.267018,174.950632
+10405,Main Road at Bledisloe Crescent,-41.265001,174.949021
+10452,Frederick Wise Park - Parkway,-41.256182,174.946421
+10449,Wainuiomata High School - Parkway,-41.251556,174.936510
+10445,Parkway at Konini Street (near 22),-41.253056,174.931935
+10424,Wainuiomata Shopping Centre (BP stop),-41.262506,174.945796
+10417,Wainuiomata Road at The Strand (near 61),-41.260885,174.940962
+10415,Wainuiomata Road at Davis Grove (near 109),-41.259325,174.936189
+10446,Wainuiomata Road at Maire Street (near 159),-41.256630,174.932004
+10442,Wainuiomata Road at Parkway (near 189),-41.254790,174.929456
+10541,Gracefield Science Campus (opposite),-41.235672,174.917360
+10536,Parkside Road at Bell Road,-41.234411,174.914054
+10535,Hutt Park Road (Exide),-41.239335,174.913695
+10516,Hutt Park Road (near 155),-41.240561,174.915234
+10515,Gracefield Road (near 198),-41.243927,174.915416
+10488,Gracefield Road (ECL),-41.246299,174.911391
+10512,"Seaview Road, Mobil Terminal",-41.245547,174.909472
+10511,Seaview Road at Barnes Street (near 58),-41.243474,174.909042
+10510,"Seaview Road, Opposite Caltex Terminal",-41.241951,174.908557
+10531,"Seaview Road, Placemakers (opposite)",-41.239470,174.907686
+10528,Seaview Road at Parkside Road (near 36),-41.237592,174.906307
+22748,Hutt Park - Seaview Road,-41.234536,174.904322
+10557,Waione Street (near 308),-41.232330,174.893270
+10552,Jessie Street at The Esplanade (near 77),-41.230906,174.888946
+10554,Jessie Street at Jackson Street,-41.229296,174.889902
+10551,Jackson Street at Patrick Street,-41.228702,174.888740
+10590,Jackson Street at Aurora Street,-41.227659,174.885334
+10383,Mulgrave Street - Old St Paul's (Tour Bus Stop),-41.276351,174.779957
+10591,Jackson Street at Aurora Street (near 355),-41.227383,174.885695
+10594,Jackson Street at Patrick Street (near 389),-41.228141,174.888366
+10555,Jessie Street at Jackson Street (near 26),-41.229378,174.890393
+10553,Jessie Street at The Esplanade (near 2),-41.231114,174.889405
+10558,Waione Street,-41.231924,174.893294
+10559,Hutt Park Roundabout - Waione Street,-41.233410,174.902678
+22770,Hutt Park - Seaview Road (near 1),-41.235230,174.905368
+10533,Parkside Road at Hutt Park Road,-41.236637,174.907437
+10537,Parkside Road at Bell Road (park),-41.234108,174.913866
+10538,Bell Road South (near 20),-41.235140,174.915745
+10542,Gracefield Science Campus,-41.235335,174.917040
+10443,Parkway at Totara Street,-41.253832,174.930240
+10447,Parkway at Mohaka Street,-41.251549,174.933168
+10450,Wainuiomata High School - Parkway (opposite),-41.251260,174.936991
+10451,Frederick Wise Park - Parkway (opposite),-41.255704,174.946466
+10455,Wellington Road at Parkway (near 12),-41.254897,174.946741
+10454,Wellington Road at Devon Street (near 53),-41.252141,174.946218
+10496,Wellington Road at Dover Road (near 83),-41.249677,174.944892
+10494,Wellington Road at Dublin Street (near 127),-41.246930,174.943284
+10518,Wellington Road at Kent Street (near 171),-41.244281,174.943874
+10519,Wellington Road at Norfolk Street (near 203),-41.242446,174.944309
+10524,Norfolk Street (near 39),-41.242331,174.948423
+10527,Wise Street at Pencarrow Crescent (near 124),-41.243663,174.950145
+10499,Wise Street at Russell Road (near 78),-41.247903,174.950807
+10462,Wise Street at Derwent Street (near 30),-41.251416,174.951305
+10464,Wise Street at Thirlmere Street,-41.252806,174.951644
+10461,Nelson Crescent at Wise Street (near 26),-41.254988,174.951518
+10457,Nelson Crescent at Heath Street (near 6),-41.255825,174.949394
+10200,Eastbourne Terminus,-41.307417,174.884556
+10252,Muritai Road at Tawa Street (near 446),-41.305198,174.888112
+10253,Muritai Road at Nikau Street (near 416),-41.303748,174.890340
+10255,Muritai Road at Kowhai Street (near 378),-41.302043,174.892130
+10258,Muritai Road at Konini Street (near 332),-41.299801,174.894287
+10294,Muritai Road at Hinau Street (near 314),-41.298533,174.895254
+10296,Muritai Road at Ngaio Street (near 272),-41.296952,174.896152
+10299,Muritai Road at Titoki Street (near 248),-41.294539,174.895521
+10322,Muritai Road at Makaro Gardens,-41.292011,174.897013
+10323,Eastbourne Village - Muritai Road,-41.290653,174.897965
+10325,Muritai Road at Houhere Terrace (near 108),-41.288480,174.900338
+10338,Muritai Road at Marine Parade (near 5),-41.286824,174.901365
+10340,Days Bay - Moana Road,-41.282400,174.905811
+10366,Days Bay - Marine Drive,-41.280614,174.906523
+10365,Days Bay - Ferry Road (opposite),-41.277716,174.904756
+10362,Sunshine Bay,-41.275813,174.904391
+10389,Mahina Bay,-41.270056,174.907782
+10400,Mahina Bay - Rangiuru Road (opposite),-41.267339,174.907023
+10402,York Bay,-41.263684,174.909687
+10441,Lowry Bay,-41.257484,174.912049
+10439,Point Howard (Sorrento Bay),-41.253215,174.904932
+10484,Seaview Marina - Seaview Road,-41.249565,174.907786
+23210,Fitzherbert Street at The Esplanade,-41.226840,174.873667
+10321,Muritai School - Oroua Street,-41.291577,174.896535
+10561,Randwick Road at Tirangi Road (near 27),-41.231350,174.904182
+10596,Randwick Road at Moera Shops,-41.227192,174.905040
+10595,Randwick Road at Moera Library,-41.225806,174.905513
+10629,Ludlam Crescent at Wai-iti Crescent (near 41),-41.220611,174.907069
+10627,Woburn Road at Hutt Recreation Ground (opposite),-41.217353,174.904184
+10674,Hutt Valley High School - Woburn Road,-41.215728,174.902241
+10487,Gracefield Road (Air Liquide),-41.246285,174.910615
+10513,Gracefield Road (near 155),-41.243992,174.914725
+23109,Gracefield Road at Hutt Park Road,-41.241330,174.915591
+10540,Gracefield Road (Mainfreight),-41.238691,174.916696
+10539,Gracefield Road (near 101),-41.236548,174.916132
+10532,Parkside Road at Hutt Park Road (Telstra),-41.237246,174.908767
+10543,Gracefield Road (near 116),-41.238373,174.917414
+23110,Gracefield Road at Tunnel Grove,-41.240752,174.916242
+11727,Stokes Valley Terminus - Rakau Grove,-41.193375,174.984146
+10917,Stokes Valley Road (near 482),-41.191019,174.982907
+10918,Stokes Valley Road at Kamahi Street (opposite 43,-41.187790,174.982607
+10952,Stokes Valley Road at Manuka Street (near 370),-41.183597,174.982386
+10950,George Street at Stokes Valley Road (near 410),-41.182846,174.982054
+10947,George Street at Chittick St (near 342),-41.180543,174.979267
+10951,Stokes Valley Road at Chittick Street (near 302),-41.179443,174.981964
+10984,Stokes Valley Road at Milton Street (near 280),-41.178193,174.981843
+22852,Stokes Valley Road at Delaney Park (opposite 236,-41.176213,174.981759
+10985,Stokes Valley Shops (Stokes Valley Rd),-41.173778,174.981913
+11025,Hawthorn Crescent at Stokes Valley Road (near 3),-41.172064,174.983137
+11030,Hawthorn Crescent at Glen Road (near 25),-41.171383,174.985548
+11028,Glen Road at Stokes Valley Road,-41.169220,174.984041
+11057,Stokes Valley Road (near 78),-41.166336,174.984193
+11059,Stokes Valley Road at George Street (near 52),-41.164333,174.984335
+11069,Stokes Valley Entrance - Stop B,-41.161309,174.982147
+11029,Glen Road at Takanini Grove,-41.169007,174.984428
+11031,Hawthorn Crescent at Glen Road (near 28),-41.171737,174.985928
+11027,Hawthorn Crescent at Stokes Valley Road (near 4),-41.172533,174.983091
+11022,Stokes Valley Shops (Bowers St),-41.173519,174.981261
+10982,Stokes Valley Shops (George St),-41.173921,174.979915
+10983,Stokes Valley Shops (Evans St),-41.174537,174.981244
+10948,George Street at Chittick St (near 333),-41.180514,174.979897
+10949,George Street at Stokes Valley Road,-41.182434,174.981946
+10916,Stokes Valley Road (near 479),-41.190837,174.983533
+22805,Upper Hutt Station - Stop A,-41.126013,175.070441
+11270,Trentham School - Fergusson Drive (opposite),-41.129852,175.046509
+11163,Fergusson Drive at Barton Rd (opposite),-41.139189,175.028331
+11112,Silverstream Station - Fergusson Drive,-41.146826,175.011859
+10974,"Taita Station - High Street, Stop A",-41.179710,174.960990
+10823,High Street at Park Avenue,-41.198265,174.936904
+10814,Hutt Hospital - High Street,-41.203524,174.924500
+10083,Rongotai College - Coutts Street (near 161),-41.321232,174.801479
+10086,Coutts Street (near 203),-41.323033,174.803237
+10057,Airport Retail Park - Tirangi Road,-41.326252,174.802393
+11737,Stewart Duff Drive (Freight Dr),-41.335441,174.809743
+10060,Wellington Airport,-41.329396,174.812157
+11738,Stewart Duff Drive,-41.335567,174.809758
+10056,Airport Retail Park - Tirangi Road (opposite),-41.326518,174.802090
+10085,Coutts Street (near 214),-41.323072,174.803023
+10084,Rongotai College - Coutts Street (near 186),-41.321846,174.801950
+11070,Stokes Valley Entrance - Stop C,-41.161042,174.981913
+11577,Plateau Road at Te Marua Store,-41.094013,175.129841
+11539,Topaz Street (near 16),-41.096340,175.111448
+11573,Gemstone Drive at Jasper Grove,-41.093310,175.107208
+11564,Gemstone Drive at Beryl Grove (near 44),-41.093099,175.103487
+11561,"Birchville School, Gemstone Drive",-41.092127,175.099932
+11557,Akatarawa Rd - Birchville Picnic Area (opposite),-41.091767,175.098468
+11536,Akatarawa Road - Akatarawa Store (near 118),-41.095040,175.095762
+11535,Akatarawa Road - Harcourt Park (opposite),-41.098983,175.094898
+11515,Akatarawa Road - Brown Owl Shops (near 26),-41.102982,175.096930
+11516,Fergusson Drive at Vista Crescent (near 1324),-41.105681,175.098587
+11452,Fergusson Dr at Rimutaka Sports Bar (near 1242),-41.110001,175.097795
+11439,Totara Park Shops - California Drive,-41.110595,175.081820
+11442,California Drive at Kentucky Street,-41.110068,175.084578
+11445,California Drive at Brightwater Cres,-41.109556,175.087504
+11449,California Drive at Baltimore Cres,-41.109074,175.089799
+11448,California Drive at Delaware Grove,-41.107105,175.089594
+11513,California Park (near 139),-41.106108,175.086895
+11510,California Drive at Tacoma Drive,-41.106620,175.084494
+22114,Totara Park - Tulsa Park,-41.108146,175.080266
+11514,Akatarawa Road - Brown Owl Shops,-41.103189,175.096448
+11534,Akatarawa Road - Harcourt Park,-41.099165,175.094333
+11554,Akatarawa Road - Akatarawa Store (near 115),-41.094954,175.095069
+11555,Akatarawa Rd - Birchville Picnic Area,-41.091719,175.097633
+11560,"Birchville School, Gemstone Drive (opposite)",-41.091789,175.100231
+11563,Gemstone Drive at Crystal Grove (near 45),-41.092681,175.103688
+11572,Gemstone Drive at Jasper Grove (opposite),-41.092915,175.107148
+11538,Emerald Hill Terminus - Gemstone Drive,-41.094876,175.110771
+11540,Topaz Street (opposite 16),-41.096226,175.111790
+11576,Plateau Road at Te Marua Store (opposite),-41.093766,175.130059
+11519,Norana Road at Mt Marua Drive (near 126),-41.102787,175.107141
+11522,Norana Road at Gentian Street (near 112),-41.104362,175.108239
+11517,Norana Road at Timberlea Park,-41.106255,175.106167
+11457,Norana Road at Aniseed Grove (near 64),-41.107386,175.103893
+11454,Moeraki Road at Norana Road (near 36),-41.110655,175.100448
+11377,Mangaroa Hill Road (near 4),-41.113014,175.095021
+11376,Fergusson Drive at Cruikshank Rd (near 1150),-41.115659,175.091710
+11374,Fergusson Drive at Hutt Gables (near 1094),-41.117288,175.087795
+11337,Fergusson Drive at Oderings Nursery,-41.118938,175.084703
+11332,Fergusson Drive at Kashmir Ave (near 1016),-41.121122,175.080972
+11281,Fergusson Drive at Richmond St,-41.125620,175.061185
+11279,Fergusson Drive at Golders Road (near 700),-41.126134,175.056567
+11274,Fergusson Rest Home (near 652),-41.127108,175.051928
+11272,Fergusson Drive at Refreshment Plc (near 614),-41.128704,175.048809
+11216,Fergusson Drive at Ranfurly Street,-41.133229,175.039918
+11215,Fergusson Drive at Brentwood St (near 478),-41.134332,175.037665
+11212,Trentham Memorial Park (near 438),-41.136854,175.033561
+11161,Fergusson Drive at Bathurst Street,-41.141617,175.023366
+11121,Fergusson Drive at Kiwi Street (near 288),-41.143794,175.018881
+11117,St Joseph's Home of Compassion (opposite),-41.145835,175.014963
+10935,Belmont Flat - Owen Street North,-41.183135,174.941647
+10899,Belmont Flat - Western Hutt Road (southbound),-41.186986,174.934868
+10895,Western Hutt Road - Belmont School,-41.190955,174.928021
+10934,Belmont Flat - Western Hutt Road (northbound),-41.185878,174.935945
+22851,Fergusson Drive at Ebdentown St,-41.122710,175.077830
+11333,Fergusson Drive at Kashmir Ave (near 1025),-41.120194,175.081514
+11336,Fergusson Drive at Oderings Nursery (near 105),-41.118667,175.084254
+11373,Fergusson Drive at Hutt Gables (near 1087),-41.116993,175.087214
+11375,Fergusson Drive at Cruikshank Rd (near 1125),-41.115365,175.091046
+11378,Mangaroa Hill Road (near SH2),-41.112745,175.094953
+11451,Fergusson Dr at Rimutaka Sports Bar (near 1238),-41.110093,175.097179
+11455,Moeraki Road at Norana Road (near 51),-41.110395,175.100880
+11456,Norana Road at Aniseed Grove (near 51),-41.107504,175.103349
+11518,Norana Road at Timberlea Park (near 81),-41.105954,175.105848
+11521,Norana Road at Gentian Street (near 99),-41.104623,175.107747
+11520,Norana Road at Mt Marua Drive,-41.102941,175.106610
+23036,Paremata Haywards Rd (near Mill),-41.116886,174.925589
+23037,Paremata Haywards Rd at Flightys Rd,-41.116266,174.932491
+23034,Paremata Haywards Rd at Mulherns Rd,-41.118085,174.942215
+22907,Haywards Hill Road (near Substation),-41.149599,174.979032
+23032,Haywards Hill Road (Riverside),-41.155953,174.976648
+23031,Haywards Hill Road (Hillside),-41.155503,174.976122
+23033,Haywards Hill Road (opposite Substation),-41.148910,174.978201
+23035,Paremata Haywards Rd at Mulherns Rd (opposite),-41.118144,174.940288
+23038,Paremata Haywards Rd at Murphys Rd,-41.116886,174.933664
+22909,Paremata Haywards Rd (opposite Mill),-41.117449,174.924760
+22818,"Lewis's - Surrey Street, Tawa",-41.167671,174.825958
+10666,Railway Avenue (near 21),-41.212209,174.893838
+10869,Naenae College - High Street (near 899),-41.196192,174.939657
+10872,High Street at Tennyson Avenue,-41.193653,174.943911
+10904,High Street at Mabey Road (near 985),-41.191496,174.947389
+10909,High Street at Avalon Intermediate,-41.189254,174.950554
+11288,Wilson Street (Bradley Lane),-41.125034,175.068254
+22804,Upper Hutt Station - Stop E,-41.125748,175.071171
+11007,High Street at Petherick Street (near 1294),-41.173466,174.964297
+10976,High Street at Watkins Grove (near 1266),-41.175929,174.962463
+10941,High Street at Macky Street (opposite 1143),-41.183704,174.958116
+10912,High Street at Burcham Street (near 1112),-41.186517,174.955302
+10908,High Street at Avalon Intermediate (opposite),-41.189516,174.951027
+10905,High Street at Guiness Street (near 1006),-41.191651,174.947823
+10871,High Street at Gordon Street (near 956),-41.194310,174.943382
+10868,Naenae College - High Street,-41.196569,174.939728
+10821,High Street at Avalon Baptist Church (near 772),-41.200404,174.933938
+10819,High Street at Thornycroft Street (near 738),-41.201961,174.931849
+10816,Boulcott Village (near 696),-41.203405,174.927908
+10812,High Street at Knox Presbyterian Church,-41.203784,174.919165
+10809,Ropata Medical Centre (opposite),-41.204078,174.916669
+10743,High Street at Downer Street,-41.205280,174.912041
+10740,High Street at City Nissan,-41.206899,174.908379
+10736,Queens Drive at Waterloo Road,-41.208556,174.906769
+10664,Railway Avenue (Brendan Foot Motors),-41.212362,174.892709
+11329,Wakefield Street (McDonalds),-41.124412,175.073821
+22802,Upper Hutt Station - Stop B,-41.125937,175.070665
+11325,Wilson Street (Criterion Lane),-41.125086,175.067898
+11088,Silver Stream Railway Museum,-41.150313,174.991970
+11044,High Street at The Endway (near 1401),-41.166678,174.969936
+11042,High Street at The Glade (near 1392),-41.166957,174.967835
+11009,Molesworth Street at High Street (near 144),-41.169422,174.965345
+11005,Molesworth Street at Partridge Street,-41.171398,174.962484
+11002,Reynolds Street (near 140),-41.173204,174.959557
+10970,Reynolds Street at Nash Street (near 110),-41.174896,174.957533
+10969,Reynolds Street at St Matthew's Church (opposite,-41.179102,174.956454
+10967,Reynolds Street at Compton Crescent (near 24),-41.179972,174.954000
+10938,Taita Drive at Reynolds Street (near 1044),-41.181288,174.951845
+10937,Taita Drive at Fraser Park (opposite),-41.183125,174.950779
+10907,Taita Drive at Percy Cameron Street (near 238),-41.187106,174.949716
+10903,Taita Drive at Mabey Road (near 176),-41.189066,174.944599
+10900,Taita Drive at Tennyson Avenue (near 98),-41.191762,174.939026
+23271,Lochy Street,-41.224307,174.867618
+10619,"Petone Station, Stop B",-41.222182,174.869264
+11556,Akatarawa Road (near 201),-41.089279,175.098080
+11559,Gillespies Road (near 7),-41.088925,175.100200
+11565,Gillespies Road (near 47),-41.089625,175.102805
+11569,Gillespies Road (near 73),-41.090305,175.105565
+11571,Gillespies Road (Edmund Lomas Grove),-41.091301,175.106240
+11568,Gillespies Road (near 70),-41.090723,175.105328
+11566,Gillespies Road (near 44),-41.089916,175.102636
+11562,Gillespies Road (near 18),-41.089216,175.100042
+11558,Akatarawa Road (near 212),-41.089170,175.098624
+11324,Royal Street - Pak N Save (St Joseph's School),-41.123043,175.067287
+10870,Tennyson Avenue at High Street (near 1),-41.193834,174.942796
+10901,Taita Drive at Avalon Park (near 105),-41.191373,174.939146
+10902,Taita Drive at Mabey Road (near 169),-41.188697,174.944028
+10906,Taita Drive at Percy Cameron Street (near 225),-41.187175,174.948323
+10936,Taita Drive at Fraser Park,-41.182873,174.950270
+10939,Reynolds Street at Taita Drive (near 1),-41.180613,174.951777
+10966,Reynolds Street at Compton Crescent (near 17),-41.179634,174.953763
+10968,Reynolds Street at St Matthew's Church,-41.178763,174.956277
+10971,Reynolds Street at Milne Crescent (opp 81),-41.176368,174.957314
+10972,Reynolds Street at Nash Street (near 101),-41.174241,174.957394
+11003,Reynolds Street (near 125),-41.172830,174.959331
+11004,Molesworth Street at Reynolds Street (near 89),-41.172090,174.961515
+11008,Molesworth Street at High Street (near 149),-41.169139,174.965039
+11330,Wakefield Street,-41.124444,175.073536
+11453,Fergusson Drive at Radiata Grove (near 1291),-41.106940,175.097710
+11437,Totara Park Bridge (near 68),-41.112135,175.080856
+11372,Totara Park Road at Clouston Park Road (near 36),-41.116622,175.081795
+11334,Totara Park Road at Fergusson Drive (near 8),-41.119012,175.082633
+22803,Upper Hutt Station - Stop D,-41.125804,175.071018
+11326,Queen Street at Countdown,-41.123001,175.071121
+11328,Queen Street at Logan Plaza (opposite),-41.122742,175.073543
+11335,Totara Park Road at Fergusson Drive (near 15),-41.118952,175.081928
+11371,Totara Park Road at Clouston Park Road (near 51),-41.116668,175.081213
+11551,Plateau Road (near 232),-41.097339,175.145808
+11548,Plateau Road (near 172),-41.096762,175.141943
+11546,Plateau Road (near 122),-41.096339,175.138024
+11543,Plateau Road (near 96),-41.096682,175.136058
+11541,Plateau Road (near 54),-41.096875,175.132421
+11542,Plateau Road (near 51),-41.096564,175.132637
+11544,Plateau Road (near 91),-41.096266,175.136105
+11545,Plateau Road (near 111),-41.095919,175.137856
+11547,Plateau Road (near 165),-41.096292,175.142023
+11549,Plateau Road (near 205),-41.096346,175.143977
+11550,Te Marua - Plateau Road at Tunnel Gully,-41.096896,175.145865
+11169,Trentham Station (bus stop),-41.137716,175.038317
+23280,Tawai Street (near 14),-41.135834,175.037247
+11213,Brentwood Street at Brentwood School,-41.133063,175.034552
+11259,Brentwood Street at Hector Grove (near 63),-41.130908,175.032580
+11261,Rimutaka Street (near 44),-41.129091,175.033501
+23270,Rimutaka Street at Merton Street (near 4),-41.128858,175.036508
+11263,Fergusson Intermediate - Hikurangi Street,-41.127476,175.037716
+11264,Upper Hutt College - Hikurangi Street,-41.127958,175.039530
+11268,Upper Hutt College - Moonshine Road,-41.127471,175.041623
+11308,Shakespeare Avenue at Moonshine Road (near 84),-41.124571,175.040069
+11310,Shakespeare Avenue (near 54),-41.124189,175.043845
+11313,Shakespeare Avenue at Byron Street (near 18),-41.122807,175.047626
+11314,McLeod Street at Davis Crescent (near 156),-41.120795,175.051375
+11366,McLeod Street at Mary Crescent (near 96),-41.117787,175.054414
+11368,McLeod Street (near 70),-41.117474,175.057299
+11369,McLeod Street at Robertson Street (near 34),-41.116916,175.060854
+11320,Gibbons Street at Flora McCurdy Walk (near 86),-41.119293,175.065442
+11331,Queen Street at Logan Plaza,-41.123082,175.073672
+11327,Queen Street at Countdown (opposite),-41.123452,175.071087
+11323,Royal Street - Pak N Save,-41.123079,175.066752
+11319,Gibbons Street at Flora McCurdy Walk (near 87),-41.119329,175.064943
+11370,McLeod Street at Robertson Street,-41.117382,175.060940
+23043,McLeod Street at Kelly Grove,-41.117824,175.057357
+11365,McLeod Street at Mary Crescent (near 79),-41.118619,175.054214
+11315,McLeod Street at Davis Crescent (near 111),-41.121072,175.052003
+11312,Shakespeare Avenue (near 25),-41.123271,175.047878
+11311,Shakespeare Avenue (near 49),-41.124606,175.044691
+11309,Shakespeare Avenue at Moonshine Road (near 83),-41.124994,175.040606
+11265,Moonshine Road (near 58),-41.125726,175.040962
+11267,Upper Hutt College - Moonshine Road (near 34),-41.127029,175.042122
+11266,Hikurangi Street (near 23),-41.128633,175.041111
+11262,Rimutaka Street at Merton Street,-41.129259,175.036758
+11260,Rimutaka Street at Holdsworth Avenue (near 39),-41.129547,175.033146
+11258,Brentwood Street at Hector Grove (near 56),-41.130772,175.033184
+23281,Tawai Street (near 9a),-41.135594,175.037621
+11083,Blue Mountains Road - Fendalton Crescent,-41.156888,175.016980
+11084,Blue Mountains Road at Chichester Dr,-41.158646,175.016903
+11066,Forest Road at Elmsley Road (near 18),-41.161814,175.016523
+11065,Pinehaven Road at Forest Road (near 95),-41.161853,175.014259
+11064,Jocelyn Crescent at Pinehaven Road,-41.163682,175.013719
+11063,Jocelyn Crescent at Wyndham Road,-41.162170,175.012076
+11081,Pinehaven Library,-41.159712,175.013050
+11080,Pinehaven Road at Winchester Avenue,-41.157777,175.012991
+11082,Pinehaven Road at Blue Mountains Road,-41.155302,175.013404
+11094,Sunbrae Dr at Blue Mountains Rd (near 3),-41.152709,175.014350
+11091,Sunbrae Drive at Ecclesfield Grove,-41.153935,175.012219
+11079,Sunbrae Drive (near 61),-41.155981,175.011637
+22117,Field Street at Kurth Crescent (near 52),-41.152712,175.010048
+11917,Silverstream Station - Kiln Street,-41.147456,175.011366
+11120,Pempsey Street at Gloucester St (near 3),-41.147213,175.017043
+11122,Pempsey Street at Heretaunga Sq (near 35),-41.145894,175.019850
+11124,Somme Road at Maadi Place (near 7),-41.144027,175.024643
+11126,Pinehill Crescent,-41.144630,175.028283
+11128,Gallipoli Road,-41.143343,175.033355
+23168,New Zealand International Campus,-41.141902,175.033347
+22111,Stafford Street (near 5),-41.139228,175.033277
+11170,Trentham Station - Ararino Street (near 56),-41.137028,175.039035
+11219,Ararino Street at Ranfurly Street (near 32),-41.135391,175.041975
+11221,Ararino Street at Miro Street (near 16),-41.133979,175.044909
+11222,Miro Street (near 90),-41.133590,175.048066
+11223,Miro Street at McHardie Street (near 44),-41.132003,175.051222
+11278,Miro Street at Ward Street (near 2),-41.129853,175.055622
+11226,Wallaceville Animal Research Centre (opposite),-41.132264,175.058818
+11229,Lane Street at Wallaceville Rd (near 5),-41.133132,175.061157
+11231,Lane Street (near 51),-41.131985,175.064397
+11284,Lane Street at Seddon Street (near 67),-41.129558,175.065620
+11285,Blenheim Street at H20 Xtream (opposite),-41.126653,175.065851
+11287,Blenheim Street at H20 Xtream,-41.126626,175.066362
+11286,Lane Street at Seddon Street (near 58),-41.129348,175.066268
+11232,Lane Street at Jepsen Grove,-41.132346,175.064825
+11228,Lane Street at Wallaceville Rd (near 4),-41.133485,175.061585
+11225,Wallaceville Animal Research Centre,-41.132384,175.058167
+11277,Miro Street at Ward Street,-41.130155,175.055846
+11224,Miro Street at McHardie Street (near 41),-41.132225,175.051896
+22806,Miro Street (near 85),-41.133864,175.048349
+11220,Ararino Street at Miro Street (near 31),-41.134395,175.045339
+11218,Ararino Street at Ranfurly Street (near 61),-41.135894,175.042014
+22112,Stafford Street (opp 5),-41.139538,175.033548
+23167,New Zealand International Campus (opposite),-41.141803,175.033868
+11129,Gallipoli Road (near 7),-41.143716,175.033665
+11127,Pinehill Crescent (near 21),-41.144981,175.028270
+11125,Somme Road at Maadi Place,-41.144342,175.025141
+11123,Pempsey Street at Heretaunga Sq (near 32),-41.146195,175.020169
+11119,Pempsey Street at Gloucester St (near 2),-41.147603,175.017388
+11916,Silverstream Station - Gard Street,-41.147564,175.012418
+11089,Field Street at Kurth Crescent,-41.152746,175.010657
+11090,Sunbrae Drive (near 97),-41.153755,175.011188
+11093,Sunbrae Dr at Blue Mountains Rd,-41.152264,175.014039
+11023,Stokes Valley Road at St Phillips Anglican Churc,-41.171798,174.982354
+11026,Tui Glen School (near 128),-41.169352,174.983199
+11011,High Street at Farmer Crescent (near 1348),-41.170113,174.966546
+22807,"Sacred Heart College, Hautana Street",-41.214650,174.907517
+23289,Stokes Valley Road at Scott Court,-41.174340,174.982240
+22809,"Sacred Heart College, Laings Road",-41.214053,174.906045
+10676,Hutt Valley High School (School Bus Stop),-41.216155,174.902539
+10567,Bell Road at Gracefield School (near 23),-41.231992,174.914389
+10566,Bell Road (near 55),-41.230053,174.913999
+10599,Bell Road at Waikare Avenue (near 131),-41.225191,174.912236
+10605,Whites Line East at Godley Street,-41.223609,174.915339
+10606,Whites Line East at Hinemoa Street (near 122),-41.224017,174.917343
+10608,Waiwhetu Marae - Riverside Drive (near 177),-41.224278,174.920047
+10611,Riverside Drive at Guthrie Street (near 57),-41.222615,174.921478
+10639,Riverside Drive at Malone Road (near 215),-41.220552,174.924794
+23028,Riverside Drive at Freyburg Street (near 221),-41.220102,174.926940
+10641,Riverside Drive at The Open Polytechnic,-41.219449,174.928805
+10694,Waiwhetu Road at Hardy Street,-41.215119,174.926532
+10697,Waterloo Road at Waiwhetu Road,-41.213236,174.929232
+10692,Waterloo Road (near 260),-41.212626,174.925851
+10689,"Waterloo Station - Oxford Terrace, Stop B",-41.213525,174.921106
+10684,Knights Road at Mahoe Street (near 146),-41.212687,174.915094
+10682,Knights Road at Chilton St James School (opposit,-41.212314,174.913187
+10678,Knights Road at St Peter & Paul School,-41.211206,174.906607
+10747,Kings Crescent at Pretoria Street (near 85),-41.207901,174.913691
+10750,Kings Crescent at Brunswick St (near 111),-41.205994,174.916820
+10836,Naenae Station (bus stop),-41.198630,174.946276
+10913,Eastern Hutt Rd at Peterkin St South (near 10),-41.188285,174.957226
+10943,Eastern Hutt Rd at Peterkin St North (near 51),-41.183970,174.961009
+10945,"Taita Station - Eastern Hutt Road, Stop D",-41.180618,174.961649
+10977,"Taita College, Eastern Hutt Road (opposite)",-41.174392,174.967066
+11013,"Pomare Station, Eastern Hutt Road",-41.169581,174.969796
+11054,Holborn Drive at Stokes Valley Road (near 3),-41.164251,174.983368
+11052,Holborn Drive at Harold Grove (near 33),-41.163082,174.980603
+11047,Holborn Drive (near 75),-41.163685,174.978559
+11050,Holborn Drive at Clapham Grove (near 99),-41.164631,174.979064
+11045,Holborn Drive at Greenwich Grove (near 135),-41.166509,174.978823
+11020,Holborn Drive (near 153),-41.169299,174.976308
+11016,Holborn Drive at Shaftsbury Grove,-41.171440,174.974321
+11017,Logie Street (near 89),-41.172742,174.975111
+11021,Logie Street at Gribble Grove,-41.173221,174.976580
+10980,Logie Street (near 14),-41.174204,174.978636
+10981,George Street at Logie Street (near 224),-41.175131,174.979176
+11034,Tawhai School - Glen Road,-41.172858,174.987774
+10990,The Glen - 17 Tawhai Street,-41.174028,174.990467
+23111,The Glen - 59 Tawhai Street,-41.175643,174.993449
+10993,The Glen - 100 Horoeka Street,-41.174918,174.994237
+11036,Horoeka Street at Lowry Crescent (near 52),-41.172141,174.990196
+11033,The Glen - Horoeka Street at Glen Road (near 2),-41.171186,174.986567
+11056,Thomas Street at Wagon Road,-41.161765,174.983376
+11073,Manor Drive (near 13),-41.158392,174.984169
+11075,Kingsley Street (near 26),-41.156284,174.986811
+11077,Kingsley Street (near 61),-41.156085,174.988938
+11078,Stokes Valley Heights - Robson Street,-41.157818,174.989789
+11076,Lord Street (near 72),-41.159203,174.987292
+23125,Lord Street (near 26),-41.159795,174.985320
+11074,Manor Drive (near 18),-41.158546,174.984650
+11072,Thomas Street at Wagon Road (near 47),-41.161477,174.983856
+11062,Thomas Street at John Street,-41.163026,174.985476
+11032,The Glen - Horoeka Street at Glen Road (near 5),-41.170773,174.986484
+11035,Horoeka Street at Lowry Crescent (near 47),-41.171887,174.990832
+10992,The Glen - 95 Horoeka Street,-41.174551,174.994608
+10991,The Glen - 56 Tawhai Street,-41.176000,174.993126
+10989,The Glen - 12 Tawhai Street,-41.174331,174.990143
+23030,Tawhai School - Glen Road (opposite),-41.172957,174.987252
+10979,Logie Street (near 40),-41.174313,174.978031
+11018,Logie Street at Fenchurch Grove Walkway,-41.173277,174.974877
+11015,Logie Street at Shaftsbury Grove,-41.171586,174.973706
+11014,Holborn Drive at Aldersgate Grove,-41.170438,174.973433
+11019,Holborn Drive (near 172),-41.169358,174.974939
+11046,Holborn Drive at Greenwich Grove (near 136),-41.166302,174.978244
+11048,Holborn Drive (near 106),-41.163787,174.977835
+11049,Holborn Drive (near 74),-41.163172,174.978508
+11051,Holborn Drive at Harold Grove (near 52),-41.162285,174.980329
+11053,Holborn Drive (near 12),-41.162958,174.982065
+11055,Holborn Drive at Stokes Valley Road,-41.163800,174.983426
+11012,"Pomare Station, Eastern Hutt Road (opposite)",-41.169690,174.970276
+10978,"Taita College, Eastern Hutt Road",-41.174538,174.967464
+10946,"Taita Station - Eastern Hutt Road, Stop E",-41.180284,174.962175
+10944,Eastern Hutt Rd at Peterkin St North (near 80),-41.183763,174.961551
+10915,Eastern Hutt Road (near 38),-41.186736,174.960972
+10914,Eastern Hutt Rd at Peterkin St South (near 17),-41.188553,174.957401
+11855,Naenae - Kowhai Street (near 7),-41.193069,174.953970
+10877,Naenae Road at Kowhai Street (near 294),-41.195089,174.956510
+10843,Naenae Road at Rata Street (near 248),-41.198304,174.955484
+10841,Naenae Road at Bush Street,-41.199862,174.954934
+10840,Naenae Road at Bertram Grove,-41.201757,174.951019
+10837,Naenae Road at Vogel Street (near 154),-41.202389,174.948199
+10834,Naenae Road at Horlor Street (near 116),-41.202785,174.944490
+10826,"Naenae College, Daysh Street (near 26)",-41.198525,174.938569
+10749,Kings Crescent at Brunswick St (near 118),-41.206257,174.917245
+10748,Kings Crescent at Pretoria Street (near 84),-41.208054,174.914232
+10679,Knights Road at Cornwall Street,-41.211080,174.908261
+10683,Knights Road at Chilton St James School,-41.212007,174.913214
+10685,Knights Road at Mahoe Street,-41.212649,174.916333
+10690,"Waterloo Station - Knights Road, Stop A",-41.213437,174.920400
+10691,Waterloo Road (near 259),-41.212226,174.926054
+10696,Waiwhetu Road at Waterloo Road (near 208),-41.213705,174.929771
+10695,Waiwhetu Road at St Ronans Avenue (near 184),-41.215473,174.926912
+10640,Birdwood Road at The Open Polytechnic,-41.218717,174.928987
+23029,Riverside Drive at Freyburg Street,-41.220400,174.926901
+10638,Riverside Drive at Malone Road,-41.220939,174.924805
+10612,Riverside Drive at Guthrie Street,-41.222942,174.921308
+10610,Waiwhetu Marae - Riverside Drive (opposite),-41.223966,174.920944
+10607,Whites Line East at Waitui Crescent (near 167),-41.224742,174.918712
+10604,Whites Line East  at Wainui Road (near 125),-41.223849,174.914988
+10598,Bell Road at Waikare Avenue (near 80),-41.225353,174.912789
+10564,Bell Road (opposite 55),-41.229901,174.914460
+10568,Bell Road at Gracefield School (near 18),-41.231962,174.915092
+10739,Waterloo Road at New World,-41.209012,174.908022
+10681,Cornwall Street at Queens Grove,-41.210258,174.909478
+10698,Waiwhetu Road at Waterloo Road (near 175),-41.212833,174.930163
+10699,Fairfield Shops - Waiwhetu Road (near 197),-41.211841,174.931887
+10755,Waiwhetu Road at Boothby Grove (near 335),-41.208266,174.934001
+10759,Waiwhetu Road at Naenae Road (near 371),-41.205880,174.935004
+10761,Naenae Road (near 49),-41.204187,174.938771
+10763,Waddington Drive at Hamerton Street (near 9),-41.203865,174.940801
+10765,Waddington Drive at Burke Grove (near 55),-41.205675,174.945088
+10770,Waddington Drive at Keys Street (near 95),-41.206346,174.949127
+10777,Waddington Drive at Seddon Street (near 111),-41.206862,174.951646
+10778,Waddington Drive at Collett Street (near 141),-41.205939,174.954577
+10844,Waddington Drive at Naenae Park (near 220),-41.203023,174.956566
+10849,Waddington Drive at Hay Street (near 191),-41.202850,174.960401
+10853,Hay Street at Boyd Grove (near 29),-41.203058,174.964044
+10780,Wesleyhaven Hospital (Hay St),-41.203865,174.967980
+10858,Rata Street (near 204),-41.202594,174.967501
+10855,Rata Street (near 158),-41.201668,174.964790
+10850,Rata Street at Rimu Street (near 116),-41.200664,174.961325
+10847,Rata Street School (near 76),-41.199925,174.957631
+22812,Hewer Crescent (near 67),-41.196096,174.954453
+10875,Hewer Crescent at Sladden Street (near 99),-41.194329,174.952958
+22813,Sladden Street (near 42),-41.195765,174.951641
+10773,Seddon Street at Naenae Park (near 41),-41.204994,174.950780
+10776,Seddon Street at Waddington Drive,-41.207582,174.951703
+10709,Seddon Street (near 95),-41.209972,174.952585
+10708,Judd Crescent at Toomath Street,-41.212546,174.950514
+10706,Judd Crescent at Willcox Grove,-41.213606,174.949114
+10703,Judd Crescent at Ingram Street (near 57),-41.212086,174.948449
+10701,Judd Crescent at Frethey Grove,-41.209647,174.948329
+10768,Judd Crescent at Feist Street,-41.207690,174.949011
+22815,Sladden Street (near 43),-41.195750,174.950972
+10873,Hewer Crescent at Sladden Street (near 116),-41.194036,174.953223
+22811,Hewer Crescent (near 70),-41.196214,174.954945
+10846,Rata Street School (near 75),-41.199662,174.957694
+10851,Rata Street at Rimu Street (near 117),-41.200383,174.961436
+10856,Rata Street (near 159),-41.201239,174.965099
+10857,Rata Street (near 241),-41.202389,174.967924
+10781,Wesleyhaven Hospital (Rata St),-41.203765,174.968597
+10854,Hay Street at Boyd Grove (near 28),-41.203508,174.964105
+10848,Waddington Drive at Hay Street,-41.203143,174.960648
+10845,Waddington Drive at Naenae Park (near 222),-41.203328,174.956610
+10779,Waddington Drive at Collett Street (near 172),-41.206049,174.954962
+10775,Waddington Drive at Seddon Street (near 138),-41.207184,174.951787
+10769,Waddington Drive at Keys Street (near 98),-41.206594,174.948836
+10766,Waddington Drive at Burke Grove (near 64),-41.205902,174.945524
+10764,Waddington Drive at Hamerton Street,-41.204024,174.940448
+10762,Naenae Road at Waddington Drive (near 48),-41.204406,174.939135
+10760,Waiwhetu Road at Naenae Road (near 368),-41.205961,174.935543
+10757,Waiwhetu Road at Durham Crescent (near 344),-41.207868,174.934645
+10700,Fairfield Shops - Waiwhetu Road (near 300),-41.211171,174.933704
+10737,Waterloo Road at Queensgate,-41.209231,174.907349
+10882,Belmont - Park Road (near 214),-41.188305,174.912957
+10884,Park Hill Reserve (opposite 131),-41.187714,174.917089
+10888,Park Road at Chilean Embassy,-41.188474,174.920163
+10887,Park Road at Redvers Drive (near 66),-41.190682,174.920096
+10861,Park Road at Natusch Road (near 12),-41.193133,174.920573
+10865,Grounsell Crescent (near 275),-41.192250,174.924351
+10893,Hill Road at Belmont Terrace,-41.189885,174.925760
+10891,Hill Road at Foster Crescent (opp 50),-41.188553,174.922991
+10889,Hill Road (near 77),-41.187148,174.920816
+23287,Hill Road (near 97),-41.185844,174.919610
+10926,Hill Road (near 133),-41.184971,174.917367
+10924,Belmont - Hill Road,-41.183703,174.914004
+10925,Hill Road (near 128),-41.184437,174.917554
+10927,Hill Road (near 96),-41.185444,174.919849
+10928,Hill Road (near 84),-41.186241,174.920671
+10890,Hill Road at Foster Crescent (near 60),-41.187751,174.922491
+10892,Hill Road at Belmont Terrace (opposite),-41.189708,174.926089
+10862,Park Road at Natusch Road (near 13),-41.193124,174.920024
+10885,Park Road at Redvers Drive (near 41),-41.190549,174.919425
+10886,Park Road at Chilean Embassy (near 71),-41.188450,174.919423
+10883,Park Road (near 131),-41.188128,174.917101
+10863,Grounsell Crescent at Park Road (near 260),-41.193731,174.922486
+11589,Melling Station (bus Stop),-41.203717,174.905771
+22808,Hutt Intermediate School,-41.215198,174.914177
+10808,St Orans College (School Bus Stop),-41.204152,174.915980
+10686,Waterloo Road at St Bernards College (opposite),-41.210810,174.916948
+10745,Waterloo Road at Chilton St James,-41.210330,174.913857
+10864,Grounsell Crescent at Park Road (Opposite),-41.193277,174.922747
+11001,Kelson - Major Drive at Kaitangata Crescent,-41.171960,174.939840
+10997,Major Drive at Becks Close (near 216),-41.174526,174.937233
+10964,Major Drive at Ilam Grove (near 194),-41.175971,174.936477
+10962,Major Drive at Waipounamu Drive,-41.178513,174.934179
+10933,Major Drive at Kelson School (near 114),-41.180768,174.931825
+10931,Major Drive at Taireri Crescent (near 84),-41.183010,174.930782
+10930,Major Drive at Sunshine Crescent(near 50),-41.185445,174.928969
+10898,Major Drive at Viscount Grove (Opp 25),-41.186642,174.929040
+10896,Speedys Reserve (opposite),-41.189619,174.928233
+10867,Fairway Drive at Avalon Park,-41.195195,174.933594
+10832,Harrison Crescent (near 22),-41.198993,174.941278
+10829,Oxford Terrace at Lincoln Avenue,-41.201196,174.940412
+10824,Oxford Terrace at Roberts Street,-41.202810,174.937610
+10758,Oxford Terrace at Trinity Avenue,-41.204654,174.934551
+10754,Oxford Terrace at Mitchell Street,-41.206758,174.931500
+10752,Epuni Station - Oxford Terrace,-41.208056,174.929307
+22599,Oxford Terrace at Epuni Street (opposite 77),-41.209779,174.926996
+23273,Marsden Street at Bridge Street,-41.211884,174.896631
+10667,Bridge Street at Pharazyn Street (near 14),-41.210893,174.894444
+23272,Parliament Street at Laery Street,-41.210827,174.892391
+10670,Bridge Street at Pharazyn Street,-41.210852,174.895302
+10729,Normandale Road at Miromiro Road,-41.208742,174.890435
+10730,Jubilee Park (opposite),-41.207097,174.891914
+10806,Pekanga Street at Christina Grove (near 9),-41.204612,174.892964
+10728,Pekangai Road at Pokohiwi Road (near 31),-41.205141,174.889819
+10800,Pokohiwi Road (near 42),-41.203593,174.888093
+10802,Poto Road at Pokohiwi Road (near 27),-41.201295,174.889793
+10798,Poto Road At Wilson Grove,-41.200121,174.888316
+10797,St Aidan's Church,-41.200710,174.886449
+10795,Dowse Drive at Miromiro Road (near 192),-41.200996,174.883833
+10793,Dowse Drive at Oakleigh Street (near 247),-41.201963,174.881965
+10791,Oakleigh Street (near 23),-41.203053,174.879730
+10789,Maungaraki Road at Oakleigh St (near 57),-41.203121,174.877776
+10787,Maungaraki Road at Otamarau Gr (near 308),-41.203803,174.875160
+10786,Protea Street (near 4),-41.204785,174.875152
+10720,Acacia Avenue at Camellia Terrace (near 24),-41.205048,174.876161
+10727,Dowse Drive at Acacia Avenue (near 208),-41.205054,174.879083
+10724,Maungaraki Shops (opposite),-41.209019,174.878981
+10659,Dowse Drive at Mulberry Street (near 112),-41.211564,174.880890
+10657,Dowse Drive (near 76),-41.212847,174.879543
+10653,Dowse Drive (near 56),-41.213576,174.879039
+10655,Dowse Drive at Magnolia Grove (near 24),-41.215451,174.879462
+23277,Bottom of Dowse Drive (hillside),-41.215831,174.881000
+23332,Hutt Road (near 408),-41.216716,174.883685
+23333,Hutt Road (near 142),-41.220407,174.877087
+22118,"Petone Station, Stop A",-41.222060,174.869583
+23335,Hutt Road (near 85),-41.220014,174.876932
+23331,Hutt Road (near 415),-41.216285,174.883554
+10660,Bottom of Dowse Drive,-41.216055,174.881639
+10654,Dowse Drive at Magnolia Grove (near 23),-41.215532,174.878928
+10652,Dowse Drive (opposite 56),-41.213430,174.878594
+10656,Dowse Drive at Bushey Way (near 97),-41.211739,174.879560
+10658,Dowse Drive at Mulberry Street,-41.211072,174.880113
+10723,Dowse Drive at Barberry Grove (near 123),-41.210303,174.878684
+10722,Maungaraki Shops,-41.208524,174.878419
+10725,Dowse Drive at Acacia Avenue (near 215),-41.205035,174.878630
+10721,Acacia Avenue at Camellia Terrace (near 25),-41.205398,174.876207
+10785,Protea Street (near 9),-41.204830,174.874593
+10784,Maungaraki Road at Otamarau Gr (near 1),-41.203922,174.874472
+10788,Maungaraki Road at Oakleigh St,-41.202614,174.877404
+10790,Oakleigh Street (near 30),-41.202798,174.879341
+10792,Oakleigh Street at Dowse Drive (near 4),-41.201833,174.881079
+10794,Miromiro Road (near 303),-41.200387,174.884198
+10796,St Aidan's Church (near 211),-41.200341,174.886438
+10799,Poto Road At Wilson Grove (near 54),-41.199457,174.888214
+10804,Pokohiwi Road at Poto Road (near 1),-41.201375,174.890391
+10801,Pokohiwi Road (near 29),-41.203554,174.888784
+10803,Pekanga Road at Taka Grove (near 32),-41.204383,174.890465
+10805,Pekanga Street at Christina Grove (near 10),-41.203947,174.892301
+10731,Jubilee Park,-41.206871,174.892492
+10662,Western Hutt Station - Parliament Street,-41.211665,174.891854
+22598,Oxford Terrace at Epuni Street (near 77),-41.209644,174.926456
+10751,Epuni Station - Oxford Terrace (near 97),-41.207956,174.928804
+10753,Oxford Terrace at Mitchell Street (near 118),-41.206441,174.931097
+10756,Oxford Terrace at Trinity Avenue (near 142),-41.204390,174.934174
+10825,Oxford Terrace at Roberts Street (near156),-41.202538,174.937196
+10828,Oxford Terrace at Lincoln Avenue (near 170),-41.200961,174.939964
+10831,Harrison Crescent (near 21),-41.199579,174.941259
+10866,Fairway Drive at Avalon Park (GNS Science),-41.195582,174.933069
+10894,Speedys Reserve,-41.190216,174.928071
+10897,Major Drive at Viscount Grove (near 27),-41.186868,174.928474
+10929,Major Drive at Sunshine Crescent (near 53),-41.185199,174.928628
+10932,Major Drive at Taireri Crescent (near 81),-41.182848,174.930253
+10960,Major Drive at Kelson School (near 128),-41.180215,174.931511
+10961,Major Drive at Waipounamu Drive (near 150),-41.178320,174.933876
+10963,Major Drive at Ilam Grove (near 187),-41.176367,174.935940
+10996,Major Drive at Becks Close (near 207),-41.174346,174.936692
+10999,Major Drive at Invercargill Drive,-41.172946,174.937962
+11000,Kelson Terminus - Major Drive,-41.171532,174.939577
+22881,Naenae Intermediate - Walters Street (School),-41.196352,174.943001
+10647,Korokoro - Titiro Moana Road,-41.211758,174.866691
+10648,Korokoro School,-41.216256,174.867546
+10618,Korokoro Road (near 90),-41.217443,174.865480
+10617,Korokoro - Singers Road,-41.220632,174.864329
+10649,Akatea Road at Maungaraki Road (near 36),-41.213315,174.869013
+10651,London Road at George Gee Drive,-41.214309,174.873263
+22972,London Road (near 30),-41.215509,174.873679
+10622,London Road at Stanhope Grove,-41.217102,174.873211
+23209,Petone Station - Korokoro Road,-41.220583,174.870698
+10620,Petone Station - Korokoro Road,-41.220633,174.870365
+10621,London Road at Rakeiora Grove,-41.216816,174.872488
+10650,London Road at Tewhiti Grove,-41.214295,174.872428
+10489,Mohaka Street (near 17),-41.250051,174.932790
+10490,Mohaka Street (near 29),-41.247576,174.933243
+10491,Manutuke Street,-41.246148,174.935158
+10493,Meremere Street (near 38),-41.247763,174.936053
+10492,Meremere Street (near 2),-41.250619,174.935456
+10572,Wainui Road at Gracefield Road,-41.232320,174.921748
+10570,Griffins - Wainui Road (opposite),-41.228485,174.916757
+10603,Wainui Rd at Our Lady Of The Rosary (near 10),-41.225020,174.914450
+10600,Waiwhetu Road at Rodney Street,-41.222971,174.913579
+10634,Waiwhetu Road at Guthrie Street,-41.220528,174.917528
+10632,Guthrie Street at Trafalgar Street (near 6),-41.218521,174.916361
+22113,Waterloo Station - Stop D,-41.213642,174.921634
+22702,Wairarapa Hospital,-40.946890,175.673949
+22700,Queen Street - New World,-40.947850,175.665148
+22673,Masterton - Church Street,-40.950022,175.662360
+22674,Worksop Road - Woolworths,-40.952658,175.658188
+23326,Chapel Street at Pak n Save,-40.955936,175.650013
+23007,Hadlow School (opposite),-40.960078,175.641015
+23008,High Street Masterton (near 97),-40.960787,175.637585
+22680,High Street Masterton (near 125),-40.961663,175.633924
+22681,High Street Masterton (near 165),-40.962119,175.630496
+22683,High Street Masterton (near 199),-40.962264,175.626509
+22734,Waingawa - SH2 at Cornwall Rd,-40.969731,175.602618
+23242,Taratahi - SH2 at East Taratahi Rd,-40.981488,175.585271
+22652,Clareville - SH2 at Chester Rd (southbound),-41.008755,175.550822
+22653,Carterton - High Street North (near 238),-41.019808,175.532775
+22655,"Carterton - Police Station, Nelson Crescent",-41.024912,175.528806
+22657,Carterton - High Street South (near 155),-41.027144,175.525989
+22659,Carterton - High Street South (St Mary's),-41.030635,175.522493
+22665,Carterton - High Street South (near 281),-41.034014,175.519136
+22662,Carterton - High Street South (Royal Oak),-41.036361,175.516429
+22663,Carterton - High Street South (near 439),-41.040473,175.512088
+23249,SH2 at Waihakeke Road,-41.050786,175.499210
+23248,Ahikouka - SH2 at Ahikouka Rd (hail and ride),-41.064653,175.488176
+22666,Greytown - Main Street (73 Main St),-41.079371,175.462098
+22668,Main Street (near 165),-41.084987,175.455949
+22669,Main Street at Papawai Road,-41.087345,175.453095
+23244,Tauherenikau - The Tin Hut,-41.118822,175.376837
+22729,SH2 at Camp Road,-41.118943,175.357736
+23245,SH2 at Boundary Road (southbound),-41.120120,175.337004
+22848,Fitzherbert Street (Chungs),-41.117770,175.326631
+22671,Featherston - Mobil Service Station,-41.117085,175.323545
+11728,Featherston Station,-41.113214,175.330127
+22672,Featherston - Kia Ora Dairy,-41.116601,175.323386
+22641,Fitzherbert Street at Birdwood Street,-41.117393,175.327010
+22847,Fitzherbert Street (Jims Kollectables),-41.117890,175.329648
+23230,Revans Street at Waite Street,-41.121378,175.330855
+22639,SH53 at Boundary Road,-41.124277,175.335865
+22608,SH53 at Camp Road,-41.134548,175.353097
+22609,SH53 at No 1 Line,-41.149950,175.368171
+22610,SH53 at Te Maire Road,-41.173674,175.400228
+23232,SH53 at Wards Line (hail and ride),-41.176187,175.418393
+22612,SH53 at Bidwills Cutting (Hail and Ride),-41.179701,175.434687
+22614,Martinborough - Kitchener Street (near 14),-41.216900,175.458245
+22615,Martinborough - Kitchener Street (BP),-41.217321,175.457962
+22617,Jellicoe Street at Naples Street,-41.219407,175.458553
+22619,Jellicoe Street at Venice Street,-41.220730,175.456467
+22620,Jellicoe Street at Grey Street,-41.222078,175.454071
+22621,Roberts Street at Grey Street,-41.218633,175.450460
+22622,Dublin Street at Roberts Street,-41.217408,175.452550
+22625,Princess Street at Venice Street,-41.216140,175.453302
+22624,Kitchener St (near 47),-41.214332,175.454905
+23246,SH53 at Bidwills Cutting (Hail and Ride),-41.180064,175.434176
+22611,SH53 at Wards Line,-41.176477,175.417902
+23233,SH53 at Te Maire Road (hail and ride),-41.173754,175.399397
+23234,SH53 at Kahutara Road,-41.150391,175.367745
+23235,SH53 at Camp Road (hail and ride),-41.134394,175.352281
+23236,SH53 at Murphys Line (hail and ride),-41.124743,175.335524
+23231,Revans Street at Waite Street (near 104),-41.121745,175.330546
+22727,SH2 at Boundary Road,-41.119420,175.337313
+23247,SH2 at Camp Road (hail and ride),-41.118157,175.357839
+22730,Tauherenikau - The Tin Hut (opposite),-41.118195,175.377148
+22670,Main Street at Humphries Street,-41.087068,175.452537
+22667,Greytown - Main Street (74 Main St),-41.079112,175.461540
+22731,Ahikouka - SH2 at Ahikouka Rd,-41.064230,175.487755
+22732,SH2 at Hodders Road,-41.050413,175.498554
+22642,Carterton - High Street South (near 438),-41.040243,175.511460
+22661,Carterton - High Street South (near 318),-41.035861,175.516220
+22645,Carterton - High Street South (near 256),-41.032462,175.519672
+22644,Carterton - High Street South (High St Dairy),-41.030238,175.522098
+22658,Carterton - High Street South (St Davids),-41.027460,175.524716
+22656,"Carterton - Police Station, Holloway Street",-41.025129,175.528767
+22646,Carterton - High Street North (near 245),-41.019710,175.531879
+22647,Clareville - SH2 at Chester Rd (nortbound),-41.008348,175.550473
+22733,Taratahi - SH2 at Wiltons Rd,-40.980660,175.585239
+23250,Waingawa - SH2 at Norfolk Rd,-40.969261,175.602266
+22648,High Street Masterton (near 202),-40.961817,175.626337
+22682,High Street Masterton (near 174),-40.961742,175.629673
+22631,High Street Masterton (near 142),-40.961386,175.633414
+22649,High Street Masterton (near 110),-40.960550,175.636899
+22632,Hadlow School,-40.959731,175.640835
+22650,Queen Street - Pak n Save,-40.957369,175.649178
+22920,Queen Street - The Warehouse,-40.955099,175.653116
+22640,Masterton Club - Chapel Street,-40.951114,175.656783
+22921,Masterton Recreation Centre,-40.947845,175.666918
+22676,Chapel Street at St Patricks School,-40.952767,175.654247
+22712,Wairarapa College - Pownall Street,-40.950146,175.646348
+22637,Chanel College,-40.959694,175.654666
+23252,Makoura College,-40.961287,175.666090
+23238,Wairarapa College - Renall Street (near 51),-40.950646,175.652036
+22977,Pownall Street at Tararua Street (hail and ride),-40.951243,175.644479
+22713,Cornwall Street at Pownall Street,-40.952320,175.641492
+22714,Masters Crescent at Cornwall Street,-40.950278,175.636599
+22715,Masters Crescent at Bennington Street,-40.949147,175.639192
+22716,Panama Village,-40.944383,175.639906
+22717,Fraser Street at Ballance Street,-40.941984,175.643185
+22718,Waterhouse Street at Stout Street,-40.940776,175.638480
+22719,Masonic Village,-40.941519,175.634363
+22720,Masonic Village (near 82),-40.940328,175.634423
+22721,Oak Street at Colville Street,-40.939340,175.637853
+22723,Upper Plain Road at Carverthen Street,-40.940741,175.630946
+22724,Upper Plain Road - Western Plains Plaza,-40.942653,175.633208
+22978,Upper Plain Road at Nash Place,-40.943486,175.634203
+22725,Renall Street at Essex Street,-40.947198,175.640908
+22726,Cole Street at Kummer Crescent,-40.945238,175.645096
+22635,St Matthews College (opposite),-40.944485,175.650460
+22675,Chapel Street - UCOL,-40.953119,175.654594
+22695,Michael Street (near 17),-40.955699,175.646201
+22677,Pownall Street at Kuripuni Street (Hail and Ride,-40.954588,175.639229
+22678,York Street at Plunket Street,-40.956804,175.635253
+22679,Freyberg Street (near 4),-40.960276,175.635486
+22684,Manchester Street at Dover Place,-40.963339,175.630342
+23240,Harley Street (near 54),-40.964850,175.633611
+22686,Harley Street (near 86),-40.964027,175.635325
+22685,Vivian Street (near 18),-40.963441,175.638915
+22687,South Road at Millard Avenue,-40.962823,175.642337
+22689,Masterton Central School (opposite),-40.961489,175.643947
+22690,South Road at Short Street,-40.960564,175.645004
+22691,South Road at Kuripuni Street,-40.958876,175.647123
+23186,Kuripuni Street,-40.959830,175.650298
+22692,Kuripuni Street at Timms Place,-40.963183,175.654948
+22693,Colombo Road at Herbert Street,-40.962212,175.658783
+23187,Colombo Road,-40.960308,175.661654
+22694,Worksop Road at Colombo Road,-40.958421,175.664573
+22696,Masterton District Council (Hail and Ride),-40.949118,175.660161
+22697,Choice Health - Chapel Street (Hail and Ride),-40.947588,175.662453
+22701,Te Ore Ore Road (near 15),-40.945455,175.672145
+22703,Te Ore Ore Road at Colombo Road,-40.947135,175.678189
+22704,Gordon Street at Roberts Road,-40.944873,175.684038
+22746,Roberts Road at Raglan Street,-40.944306,175.681675
+22705,Roberts Road at Kandahar Aged Care,-40.943592,175.674387
+22706,Keir Crescent (near 5),-40.940598,175.676073
+22975,Keir Crescent at Hinau Street,-40.940448,175.678657
+22707,Keir Crescent at Kitchener Street,-40.939111,175.679601
+22711,Kitchener Street at Totara Street (near 6),-40.938677,175.676590
+22708,Third Street (near 30),-40.940116,175.674723
+22709,Third Street at Lakeview School (near 10),-40.939838,175.671920
+22710,Opaki Road at Jordan Terrace,-40.942955,175.669978
+22777,Wood and Kempton Street (Hail and Ride),-41.080971,175.455038
+22788,Wood Street at Mole Street (Hail and Ride),-41.077150,175.449135
+22787,Kuratawhiti Street at Mole Street (Hail and Ride,-41.073017,175.453780
+22778,Kuratawhiti Street at West Street (Hail and Ride,-41.077737,175.461394
+22781,East Street at Papawai Road (near 166),-41.087182,175.454411
+22779,Massey Street at McMaster Street,-41.082645,175.466136
+22780,Jellicoe Street at Reading Street (Hail and Ride,-41.079655,175.464418
+22789,Reading Street at North Street (Hail and Ride),-41.075521,175.469049
+22786,Main Street at Papawai Road (Hail and Ride),-41.086782,175.452872
+22782,Humphries Street at Kempton Street (near 20),-41.085459,175.450704
+11729,Woodside Station,-41.067326,175.401676
+23341,Te Pene Avenue at Niblick Lane,-41.108995,174.837009
+23350,Lyttelton Avenue at Walton Leigh Avenue,-41.137677,174.842464
+23338,Te Pene Avenue at Ian Graves Close,-41.108797,174.836420
+23325,Wi Neera Drive at Tutu Place,-41.128281,174.839737
+23349,Prosser Street (Gerard Lighting),-41.132070,174.835959
+22448,St Patricks College - Evans Bay Parade,-41.313587,174.795536
+23323,Raiha Street at Broken Hill Road,-41.146170,174.830035
+23324,Raiha Street (near Camp Elsdon),-41.138462,174.828201
+23286,Whitireia Polytechnic - Wi Neera Drive,-41.124733,174.837423
+23342,Gloaming Hill (near 7),-41.113356,174.847694
+23344,Main Road (near 5),-41.104041,174.838158
+23343,Main Road (near 8),-41.104169,174.838066
+23345,Bay Drive at Richard Street,-41.102773,174.836360
+23346,John Street (near 11),-41.101196,174.837507
+23348,Prosser Street at Gluepot Lane,-41.132008,174.835909
+23339,Bedford Street (Cannons Creek Shopping Centre),-41.141965,174.864888
+23367,Bedford Street (near 164),-41.143313,174.867320
+23340,Bedford Street (near 122),-41.145519,174.867955
+11109,Bedford Street (near 92),-41.146754,174.865630
+11142,Bedford Street at Durham Street (near 70),-41.145832,174.863626
+11147,Hampshire Street at Bedford Street,-41.143948,174.863669
+23364,Aotea Drive (near 7),-41.123205,174.867027
+23363,Aotea Drive (near 27),-41.125139,174.866045
+23360,Aotea Drive at Nelson Avenue,-41.128198,174.864047
+23366,Aotea Drive (near 87),-41.128877,174.861028
+23356,Frances Brown Avenue at Queen Charlotte Drive,-41.126742,174.858229
+23354,Aotea College - Okowai Road (Oppostie),-41.124070,174.854116
+23355,Aotea College - Okowai Road,-41.124028,174.854496
+23357,Frances Brown Avenue at Road 3,-41.126580,174.858224
+23358,Aotea Drive at Kaimai Place (Opposite),-41.128761,174.860954
+23359,Aotea Drive at Kahurangi Heights,-41.127551,174.864505
+23362,Aotea Drive at Te Puia Drive (Opposite),-41.124761,174.866058
+23365,Aotea Drive at Aspiring Terrace,-41.123171,174.866895
+21728,Raumati Beach Shops - Margaret Road,-40.920164,174.981483
+21755,Jeep Road at Forest Road (near 15),-40.942450,174.976220
+21729,Rosetta Road (near 294),-40.921616,174.979294
+21731,Rosetta Road (near 254),-40.924382,174.978711
+21733,Rosetta Road at Menin Road (near 188),-40.927689,174.978156
+23293,Rosetta Road at Tiromoana Road,-40.932518,174.977029
+23292,Rosetta Road (near 6),-40.936352,174.976169
+23291,Poplar Avenue (near 43),-40.936273,174.979231
+21749,Poplar Avenue at Matai Road,-40.936823,174.981267
+21746,Raumati South School - Matai Road (near 51),-40.933648,174.983655
+21745,Matai Road at Tiromoana Road (near 65),-40.932281,174.984006
+21743,Matai Road at William Drive (near 95),-40.930032,174.984937
+23294,Menin Road (near 46),-40.927843,174.984384
+23295,Menin Road at Miro Road (opposite),-40.928028,174.982026
+21736,Menin Road at Renown Road (near 10),-40.928476,174.978976
+21734,Rosetta Road at Menin Road (near 185),-40.927728,174.977433
+21732,Rosetta Road (near 251),-40.924412,174.978023
+21730,Rosetta Road (near 307),-40.921584,174.978557
+21722,Raumati Beach Shops - Dental Centre,-40.918723,174.982010
+21724,Raumati Road at Kiwi Road (near 37),-40.920164,174.986221
+21767,Raumati Road at Matai Road (opposite 68),-40.921021,174.989311
+21769,Rimu Road (near 7),-40.923884,174.994610
+21771,"Rimu Road, Rimu Village (near 71)",-40.921304,174.996884
+21773,"Rimu Road, Coastal Villas (near 97)",-40.919811,174.998323
+21646,Coastlands - Woolworths,-40.917415,175.005115
+21624,Paraparaumu Station - Stop A,-40.916517,175.006976
+21723,Raumati Beach Shops - Raumati Road (near 24),-40.919325,174.982088
+21760,The Esplanade at Kainui Road (near 23),-40.938612,174.974680
+21758,Jeep Road at The Esplande (near 3),-40.942715,174.974398
+21754,Tennis Court Road at Kainui Road (near 50),-40.940087,174.977444
+21600,Kapiti Coast District Council,-40.915427,175.003868
+21599,Coastlands - Pak N Save,-40.917886,175.003906
+21774,"Rimu Road, Coastal Villas (near 98)",-40.920175,174.998643
+21772,"Rimu Road, Rimu Village (near 70)",-40.921767,174.997207
+21770,Rimu Road (near 8),-40.923989,174.995302
+21768,Raumati Road at Matai Road (near 68),-40.921516,174.989314
+21725,Raumati Road at Kiwi Road (Golden Coast Motel),-40.920451,174.985743
+21645,Kapiti Coast District Council (opposite),-40.916121,175.003342
+21601,Kapiti Road at Ngahina Street (near 39),-40.913000,175.004115
+21649,Paraparaumu Medical Centre - Kapiti Rd (opposite,-40.909472,175.000292
+21650,Kapiti Road (Mitre 10),-40.907655,174.998576
+23310,Aero Club - Kapiti Road,-40.901710,174.992319
+21658,Kapiti Road at Cedar Drive (Airfield side),-40.899344,174.989007
+21659,Kapiti Road at Magrath Avenue,-40.896784,174.985974
+23307,Kapiti Road at Tudor Court (opposite),-40.895618,174.984622
+21623,Paraparaumu Beach - Copperfield Shops,-40.893803,174.981232
+23305,McLean Street at Kapiti Road,-40.894306,174.982873
+11964,Kapiti Road at Golf Road (near 391),-40.891533,174.981758
+21671,Golf Road at George Street (near 29),-40.889716,174.983686
+21672,Golf Road at Nathan Avenue (near 61),-40.887335,174.986511
+21673,Golf Road at Whyte Street (near 103),-40.885216,174.989759
+21674,Martin Road at Arnold Grove (near 17),-40.884909,174.991863
+21675,Martin Road at Michael Road (near 39),-40.886772,174.994079
+21676,Martin Road at Walton Road (near 59),-40.888502,174.996125
+21677,Gray Avenue at Martin Road (near 84),-40.890292,174.996808
+21678,Gray Avenue at Callender Terrace (near 36),-40.892471,174.993704
+21679,Gray Avenue at Eatwell Avenue,-40.894246,174.991062
+23312,Murray Court (near 15),-40.893137,174.994816
+23314,Guildford Drive at Santa Teresa Court,-40.893127,174.998507
+23316,Guildford Drive (opposite 106),-40.894940,175.000425
+23319,Guildford Drive (Summerset Village),-40.898014,175.001883
+21689,Kapiti Village - Guildford Drive,-40.901370,175.002079
+21690,Te Roto Drive at Manchester Street (near 460),-40.904289,175.001051
+21691,Te Roto Drive at Kapiti Road (near 10),-40.906136,174.998411
+21692,Kapiti Road (Resene Paints),-40.907262,174.998920
+22227,Paraparaumu Medical Centre - Kapiti Rd,-40.909097,175.000637
+21644,Kapiti Road at Moana Road (near 36),-40.912912,175.004504
+21685,Langdale Avenue at Campbell Avenue (near 35),-40.900122,174.994586
+21686,Langdale Avenue (near 85),-40.899208,174.996351
+23318,Guildford Drive at Langdale Avenue,-40.898045,175.001611
+23317,Guildford Drive at Regent Drive,-40.895300,175.000484
+23315,Guildford Drive at Santa Teresa Court (opposite),-40.893283,174.998346
+23311,Murray Court at San Vito  Place,-40.893314,174.994963
+21662,Gray Avenue at Eatwell Avenue (near 3),-40.893946,174.990733
+21663,Gray Avenue at Callender Terrace (near 33),-40.892054,174.993371
+21664,Gray Avenue at Martin Road (near 83),-40.890074,174.996398
+21665,Martin Road at Walton Road (near 72),-40.888640,174.995464
+21666,Martin Road at Michael Road (near 46),-40.886874,174.993370
+21667,Martin Road at Arnold Grove (near 18),-40.885259,174.991458
+21668,Golf Road at Whyte Street (opposite),-40.886031,174.989487
+21669,Golf Road at Nathan Avenue (near 58),-40.887717,174.986772
+21670,Golf Road at George Street (near 30),-40.889430,174.984592
+21622,Kapiti Road at Golf Road (The Links),-40.891396,174.982407
+23308,Kapiti Road at Tudor Court,-40.895515,174.984844
+21682,Kapiti Road at Hurley Road,-40.897320,174.987308
+21683,Kapiti Road at Cedar Drive (opposite Airfield),-40.899425,174.990078
+23309,Aero Club - Kapiti Road (opposite),-40.901802,174.992725
+21720,Alexander Road at Karaka Grove (near 19),-40.916485,174.981753
+21718,Alexander Road at Tui Road (near 47),-40.914657,174.982233
+21716,Alexander Road at Ngaio Road (near 75),-40.912375,174.982415
+21714,Ngaio Road at Matatua Road (near 4),-40.912007,174.981774
+21712,Matatua Road at Tainui Street (near 91),-40.910022,174.979899
+21710,Wharemauku Road (near 9),-40.907304,174.979212
+21707,Wharemauku Road (near 63),-40.904401,174.977808
+21704,Tahi Street at Marine Parade (near 1),-40.902013,174.977820
+21701,Teoti Street at Tahi Street (near 40),-40.902623,174.979595
+21699,Teoti Street (near 14),-40.900507,174.981645
+21698,Toru Road at Bluegum Road (near 30),-40.899400,174.982099
+21696,Ocean Road at Bluegum Road (near 34),-40.896918,174.981847
+23306,Ocean Road at Seaview Road,-40.896202,174.979487
+22944,Seaview Road at Howell Road,-40.893130,174.981616
+21727,Kapiti College - Hillcrest Road North (near 116),-40.921827,174.986402
+21693,Seaview Road at Ocean Road (near 61),-40.895955,174.980251
+21695,Ocean Road at Bluegum Road (near 33),-40.896339,174.982020
+21697,Toru Road at Bluegum Road (near 31),-40.899035,174.982373
+21700,Teoti Street (near 15),-40.900750,174.982139
+21703,Teoti Street at Tahi Street (near 45),-40.902876,174.980042
+21705,Tahi Street at Marine Parade (near 2),-40.902536,174.977824
+21706,Wharemauku Road (near 54),-40.904264,174.978397
+21709,Wharemauku Road (near 8),-40.907192,174.979981
+21711,Matatua Road at Tainui Street (near 90),-40.910184,174.980426
+21713,Ngaio Road at Matatua Road (near 5),-40.911441,174.981698
+21715,Alexander Road at Ngaio Road (opposite 79),-40.912364,174.983020
+21717,Alexander Road at Tui Road (near 52),-40.914656,174.982815
+21719,Alexander Road at Karaka Grove (near 16),-40.916796,174.982475
+22228,Te Roto Drive at Kapiti Road,-40.905845,174.998046
+21651,Te Roto Drive at Manchester Street,-40.904017,175.000580
+21652,Kapiti Village - Guildford Drive (opposite),-40.901561,175.001479
+11965,Manly Street at Arthur Street (near 49),-40.887337,174.982713
+11966,Manly Street at Nathan Avenue (near 89),-40.884668,174.984461
+21626,Manly Street at Bahama Grove (near 113),-40.882808,174.985735
+21627,Manly Street at Mahana Road (near 153),-40.880201,174.988589
+21628,Ngapotiki Street (near 19),-40.881006,174.990986
+21629,Te Kupe Road at Watson Drive,-40.880333,174.992438
+21630,Te Kupe Road (near 37),-40.879323,174.996099
+21631,Hadfield Place (near 3),-40.879931,174.997446
+21632,Kotuku Park - Manly Street,-40.879682,174.999349
+21633,Manly Street (near 299),-40.880445,175.001568
+21634,Michael Road (near 84),-40.882275,175.002003
+21635,Michael Road (near 58),-40.883559,175.000131
+21636,Mazengarb Road at The Avenue,-40.885649,175.001190
+21637,Paraparaumu College,-40.888651,175.003655
+23269,Kapiti Health Centre (opposite),-40.910534,175.007627
+21638,Mazengarb Road at Ratanui Road (near 209),-40.894376,175.008516
+21639,Mazengarb Road at Realm Drive (near 259),-40.895720,175.009993
+21640,Mazengarb Road at Makarini Street (near 38),-40.900869,175.014304
+21641,Arawhata Road at Marere Avenue (near 142),-40.904709,175.011571
+21642,Arawhata Road (near 104),-40.905846,175.009432
+21643,Arawhata Road at Greenwood Place (near 6),-40.909747,175.002616
+23282,Tutanekai Street at Parakai Street (opposite),-40.908356,175.009057
+22767,Kapiti Health Centre,-40.910201,175.007593
+21602,Arawhata Road at Greenwood Place (near 7),-40.909754,175.001726
+21603,Arawhata Road (near 75),-40.905880,175.008460
+21604,Arawhata Road at Marere Avenue (near 103),-40.904579,175.010771
+21605,Mazengarb Road at Makarini Street,-40.900799,175.013684
+21606,Mazengarb Road at Realm Drive,-40.896652,175.010294
+21625,Mazengarb Road at Ratanui Road (near 212),-40.894785,175.008326
+21607,Paraparaumu College (opposite),-40.889256,175.003554
+21608,Mazengarb Road at The Avenue (near 72),-40.885928,175.000665
+21609,Michael Road (near 47),-40.883335,174.999566
+21610,Michael Road (near 67),-40.882047,175.001640
+21611,Manly Street (near 316),-40.880904,175.002092
+21612,Kotuku Park - Manly Street (near 280),-40.879815,174.998902
+21613,Hadfield Place (near 4),-40.880306,174.997600
+21614,Te Kupe Road (near 52),-40.879883,174.995534
+21615,Te Kupe Road at Watson Drive (Sea Scouts),-40.880291,174.993291
+21616,Ngapotiki Street (near 18),-40.881381,174.990653
+21617,Manly Street at Mahana Road (near 152),-40.880380,174.989187
+21619,Manly Street at Bahama Grove (near 108),-40.882951,174.986333
+21618,Manly Street at Nathan Avenue (near 82),-40.884694,174.984996
+21621,Manly Street at Arthur Street,-40.887047,174.983345
+23284,Tutanekai Street at Parakai Street (near 39),-40.908616,175.008614
+23299,Ruapehu Street at Riwai Street,-40.925133,175.010894
+23300,Ruapehu Street at Kaimanawa Street (opposite),-40.921054,175.011317
+23302,Ruapehu Street (near 48B),-40.919519,175.009952
+23296,Ruapehu Street at Redwood Close (opposite),-40.919204,175.009966
+23297,Ruapehu Street at Kaimanawa Street,-40.921075,175.011650
+21598,Lindale Tourist Centre,-40.903108,175.021768
+23321,Whitireia Polytechnic Kapiti Campus,-40.903957,175.020072
+23304,Tararua Street (near 18),-40.914036,175.012411
+23303,Tararua Street (near 17),-40.913925,175.012562
+12003,Waikanae Beach South - Waimea Road (near 68),-40.866475,175.025757
+12004,Queens Road (near 6),-40.868702,175.022562
+12007,Queens Road at Campion Road,-40.870443,175.018829
+12008,Queens Road at Napier Grove (near 64),-40.871972,175.016384
+12009,Barrett Drive at Queens Road,-40.872395,175.013821
+12010,Barrett Drive at Marina Lagoon,-40.871573,175.011388
+12011,Tutere Street at Pio Pio Place (near 167),-40.868773,175.012822
+12012,Tutere Street at Eruini Street (near 133),-40.866556,175.015460
+12014,Tutere Street at Waimea Road (near 87),-40.864378,175.019464
+12015,Waikanae Beach Domain -Tutere Street,-40.862694,175.022023
+23085,Tutere Street at Hemara Street,-40.860669,175.024999
+23087,Heperi Street (near 21),-40.860406,175.028183
+12022,Field Way at Konini Crescent (near 21),-40.859103,175.030077
+12023,Field Way at Hughes Street,-40.855381,175.031684
+12024,Field Way at William Street,-40.852991,175.034411
+12025,Reeves Street (near 7),-40.852923,175.037232
+12026,Rutherford Street at Freyberg Crescent,-40.855480,175.037820
+12027,William Street at Rutherford Drive (near 44),-40.856176,175.035682
+12029,William Street at Toru Street (near 8),-40.858351,175.032379
+12030,Field Way at Konini Crescent (near 14),-40.859801,175.029813
+23088,Huiawa Street at Hona Street,-40.863067,175.029035
+12018,Waikanae Beach - Rauparaha St Tennis Courts,-40.865880,175.028860
+12019,Te Moana Road (Toledo Park Motel),-40.866240,175.030923
+11995,Te Moana Road (near 167),-40.870321,175.036056
+11997,Te Moana Road at Greenaway Road,-40.872474,175.037059
+11998,Te Moana Road at Walton Avenue,-40.874804,175.041818
+11999,Te Moana Road (near 311),-40.877327,175.044815
+12000,Te Moana Road at Windsor (near 347),-40.878150,175.047202
+12001,Te Moana Road at Leybourne (near 387),-40.878578,175.050989
+11979,Ngarara Road at Horopito (near 4),-40.878441,175.051590
+11980,Ngarara Road at Kohe Kohe (near 26),-40.876419,175.051302
+11981,Waikanae Park Pool - Ngarara Road,-40.873568,175.052104
+11982,Belvedere Avenue at Matai Street (near 127),-40.871505,175.054627
+11983,Belvedere Avenue at Kapanui Road (near 101),-40.869838,175.056676
+11984,Sylvan Avenue at Belvedere Avenue,-40.868789,175.060441
+11985,Sylvan Avenue (near 39),-40.869196,175.062886
+11986,Sylvan Avenue at Graham Grove (near 17),-40.870374,175.065510
+11987,Sylvan Avenue at Parata Street (near 1),-40.871353,175.067664
+11988,Parata Street at Our Lady of Fatima,-40.873533,175.066652
+11968,Parata Street at Our Lady of Fatima (opposite),-40.873315,175.066277
+21597,Parata Street at Sylvan Avenue (near 54),-40.871734,175.067522
+11969,Sylvan Avenue at Graham Grove (near 22),-40.870675,175.065282
+11970,Sylvan Avenue (near 46),-40.869522,175.062778
+11971,Sylvan Avenue at Belvedere Avenue (near 62),-40.868916,175.060908
+11972,Belvedere Avenue at Kapanui Road (near 78),-40.870142,175.056816
+11975,Belvedere Avenue at Matai Street (near 96),-40.871649,175.055154
+11973,Waikanae Park Pool - Ngarara Road (near 49),-40.873848,175.052564
+11976,Ngarara Road at Kohe Kohe (near 25),-40.876292,175.051903
+11977,Ngarara Road at Te Moana (near 3),-40.878899,175.052197
+11989,Te Moana Road at Leybourne (near 382),-40.878599,175.050301
+11990,Te Moana Road at Richmond (near 348),-40.878501,175.046192
+11991,Te Moana Road at Nimmo Avenue (near 290),-40.876446,175.043185
+11992,Te Moana Road at Walton Avenue (near 260),-40.875056,175.041292
+11993,Te Moana Road at Greenaway Road (near 214),-40.872809,175.036927
+11994,Te Moana Road (near 164),-40.870358,175.035440
+12002,Te Moana Road at Lavinia Grove (near 78),-40.866617,175.029476
+23322,Waikanae Station State Highway 1,-40.876720,175.065742
+22551,"Raumati Road, Chocolate Factory (near 139)",-40.925389,174.996650
+22552,"Raumati Road, Chocolate Factory (near 156)",-40.925791,174.996330
+22985,Otaki Town - Aotaki Street (Woolworths),-40.753270,175.140529
+22964,Aotaki Street at Warenga Road,-40.755894,175.138919
+23054,Aotaki Street at Kirk Street,-40.757190,175.137527
+22990,Rangiuru Road at Riverbank Road,-40.754409,175.124194
+22992,Rangiuru Road at Old Coach Road,-40.754879,175.120726
+22993,Rangiuru Road at Te Whena Street,-40.753712,175.113628
+22427,Rangiuru Road at The Avenue,-40.749938,175.110145
+22749,Marine Parade at Rangiuru Road,-40.747663,175.108948
+22995,Marine Parade at Scott Avenue,-40.742429,175.112407
+22996,Otaki Beach - Marine Parade (Surf Club),-40.738913,175.114972
+22997,Koromiko Street at Marine Parade,-40.735290,175.118043
+22999,Koromiko Street - Alexander Rest Home,-40.736107,175.120615
+23154,Ngaio Street at Manuka Street (near 12),-40.739618,175.121721
+23056,Ngaio Road at Tasman Road,-40.742682,175.119711
+23000,Tasman Road at Robert McKeen Street,-40.743794,175.120942
+22586,Otaki Town - Tasman Road (Wananga),-40.751487,175.136610
+22986,Otaki Town - Mill Road (Raukawa Marae),-40.753036,175.140995
+22585,134 Mill Road (Hail and Ride),-40.754290,175.144790
+22760,Otaki Community Health Centre,-40.756270,175.149249
+22587,Otaki College - Mill Road (opposite),-40.757881,175.153187
+22757,Mill Road at Hariata Street (near 274),-40.759546,175.156640
+22961,Te Manuao Road - Highway Baptist Church,-40.756908,175.163794
+22423,Te Manuao Road (near 24),-40.757905,175.166823
+23002,Freemans Road at Te Manuao Road,-40.759366,175.170057
+22456,Freemans Road at Brandon Street,-40.762550,175.168431
+23003,Freemans Road at Rahui Road,-40.765422,175.168524
+22457,Rahui Road at Te Roto Road,-40.762983,175.162166
+22532,Otaki Station - Arthur Street,-40.762823,175.156237
+22982,Main Road - New World (opposite),-40.764082,175.153505
+22980,Main Road  at Riverbank Road (Hail and Ride),-40.768293,175.146508
+21648,Te Horo Road at SH1,-40.798879,175.122990
+21647,Peka Peka Road at SH1,-40.839928,175.086010
+22979,Main Road  at Riverbank Road (Hail and Ride),-40.768032,175.146002
+22981,Main Road - New World,-40.763915,175.153251
+22983,Mill Road at Dunstan Street (near 273),-40.759793,175.156447
+22424,Otaki College - Mill Road,-40.758173,175.152995
+22761,Otaki Community Health Centre (opposite),-40.756525,175.149103
+22425,Otaki Primary School,-40.754319,175.143690
+23369,Otaki Library - Aotaki Street,-40.753203,175.140242
+22518,Whenua Tapu Cemetery,-41.057704,174.873761
+22590,"Manakau - SH1 (Hail & Ride, southbound)",-40.715497,175.215931
+22426,Otaki Town - Tasman Road (Hotel),-40.751896,175.136421
+22430,Tasman Road (Hail & Ride),-40.745483,175.123175
+22579,Tasman Road West (Hail & Ride),-40.741703,175.117109
+22555,Otaki Beach - Toi Street (Hail & Ride),-40.737528,175.119784
+22431,Otaki Beach - Toi Street (Hail & Ride),-40.737850,175.119427
+22588,Moana Street (Hail & Ride),-40.737791,175.117696
+22589,Tasman Road West (Hail & Ride),-40.741458,175.117706
+22581,Tasman Road (Hail & Ride),-40.745240,175.123653
+22435,Waerenga Road West (Hail & Ride),-40.758776,175.145764
+22545,Waerenga Road East at Dunstan Street (Hail & Rid,-40.763037,175.151528
+22584,"Manakau - SH1 (Hail & Ride, northbound)",-40.715428,175.215301
+23169,Foxton,-40.471841,175.286348
+11853,Interislander Ferry Terminal,-41.264426,174.787000
+22939,"Platform 9, Wellington Station",-41.278920,174.781018
+11950,South Karori - Hazelwood Avenue (near 100),-41.298673,174.721970
+11948,Hazelwood Avenue (near 62),-41.296921,174.724110
+11946,Hazelwood Avenue (near 16),-41.294024,174.723890
+11944,Hazelwood Avenue (near 30),-41.293061,174.722659
+11962,Collier Avenue (near 15),-41.288019,174.727948
+11960,Parklands Drive at Lynmouth Avenue,-41.289556,174.726974
+11958,Landsdowne Terrace at Parklands Dr (near 1),-41.290975,174.726020
+11956,Woodhouse Avenue at Parklands Dr (near 54),-41.292056,174.724770
+11954,Woodhouse Avenue (near 24),-41.290106,174.725078
+11952,Woodhouse Avenue at South Karori Rd,-41.289014,174.724034
+11935,Montgomery Ave at Skyline Reserve (near 90),-41.278737,174.727084
+11834,Kelburn - Cable Car Station,-41.285596,174.767383
+11835,Salamanca Road - Cable Car Station,-41.285173,174.769724
+11836,Talavera Terrace - Cable Car Station,-41.284717,174.771849
+11837,Lambton Quay - Cable Car Station,-41.284197,174.774629
+11740,Days Bay Wharf,-41.280627,174.905198
+11741,Matiu/Somes Island Wharf,-41.254295,174.866271
+23170,Seatoun Wharf,-41.318781,174.830263
+11742,Queens Wharf (Harbour Ferry Terminal),-41.283983,174.779160
+22940,Petone Wharf,-41.229391,174.870733
+11725,Upper Hutt Station,-41.126142,175.070802
+11724,Wallaceville Station,-41.130424,175.058475
+11723,Trentham Station,-41.137804,175.038427
+11722,Heretaunga Station,-41.142478,175.025679
+11721,Silverstream Station,-41.147304,175.010289
+11720,Manor Park Station,-41.156301,174.978958
+11719,Pomare Station,-41.169566,174.969581
+11718,Taita Station,-41.180160,174.961003
+11717,Wingate Station,-41.188952,174.954539
+11716,Naenae Station,-41.198312,174.945372
+11715,Epuni Station,-41.207648,174.930023
+11714,Waterloo Station,-41.214030,174.921025
+11713,Woburn Station,-41.220784,174.911321
+11712,Ava Station,-41.219748,174.892134
+11709,Petone Station,-41.221958,174.869198
+11708,Ngauranga Station,-41.249025,174.813040
+11707,Kaiwharawhara Station,-41.259514,174.791868
+11684,Wellington Station,-41.279054,174.780484
+11711,Melling Station,-41.203809,174.905153
+11710,Western Hutt Station,-41.211857,174.890023
+11676,Johnsonville Station,-41.223657,174.804733
+11677,Raroa Station,-41.232124,174.801779
+11678,Khandallah Station,-41.243121,174.793106
+11679,Box Hill Station,-41.246087,174.788879
+11680,Simla Crescent Station,-41.246842,174.784305
+11681,Awarua Street Station,-41.246237,174.775577
+11682,Ngaio Station,-41.251453,174.771409
+11683,Crofton Downs Station,-41.255437,174.766492
+11702,Waikanae Station,-40.876599,175.065964
+11701,Paraparaumu Station,-40.916714,175.007089
+11699,Paekakariki Station,-40.987254,174.954457
+11698,Muri Station,-41.033624,174.892802
+11697,Pukerua Bay Station,-41.038402,174.886503
+11696,Plimmerton Station,-41.083651,174.867245
+11695,Mana Station,-41.095264,174.868192
+11694,Paremata Station,-41.106064,174.866484
+11693,Porirua Station,-41.137261,174.843680
+11692,Kenepuru Station,-41.149629,174.838496
+11691,Linden Station,-41.158876,174.831924
+11690,Tawa Station,-41.169328,174.828256
+11687,Redwood Station,-41.175575,174.826760
+11685,Takapu Road Station,-41.185126,174.828240
+11706,Palmerston North Station,-40.344187,175.593871
+11705,Shannon Station,-40.547308,175.409492
+11704,Levin Station,-40.629702,175.278539
+11703,Otaki Station,-40.762956,175.156395
+11838,Auckland - Britomart Station,-36.844166,174.767438
+22453,Middlemore Station,-36.966685,174.843340
+11839,Papakura Station,-37.081800,174.932733
+11840,Pukekohe Station,-37.207922,174.909468
+11841,Hamilton Station,-37.790929,175.249472
+11843,Otorohanga Station,-38.188533,175.204542
+11844,Te Kuiti Station,-38.336606,175.156058
+11845,Taumarunui Station,-38.892154,175.267626
+11846,National Park Station,-39.182837,175.394487
+11847,Ohakune Station,-39.411438,175.415681
+11849,Taihape Station,-39.677393,175.797413
+11850,Marton Station,-40.083010,175.399636
+11851,Feilding Station,-40.216126,175.571936
+11735,Masterton Station,-40.940349,175.655202
+11733,Renall Street Station,-40.947344,175.639239
+11732,Solway Station,-40.953728,175.624734
+11731,Carterton Station,-41.021934,175.523257
+11730,Matarawa Station,-41.048657,175.448358
+11726,Maymorn Station,-41.108182,175.132761
